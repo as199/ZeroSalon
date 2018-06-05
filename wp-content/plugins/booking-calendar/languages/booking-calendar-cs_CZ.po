@@ -1,0 +1,1844 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Booking Calendar\n"
+"POT-Creation-Date: 2017-02-06 22:34+0400\n"
+"PO-Revision-Date: 2017-02-06 20:14+0100\n"
+"Last-Translator: Dominik Stastny\n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/controllers/Payment.php:143 admin/controllers/Reservations.php:380
+#: admin/views/Reservations.php:367 booking_calendar.php:113
+#: includes/admin_menu.php:60 includes/admin_menu.php:78
+#: includes/admin_menu.php:91 includes/booking_class.php:619
+#: includes/booking_class.php:1320 includes/main_class.php:516
+#: includes/wpdevart_lib.php:363 includes/wpdevart_lib.php:378
+msgid "Hour"
+msgstr "Hodina"
+
+#: admin/controllers/Payment.php:148 admin/controllers/Reservations.php:385
+#: admin/views/Reservations.php:219 includes/booking_class.php:1325
+msgid "Details"
+msgstr "Detaily"
+
+#: admin/controllers/Payment.php:149 admin/controllers/Reservations.php:386
+#: admin/views/Reservations.php:160 includes/booking_class.php:1326
+msgid "Reservation dates"
+msgstr "Datumy rezervace"
+
+#: admin/controllers/Payment.php:150 admin/controllers/Reservations.php:387
+#: admin/views/Reservations.php:220 includes/booking_class.php:624
+#: includes/booking_class.php:1327 includes/main_class.php:521
+msgid "Item Count"
+msgstr "Počet"
+
+#: admin/controllers/Payment.php:151 admin/controllers/Reservations.php:388
+#: admin/views/Reservations.php:221 includes/admin_menu.php:61
+#: includes/admin_menu.php:92 includes/booking_class.php:625
+#: includes/booking_class.php:1328 includes/main_class.php:523
+#: includes/textfortr.php:69 includes/wpdevart_lib.php:364
+#: includes/wpdevart_lib.php:379
+msgid "Price"
+msgstr "Cena"
+
+#: admin/controllers/Payment.php:152 admin/controllers/Reservations.php:389
+#: admin/views/Reservations.php:222 includes/booking_class.php:626
+#: includes/booking_class.php:1329
+msgid "Total Price"
+msgstr "Celkem"
+
+#: admin/controllers/Payment.php:170 admin/controllers/Reservations.php:407
+#: admin/views/Reservations.php:272 includes/booking_class.php:668
+#: includes/booking_class.php:1347
+msgid "Extra Information"
+msgstr "Extra informace"
+
+#: admin/controllers/Payment.php:183 admin/controllers/Reservations.php:420
+#: admin/views/Reservations.php:285 includes/booking_class.php:685
+#: includes/main_class.php:536
+msgid "Price change"
+msgstr "Změna ceny"
+
+#: admin/controllers/Reservations.php:552 admin/models/Reservations.php:276
+#: includes/booking_class.php:2072
+msgid "Select Country"
+msgstr "Vyber zemi"
+
+#: admin/views/Calendars.php:18 admin/views/UserPermissions.php:15
+msgid "Calendars"
+msgstr "Kalendáře"
+
+#: admin/views/Calendars.php:20 admin/views/Calendars.php:249
+msgid "Add Calendar"
+msgstr "Přidat kalendář"
+
+#: admin/views/Calendars.php:21 admin/views/Calendars.php:33
+#: admin/views/Calendars.php:44 admin/views/Extras.php:21
+#: admin/views/Extras.php:39 admin/views/Extras.php:49 admin/views/Forms.php:21
+#: admin/views/Forms.php:39 admin/views/Forms.php:49
+#: admin/views/Reservations.php:97 admin/views/Reservations.php:386
+#: admin/views/Themes.php:21 admin/views/Themes.php:39
+#: admin/views/Themes.php:49
+msgid "Delete"
+msgstr "Smazat"
+
+#: admin/views/Calendars.php:29 admin/views/Extras.php:36
+#: admin/views/Forms.php:36 admin/views/Reservations.php:154
+#: admin/views/Themes.php:36
+msgid "ID"
+msgstr "ID"
+
+#: admin/views/Calendars.php:30 admin/views/Extras.php:37
+#: admin/views/Forms.php:37 admin/views/Themes.php:37
+msgid "Title"
+msgstr "Název"
+
+#: admin/views/Calendars.php:31
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: admin/views/Calendars.php:32 admin/views/Calendars.php:43
+#: admin/views/Extras.php:38 admin/views/Extras.php:48 admin/views/Forms.php:38
+#: admin/views/Forms.php:48 admin/views/Reservations.php:390
+#: admin/views/Themes.php:38 admin/views/Themes.php:48
+msgid "Edit"
+msgstr "Upravit"
+
+#: admin/views/Calendars.php:83
+msgid "Calendar Title"
+msgstr "Název kalendáře"
+
+#: admin/views/Calendars.php:90
+msgid "Theme"
+msgstr "Vzhled"
+
+#: admin/views/Calendars.php:99
+msgid "Form"
+msgstr "Formulář"
+
+#: admin/views/Calendars.php:107
+msgid "Extra"
+msgstr "Rozšíření"
+
+#: admin/views/Calendars.php:223
+msgid "Start Date"
+msgstr "Počáteční datum"
+
+#: admin/views/Calendars.php:230
+msgid "End Date"
+msgstr "Koncové datum"
+
+#: admin/views/Calendars.php:244
+msgid "Edit Calendar"
+msgstr "Editovat kalendář"
+
+#: admin/views/Calendars.php:302 admin/views/Themes.php:2219
+msgid "Current"
+msgstr "Nynější"
+
+#: admin/views/Calendars.php:303 admin/views/Themes.php:2220
+#: includes/textfortr.php:2
+msgid "January"
+msgstr "Leden"
+
+#: admin/views/Calendars.php:304 admin/views/Themes.php:2221
+#: includes/textfortr.php:3
+msgid "February"
+msgstr "Únor"
+
+#: admin/views/Calendars.php:305 admin/views/Themes.php:2222
+#: includes/textfortr.php:4
+msgid "March"
+msgstr "Březen"
+
+#: admin/views/Calendars.php:306 admin/views/Themes.php:2223
+#: includes/textfortr.php:5
+msgid "April"
+msgstr "Duben"
+
+#: admin/views/Calendars.php:307 admin/views/Themes.php:2224
+#: includes/textfortr.php:6 includes/textfortr.php:20
+msgid "May"
+msgstr "Květen"
+
+#: admin/views/Calendars.php:308 admin/views/Themes.php:2225
+#: includes/textfortr.php:7
+msgid "June"
+msgstr "Červen"
+
+#: admin/views/Calendars.php:309 admin/views/Themes.php:2226
+#: includes/textfortr.php:8
+msgid "July"
+msgstr "Červenec"
+
+#: admin/views/Calendars.php:310 admin/views/Themes.php:2227
+#: includes/textfortr.php:9
+msgid "August"
+msgstr "Srpen"
+
+#: admin/views/Calendars.php:311 admin/views/Themes.php:2228
+#: includes/textfortr.php:10
+msgid "September"
+msgstr "Září"
+
+#: admin/views/Calendars.php:312 admin/views/Themes.php:2229
+#: includes/textfortr.php:11
+msgid "October"
+msgstr "Říjen"
+
+#: admin/views/Calendars.php:313 admin/views/Themes.php:2230
+#: includes/textfortr.php:12
+msgid "November"
+msgstr "Listopad"
+
+#: admin/views/Calendars.php:314 admin/views/Themes.php:2231
+#: includes/textfortr.php:13
+msgid "December"
+msgstr "Prosinec"
+
+#: admin/views/Extras.php:18 admin/views/UserPermissions.php:39
+msgid "Extras"
+msgstr "Rozšíření"
+
+#: admin/views/Extras.php:20 admin/views/Extras.php:159
+msgid "Add Extra"
+msgstr "Přidat rozšíření"
+
+#: admin/views/Extras.php:154
+msgid "Edit Extra"
+msgstr "Upravit rozšíření"
+
+#: admin/views/Extras.php:164
+msgid "Extra Name"
+msgstr "Název rozšíření"
+
+#: admin/views/Extras.php:175
+msgid "Extras fields"
+msgstr "Rozšiřující pole"
+
+#: admin/views/Forms.php:18 admin/views/UserPermissions.php:31
+msgid "Forms"
+msgstr "Formuláře"
+
+#: admin/views/Forms.php:20 admin/views/Forms.php:117
+msgid "Add Form"
+msgstr "Přidat formulář"
+
+#: admin/views/Forms.php:112
+msgid "Edit Form"
+msgstr "Upravit formulář"
+
+#: admin/views/Forms.php:122
+msgid "Form Name"
+msgstr "Název formuláře"
+
+#: admin/views/Forms.php:126
+msgid "Add form field"
+msgstr "Přidat pole formuláře"
+
+#: admin/views/Forms.php:129
+msgid "Text"
+msgstr "Text"
+
+#: admin/views/Forms.php:130
+msgid "Textarea"
+msgstr "Textarea"
+
+#: admin/views/Forms.php:131
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: admin/views/Forms.php:133
+msgid "Drop down"
+msgstr "Drop down"
+
+#: admin/views/Forms.php:134
+msgid "Drop down(Countries)"
+msgstr "Drop down (Země)"
+
+#: admin/views/Forms.php:141
+msgid "Form fields"
+msgstr "Pole formuláře"
+
+#: admin/views/Reservations.php:51
+msgid "Reservations List View"
+msgstr "Seznamy rezervací"
+
+#: admin/views/Reservations.php:54 admin/views/Reservations.php:438
+#: admin/views/Reservations.php:482
+msgid "Select Calendar"
+msgstr "Vyber kalendář"
+
+#: admin/views/Reservations.php:59 admin/views/Reservations.php:443
+#: admin/views/Reservations.php:487
+msgid "Reservation List View"
+msgstr "Přehled rezervací - seznam"
+
+#: admin/views/Reservations.php:60 admin/views/Reservations.php:444
+#: admin/views/Reservations.php:488
+msgid "Reservation Month View"
+msgstr "Přehled rezervací - měsíční"
+
+#: admin/views/Reservations.php:61 admin/views/Reservations.php:445
+#: admin/views/Reservations.php:479 admin/views/Reservations.php:489
+msgid "Add Reservation"
+msgstr "Přidat rezervaci"
+
+#: admin/views/Reservations.php:66
+msgid "Statistics"
+msgstr "Statistika"
+
+#: admin/views/Reservations.php:69
+msgid "Actions"
+msgstr "Akce"
+
+#: admin/views/Reservations.php:72
+msgid "Filters"
+msgstr "Filtry"
+
+#: admin/views/Reservations.php:79 admin/views/Reservations.php:87
+msgid "New reservations"
+msgstr "Nové rezervace"
+
+#: admin/views/Reservations.php:94 admin/views/Reservations.php:379
+msgid "Approve"
+msgstr "Schválit"
+
+#: admin/views/Reservations.php:95 admin/views/Reservations.php:381
+msgid "Reject"
+msgstr "Odmítnout"
+
+#: admin/views/Reservations.php:96 admin/views/Reservations.php:384
+#: admin/views/Reservations.php:394
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: admin/views/Reservations.php:98 admin/views/Reservations.php:371
+msgid "Mark as read"
+msgstr "Označit jako přečtené"
+
+#: admin/views/Reservations.php:102
+msgid "Select Status"
+msgstr "Vyber status"
+
+#: admin/views/Reservations.php:104
+msgid "Approved"
+msgstr "Schváleno"
+
+#: admin/views/Reservations.php:107
+msgid "Canceled"
+msgstr "Zrušeno"
+
+#: admin/views/Reservations.php:110
+msgid "Rejected"
+msgstr "Odmítnuto"
+
+#: admin/views/Reservations.php:113
+msgid "Pending"
+msgstr "V řešení"
+
+#: admin/views/Reservations.php:117
+msgid "Period"
+msgstr "Doba"
+
+#: admin/views/Reservations.php:126
+msgid "Search"
+msgstr "Hledat"
+
+#: admin/views/Reservations.php:155
+msgid "Status"
+msgstr "Status"
+
+#: admin/views/Reservations.php:156
+msgid "Reservation information"
+msgstr "Rezervační informace"
+
+#: admin/views/Reservations.php:158
+msgid "Payment information"
+msgstr "Informace o platbě"
+
+#: admin/views/Reservations.php:232 includes/booking_class.php:632
+msgid "Hours"
+msgstr "Hodiny"
+
+#: admin/views/Reservations.php:254 includes/booking_class.php:651
+msgid "Contact Information"
+msgstr "Informace ke kontaktu"
+
+#: admin/views/Reservations.php:292
+msgid "Billing address"
+msgstr "Fakturační adresa"
+
+#: admin/views/Reservations.php:310
+msgid "Shipping address"
+msgstr "Dodací adresa"
+
+#: admin/views/Reservations.php:332
+msgid "Payment method - "
+msgstr "Způsob platby"
+
+#: admin/views/Reservations.php:337
+msgid "Payment Status"
+msgstr "Platby"
+
+#: admin/views/Reservations.php:346
+msgid "Paymant Information"
+msgstr "Informace o plátci"
+
+#: admin/views/Reservations.php:371
+msgid "New"
+msgstr "Nový"
+
+#: admin/views/Reservations.php:392
+msgid "Quick Edit"
+msgstr "Rychlá úprava"
+
+#: admin/views/Reservations.php:395
+msgid "Update"
+msgstr "Aktualizovat"
+
+#: admin/views/Reservations.php:401
+msgid "Created:"
+msgstr "Vytvořil:"
+
+#: admin/views/Reservations.php:435
+msgid "Reservations Month View"
+msgstr "Měsíční přehled rezervací"
+
+#: admin/views/Themes.php:18 admin/views/UserPermissions.php:47
+msgid "Themes"
+msgstr "Vzhledy"
+
+#: admin/views/Themes.php:20 admin/views/Themes.php:2129
+msgid "Add Theme"
+msgstr "Přidat vzhled"
+
+#: admin/views/Themes.php:67
+msgid "General"
+msgstr "Hlavní"
+
+#: admin/views/Themes.php:72
+msgid "Date format"
+msgstr "Formát data"
+
+#: admin/views/Themes.php:73
+msgid "Select date format for emails and the reservation table"
+msgstr "Vyber formát data pro e-maily a rezervační kalendář"
+
+#: admin/views/Themes.php:85
+msgid "Week days format"
+msgstr "Formát dnů v týdnu"
+
+#: admin/views/Themes.php:86
+msgid "Select week days format"
+msgstr "Vyber formát týdnů"
+
+#: admin/views/Themes.php:88 admin/views/Themes.php:114
+#: admin/views/Themes.php:167 includes/textfortr.php:30
+msgid "Sunday"
+msgstr "Neděle"
+
+#: admin/views/Themes.php:89 includes/textfortr.php:39
+msgid "Sun"
+msgstr "Ned"
+
+#: admin/views/Themes.php:90 includes/textfortr.php:48
+msgid "Su"
+msgstr "Ne"
+
+#: admin/views/Themes.php:111
+msgid "Start Day of the week"
+msgstr "Počáteční den týdne"
+
+#: admin/views/Themes.php:112
+msgid "Select start day of the week for Calendar"
+msgstr "Vyber počáteční den týdne kalendáře"
+
+#: admin/views/Themes.php:115 admin/views/Themes.php:168
+#: includes/textfortr.php:31
+msgid "Monday"
+msgstr "Pondělí"
+
+#: admin/views/Themes.php:116 admin/views/Themes.php:169
+#: includes/textfortr.php:32
+msgid "Tuesday"
+msgstr "Úterý"
+
+#: admin/views/Themes.php:117 admin/views/Themes.php:170
+#: includes/textfortr.php:33
+msgid "Wednesday"
+msgstr "Středa"
+
+#: admin/views/Themes.php:118 admin/views/Themes.php:171
+#: includes/textfortr.php:34
+msgid "Thursday"
+msgstr "Čtvrtek"
+
+#: admin/views/Themes.php:119 admin/views/Themes.php:172
+#: includes/textfortr.php:35
+msgid "Friday"
+msgstr "Pátek"
+
+#: admin/views/Themes.php:120 admin/views/Themes.php:173
+#: includes/textfortr.php:36
+msgid "Saturday"
+msgstr "Sobota"
+
+#: admin/views/Themes.php:127
+msgid "Default Year"
+msgstr "Výchozí rok"
+
+#: admin/views/Themes.php:128
+msgid "Type here default year(for example 2018)"
+msgstr "Zadej výchozí rok (např. 2020)"
+
+#: admin/views/Themes.php:134
+msgid "Default Month"
+msgstr "Výchozí měsíc"
+
+#: admin/views/Themes.php:135
+msgid "Select default month for Calendar"
+msgstr "Vyber výchozí měsíc kalendáře"
+
+#: admin/views/Themes.php:142
+msgid "Calendar Animation type"
+msgstr "Typ animace kalendáře"
+
+#: admin/views/Themes.php:143
+msgid "Select calendar animation type"
+msgstr "Vyber typ animace kalendáře"
+
+#: admin/views/Themes.php:151
+msgid ""
+"After selecting date or hour on calendar you will be scroll down to the "
+"form, so correct the scrolling distance using this option, type only "
+"numbers(also you can type reverse numbers, for example -150)"
+msgstr ""
+"Po zvolení data v kalendáři dojde k posunu k formuláři - tuto vzdálenost lze "
+"upravit tímto nastavením. Zadej pouze číslo (může být i záporné -5/0/5 )"
+
+#: admin/views/Themes.php:157
+msgid "Show Form before select the days"
+msgstr "Zobraz formulář před výběrem dnů"
+
+#: admin/views/Themes.php:158
+msgid ""
+"Use this option if you need to display form before users select date or hour "
+"on the calendar"
+msgstr ""
+"Použij v případě potřeby zobrazení formuláře před výběrem data, nebo hodiny "
+"v kalendáři"
+
+#: admin/views/Themes.php:164
+msgid "Unavailable week days"
+msgstr "Nedostupné dny v týdnu"
+
+#: admin/views/Themes.php:165
+msgid "Select unavailable week days for calendar"
+msgstr "Vyber nedostupné dny v týdnu"
+
+#: admin/views/Themes.php:180
+msgid "Type of days selection in calendar"
+msgstr "Způsob výběru dní v kalendáři"
+
+#: admin/views/Themes.php:181
+msgid "Select the type of days selection in calendar"
+msgstr "Vyber způsob výběrů dní v kalendáři"
+
+#: admin/views/Themes.php:183
+msgid "Multiple days"
+msgstr "Více dní"
+
+#: admin/views/Themes.php:183
+msgid "Single day"
+msgstr "Jednotlivé dny"
+
+#: admin/views/Themes.php:189 admin/views/Themes.php:190
+msgid "Calculate price for night"
+msgstr "Počítat ceny za noc"
+
+#: admin/views/Themes.php:196
+msgid "Enable Check in/Check out"
+msgstr "Povolit check-in/check-out"
+
+#: admin/views/Themes.php:197
+msgid "Show Check in/Check out text in Form"
+msgstr "Zobraz check-in/check-out ve formuláři"
+
+#: admin/views/Themes.php:203
+msgid "Show items number in form"
+msgstr "Zobraz počet položek ve formuláři"
+
+#: admin/views/Themes.php:204
+msgid "Use this option if you need show the number of items in form"
+msgstr "Použij tuto volbu pro zobrazení počtu položek ve formuláři"
+
+#: admin/views/Themes.php:210
+msgid "Hide number of available events"
+msgstr "Skrýt počet dostupných položek"
+
+#: admin/views/Themes.php:211
+msgid ""
+"Select this option if you don't need to display the number of available "
+"events on calendar in front-end"
+msgstr ""
+"Vyber v případě, že nepotřebuješ zobrazovat zbývající počet položek v "
+"kalendáři"
+
+#: admin/views/Themes.php:217
+msgid "Enable Terms & Conditions"
+msgstr "Povolit Obchodní podmínky"
+
+#: admin/views/Themes.php:218
+msgid "Enable Terms & Conditions option"
+msgstr "Možnost povolit Obchodní podmínky"
+
+#: admin/views/Themes.php:225
+msgid "Terms & Conditions link"
+msgstr "Odkaz na Obchodní podmínky"
+
+#: admin/views/Themes.php:226
+msgid "Insert here the url for Terms & Conditions text"
+msgstr "Vlož odkaz pro Obchodní podmínky"
+
+#: admin/views/Themes.php:234
+msgid "Show title of Form"
+msgstr "Zobraz název formuláře"
+
+#: admin/views/Themes.php:235
+msgid "Show or hide the title of form"
+msgstr "Zobrazí, nebo skryje název formuláře"
+
+#: admin/views/Themes.php:241
+msgid "Enable title of Extra"
+msgstr "Povolit název rozšíření"
+
+#: admin/views/Themes.php:242
+msgid "Show or hide the title of Extra"
+msgstr "Zobrazí, nebo skyrej název rozšíření"
+
+#: admin/views/Themes.php:248
+msgid "Display days status texts below calendare"
+msgstr "Zobraz legendu rezervace pod kalendářem"
+
+#: admin/views/Themes.php:249
+msgid ""
+"Display days status texts below calendar(Available, Booked, Unavailable)"
+msgstr ""
+"Zobraz legendu rezervace pod kalendářem (Volné, Rezervované, Nedostupné)"
+
+#: admin/views/Themes.php:256 includes/admin_menu.php:63
+#: includes/admin_menu.php:94 includes/wpdevart_lib.php:367
+#: includes/wpdevart_lib.php:382
+msgid "Available"
+msgstr "Volné"
+
+#: admin/views/Themes.php:272 includes/admin_menu.php:64
+#: includes/admin_menu.php:95 includes/textfortr.php:58
+#: includes/wpdevart_lib.php:368 includes/wpdevart_lib.php:383
+msgid "Booked"
+msgstr "Rezervované"
+
+#: admin/views/Themes.php:287 includes/admin_menu.php:65
+#: includes/admin_menu.php:96 includes/textfortr.php:59
+#: includes/wpdevart_lib.php:369 includes/wpdevart_lib.php:384
+msgid "Unavailable"
+msgstr "Nedostupné"
+
+#: admin/views/Themes.php:303
+msgid "Action after submition"
+msgstr "Akce po odeslání"
+
+#: admin/views/Themes.php:304
+msgid "Selct the action after users submit the booking form"
+msgstr "Vyber akci po odeslání rezervace"
+
+#: admin/views/Themes.php:306
+msgid "Stay on Calendar"
+msgstr "Zůstat na kalendáři"
+
+#: admin/views/Themes.php:307
+msgid "Redirect visitor to a new page"
+msgstr "Přesměrovat uživatele na jinou stránku"
+
+#: admin/views/Themes.php:315
+msgid "Message after submition"
+msgstr "Zpráva po odeslání rezervace"
+
+#: admin/views/Themes.php:329
+msgid "URL"
+msgstr "Odkaz"
+
+#: admin/views/Themes.php:355
+msgid "Currency"
+msgstr "Měna"
+
+#: admin/views/Themes.php:356
+msgid "Select the default currency for calendar"
+msgstr "Vyber výchozí měnu pro kalendář"
+
+#: admin/views/Themes.php:364
+msgid "Currency Position"
+msgstr "Pozice měny"
+
+#: admin/views/Themes.php:365
+msgid "Select the currency position(after or before price)"
+msgstr "Vyber pozici měny (před, nebo za cenou)"
+
+#: admin/views/Themes.php:375
+msgid "Enable this option if you need to create hour booking calendar"
+msgstr "Povol v případě, kdy potřebuješ vytvořit hodinový kalendář"
+
+#: admin/views/Themes.php:391
+msgid "Choose the type of hours selection in calendar"
+msgstr "Vyber způsob výběru hodin v kalendáři"
+
+#: admin/views/Themes.php:400
+msgid "Display hours availability info when users mouse over on calendar days"
+msgstr "Zobraz dostupnost hodin při najetí kurzorem na den kalendáře"
+
+#: admin/views/Themes.php:407
+msgid ""
+"Add a simple hour field(hh:mm) using \"Add Hour\" button or use our default "
+"hours button \"Add Default\", that will add 24 fields with 1 hour inteval "
+"for all day. Use 24 hour format."
+msgstr ""
+"Přidej pole pro čas (hh:mm) použitím tlačítka \"Přidat hodiny\", nebo "
+"použitím výchozího tlačítka \"Přidat výchozí\" - to přidá 24 polí v "
+"intervalu 1 hodiny pro celý den. Formát 24 hodin."
+
+#: admin/views/Themes.php:416
+msgid "Show Day Info on Hover"
+msgstr "Zobraz informaci o dni při najetí kurzorem"
+
+#: admin/views/Themes.php:417
+msgid ""
+"Select this option if you need to display days info on hover(only for widget "
+"calendar)"
+msgstr ""
+"Vyber v případě, že chceš zobrazit informaci o dni při najetí kurzorem (jen "
+"pro widget)"
+
+#: admin/views/Themes.php:425
+msgid "Delete previous dates"
+msgstr "Smazat předchozí data"
+
+#: admin/views/Themes.php:426
+msgid ""
+"Use this option if you need to clear the information for previous dates on "
+"calendar"
+msgstr "Použij pro smazání informací pro předchozí data"
+
+#: admin/views/Themes.php:432
+msgid "Enable instant approval"
+msgstr "Povolit okamžité schválení"
+
+#: admin/views/Themes.php:433
+msgid ""
+"Select this if you need approve the booking requests instantly, without "
+"moderation"
+msgstr "Vyber v případě potřeby okamžité rezervace, bez zásahu administrátora"
+
+#: admin/views/Themes.php:439
+msgid "After how many days mark reservations as read"
+msgstr "Po kolika dnech označit rezervace jako přečtené"
+
+#: admin/views/Themes.php:448
+msgid "Styles and Colors"
+msgstr "Styly a barvy"
+
+#: admin/views/Themes.php:454
+msgid "Calendar Maximum width"
+msgstr "Maximální šířka kalendáře"
+
+#: admin/views/Themes.php:461
+msgid "Calendar Header font weight"
+msgstr "Tloušťka fontu pro nadpis kalendáře (weight)"
+
+#: admin/views/Themes.php:469
+msgid "Calendar Header font style"
+msgstr "Styl fontu nadpisu kalendáře"
+
+#: admin/views/Themes.php:477
+msgid "Calendar Header padding"
+msgstr "Vnitřní okraje pro nadpis (padding)"
+
+#: admin/views/Themes.php:484
+msgid "Next Prev Month font size"
+msgstr "Velikost fontu pro další/předchozí měsíc"
+
+#: admin/views/Themes.php:491
+msgid "Current Month font size"
+msgstr "Velikost fontu pro aktuální měsíc"
+
+#: admin/views/Themes.php:498
+msgid "Current Year font size"
+msgstr "Velikost fontu pro aktuální rok"
+
+#: admin/views/Themes.php:505
+msgid "Week Days font weight"
+msgstr "Tloušťka fontu pro dny v týdnu (weight)"
+
+#: admin/views/Themes.php:513
+msgid "Week Days font style"
+msgstr "Styl fontu pro dny v týdnu"
+
+#: admin/views/Themes.php:521
+msgid "Week Days font size"
+msgstr "Velikost fontu pro dny v týdnu"
+
+#: admin/views/Themes.php:528
+msgid "Day Number font weight"
+msgstr "Tloušťka fontu pro číslo dne (weight)"
+
+#: admin/views/Themes.php:536
+msgid "Day Number font style"
+msgstr "Styl fontu pro číslo dne"
+
+#: admin/views/Themes.php:544
+msgid "Day Number font size"
+msgstr "Velikost fontu pro číslo dne"
+
+#: admin/views/Themes.php:551
+msgid "Day Availability font weight"
+msgstr "Tloušťka fontu pro počet dostupných položek v daný den (weight)"
+
+#: admin/views/Themes.php:559
+msgid "Day Availability font style"
+msgstr "Styl fontu pro počet dostupných položek v daný den (weight)"
+
+#: admin/views/Themes.php:567
+msgid "Day Availability font size"
+msgstr "Velikost fontu pro počet dostupných položek v daný den (weight)"
+
+#: admin/views/Themes.php:574
+msgid "Day Price font weight"
+msgstr "Tloušťka fontu pro dennní cenu (weight)"
+
+#: admin/views/Themes.php:582
+msgid "Day Price font style"
+msgstr "Styl fontu pro denní cenu"
+
+#: admin/views/Themes.php:590
+msgid "Day Price font size"
+msgstr "Velikost fontu pro denní cenu"
+
+#: admin/views/Themes.php:597
+msgid "Days height"
+msgstr "Výška dnů (height)"
+
+#: admin/views/Themes.php:604
+msgid "Hours width"
+msgstr "Šířka hodin (width)"
+
+#: admin/views/Themes.php:611
+msgid "Hours height"
+msgstr "Výška hodin (height)"
+
+#: admin/views/Themes.php:618
+msgid "Info font weight"
+msgstr "Tloušťka fontu pro info (weight)"
+
+#: admin/views/Themes.php:626
+msgid "Info font style"
+msgstr "Styl fontu pro info"
+
+#: admin/views/Themes.php:634
+msgid "Info font size"
+msgstr "Velikost fontu pro info"
+
+#: admin/views/Themes.php:641
+msgid "Info Border radius"
+msgstr "Odsazení ohraničení  pro info (border radius)"
+
+#: admin/views/Themes.php:649
+msgid "Form/Extra Title font weight"
+msgstr "Tloušťka fontu pro formulář/rozšíření (weight)"
+
+#: admin/views/Themes.php:657
+msgid "Form/Extra Title font style"
+msgstr "Styl fontu pro formulář/rožšíření"
+
+#: admin/views/Themes.php:665
+msgid "Form/Extra Title font size"
+msgstr "Velikost fontu pro název formuláře/rozšíření"
+
+#: admin/views/Themes.php:672
+msgid "Form/Extra Labels font weight"
+msgstr "Tloušťka fontu pro jmenovku formuláře/rozšíření (weight label)"
+
+#: admin/views/Themes.php:680
+msgid "Form/Extra Labels font style"
+msgstr "Styl fontu pro jmenovku formuláře/rozšíření (label)"
+
+#: admin/views/Themes.php:688
+msgid "Form/Extra Labels font size"
+msgstr "Velikost fontu pro jmenovku formuláře/rozšíření (label)"
+
+#: admin/views/Themes.php:695
+msgid "Form/Extra Fields font weight"
+msgstr "Tloušťka fontu pro pole formuláře/rozšíření (weight)"
+
+#: admin/views/Themes.php:703
+msgid "Form/Extra Fields font style"
+msgstr "Styl fontu pro pole formuláře/rozšíření"
+
+#: admin/views/Themes.php:711
+msgid "Form/Extra Fields font size"
+msgstr "Velikost fontu pro pole formuláře/rozšíření"
+
+#: admin/views/Themes.php:718
+msgid "Form Submit font weight"
+msgstr "Tloušťka fontu pro formulář pro odeslání (weight)"
+
+#: admin/views/Themes.php:726
+msgid "Form Submit font style"
+msgstr "Styl fontu pro formulář pro odeslání"
+
+#: admin/views/Themes.php:734
+msgid "Reservation Info font weight"
+msgstr "Tloušťka fontu pro informace k rezervaci (weight)"
+
+#: admin/views/Themes.php:742
+msgid "Reservation Info font style"
+msgstr "Styl fontu pro informace k rezervaci"
+
+#: admin/views/Themes.php:750
+msgid "Reservation Info font size"
+msgstr "Velikost fontu pro informace k rezervaci"
+
+#: admin/views/Themes.php:757
+msgid "Widget Day Info font weight"
+msgstr "Tloušťka fontu pro informace u dne ve widgetu (weight)"
+
+#: admin/views/Themes.php:765
+msgid "Widget Day Info font style"
+msgstr "Styl fontu pro informace u dne ve widgetu"
+
+#: admin/views/Themes.php:773
+msgid "Widget Day Info font size"
+msgstr "Velikost fontu pro informace u dne ve widgetu"
+
+#: admin/views/Themes.php:783
+msgid "Load Spinner color"
+msgstr "Barva nahrávací ikony"
+
+#: admin/views/Themes.php:790
+msgid "Calendar Header background"
+msgstr "Barva pozadí záhlaví kalendáře"
+
+#: admin/views/Themes.php:797
+msgid "Next Preview Month color"
+msgstr "Barva náhledu pro další měsíc"
+
+#: admin/views/Themes.php:804
+msgid "Current Month color"
+msgstr "Barva pro aktuální měsíc"
+
+#: admin/views/Themes.php:811
+msgid "Current Year color"
+msgstr "Barva pro aktuální rok"
+
+#: admin/views/Themes.php:818
+msgid "Week Days background"
+msgstr "Barva pozadí dní v týdnu"
+
+#: admin/views/Themes.php:825
+msgid "Week Days color"
+msgstr "Barva dní v týdnu"
+
+#: admin/views/Themes.php:832
+msgid "Calendar background"
+msgstr "Barva pozadí kalendáře"
+
+#: admin/views/Themes.php:839
+msgid "Calendar Border color"
+msgstr "Barva ohraničení kalendáře"
+
+#: admin/views/Themes.php:846
+msgid "Day background"
+msgstr "Barva pozadí dne"
+
+#: admin/views/Themes.php:853
+msgid "Day Number background"
+msgstr "Barva pozadí čísla dne"
+
+#: admin/views/Themes.php:860
+msgid "Day Number color"
+msgstr "Barva čísla dne"
+
+#: admin/views/Themes.php:867
+msgid "Day Availability color"
+msgstr "Barva volného dne"
+
+#: admin/views/Themes.php:874
+msgid "Day Price color"
+msgstr "Barva ceny za den"
+
+#: admin/views/Themes.php:881
+msgid "Available Day background"
+msgstr "Barva pozadí volného dne"
+
+#: admin/views/Themes.php:888
+msgid "Available Day Number background"
+msgstr "Barva pozadí čísla volného dne"
+
+#: admin/views/Themes.php:895
+msgid "Available Day Number color"
+msgstr "Barva čísla volného dne"
+
+#: admin/views/Themes.php:902
+msgid "Selected Day background"
+msgstr "Barva pozadí vybraného dne"
+
+#: admin/views/Themes.php:909
+msgid "Selected Day Number background"
+msgstr "Barva pozadí čísla vybraného dne"
+
+#: admin/views/Themes.php:916
+msgid "Selected Day Number color"
+msgstr "Barva čísla vybraného dne"
+
+#: admin/views/Themes.php:923
+msgid "Selected Day Availability color"
+msgstr "Barva označeného volného dne"
+
+#: admin/views/Themes.php:930
+msgid "Selected Day Price color"
+msgstr "Barva označené ceny za den"
+
+#: admin/views/Themes.php:937
+msgid "Unavailable Day background"
+msgstr "Barva pozadí nedostupného dne"
+
+#: admin/views/Themes.php:944
+msgid "Unavailable Day Number background"
+msgstr "Barva pozadí čísla nedostupného dne"
+
+#: admin/views/Themes.php:951
+msgid "Unavailable Day Number color"
+msgstr "Barva čísla nedostupného dne"
+
+#: admin/views/Themes.php:958
+msgid "Unavailable Day Availability color"
+msgstr "Barva nedostupného dne"
+
+#: admin/views/Themes.php:965
+msgid "Booked Day background"
+msgstr "Barva pozadí rezervovaného dne"
+
+#: admin/views/Themes.php:972
+msgid "Booked Day Number background"
+msgstr "Barva pozadí čísla rezervovaného dne"
+
+#: admin/views/Themes.php:979
+msgid "Booked Day Number color"
+msgstr "Barva čísla rezervovaného dne"
+
+#: admin/views/Themes.php:986
+msgid "Booked Day Availability color"
+msgstr "Barva rezervovaného dne"
+
+#: admin/views/Themes.php:993
+msgid "Info Icon color"
+msgstr "Barva informační ikony"
+
+#: admin/views/Themes.php:1000
+msgid "Info background"
+msgstr "Barva pozadí informací"
+
+#: admin/views/Themes.php:1007
+msgid "Info color"
+msgstr "Barva informací"
+
+#: admin/views/Themes.php:1015
+msgid "Form background"
+msgstr "Barva pozadí formuláře"
+
+#: admin/views/Themes.php:1022
+msgid "Form boreder color"
+msgstr "Barva ohraničení formuláře"
+
+#: admin/views/Themes.php:1029
+msgid "Form/Extra Title color"
+msgstr "Barva názvu formuláře/rozšíření"
+
+#: admin/views/Themes.php:1036
+msgid "Form/Extra Title background"
+msgstr "Barva pozadí názvu formuláře/rozšíření"
+
+#: admin/views/Themes.php:1043
+msgid "Form/Extra Labels color"
+msgstr "Barva jmenovky formuláře/rozšíření (label)"
+
+#: admin/views/Themes.php:1050
+msgid "Form/Extra Fields color"
+msgstr "Barva pole formuláře/rozšíření"
+
+#: admin/views/Themes.php:1057
+msgid "Reservation Info color"
+msgstr "Barva informací k rezervaci"
+
+#: admin/views/Themes.php:1064
+msgid "Total Price background"
+msgstr "Barva pozadí celkové ceny"
+
+#: admin/views/Themes.php:1071
+msgid "Total Price color"
+msgstr "Barva celkové ceny"
+
+#: admin/views/Themes.php:1078
+msgid "Required Star color"
+msgstr "Barva informační hvězdičky pro vyplnění"
+
+#: admin/views/Themes.php:1085
+msgid "Submit Button background"
+msgstr "Barva pozadí tlačítka pro odeslání"
+
+#: admin/views/Themes.php:1092
+msgid "Submit Button color"
+msgstr "Barva tlačítka pro odeslání"
+
+#: admin/views/Themes.php:1099
+msgid "Error Info background"
+msgstr "Barva pozadí informace o chybě"
+
+#: admin/views/Themes.php:1106
+msgid "Error Info color"
+msgstr "Barva informace o chybě"
+
+#: admin/views/Themes.php:1113
+msgid "Error Info Border color"
+msgstr "Barva ohraničení informace o chybě"
+
+#: admin/views/Themes.php:1120
+msgid "Error Info Close background"
+msgstr "Barva pozadí tlačítka pro zavření informace o chybě"
+
+#: admin/views/Themes.php:1127
+msgid "Error Info Close color"
+msgstr "Barva tlačítka pro zavření informace o chybě"
+
+#: admin/views/Themes.php:1134
+msgid "Successfully Info background"
+msgstr "Barva pozadí informace o úspěšném provedení"
+
+#: admin/views/Themes.php:1141
+msgid "Successfully Info color"
+msgstr "Barva informace o úspěšném provedení"
+
+#: admin/views/Themes.php:1148
+msgid "Successfully Info Border color"
+msgstr "Barva ohraničení informace o úspěšném provedení"
+
+#: admin/views/Themes.php:1155
+msgid "Successfully Info Close background"
+msgstr "Barva pozadí tlačítka pro zavření informace o úspěšném provedení"
+
+#: admin/views/Themes.php:1162
+msgid "Successfully Info Close color"
+msgstr "Barva tlačítka pro zavření informace o úspěšném provedení"
+
+#: admin/views/Themes.php:1169
+msgid "Widget Day Info background"
+msgstr "Barva pozadí pro informace denního widgetu"
+
+#: admin/views/Themes.php:1176
+msgid "Widget Day Info color"
+msgstr "Barva pro informace denního widgetu"
+
+#: admin/views/Themes.php:1183
+msgid "Widget Day Info border color"
+msgstr "Barva ohraničení pro informace denního widgetu"
+
+#: admin/views/Themes.php:1192
+msgid "Notifications"
+msgstr "Upozornění"
+
+#: admin/views/Themes.php:1197
+msgid "Mail background color"
+msgstr "Barva pozadí e-mailu"
+
+#: admin/views/Themes.php:1204
+msgid "Mail content background color"
+msgstr "Barva pozadí obsahu e-mailu"
+
+#: admin/views/Themes.php:1211
+msgid "Mail font color"
+msgstr "Barva fontu v e-mailu"
+
+#: admin/views/Themes.php:1218
+msgid "Mail header image"
+msgstr "Obrázek záhlaví v e-mailu"
+
+#: admin/views/Themes.php:1225
+msgid "Mail footer text"
+msgstr "Text v zápatí e-mailu"
+
+#: admin/views/Themes.php:1232
+msgid "Mail footer text font color"
+msgstr "Barva textu v zápatí e-mailu"
+
+#: admin/views/Themes.php:1241
+msgid "You can use these shortcodes in content of admin templates"
+msgstr "Tyto shortcode lze použít ve vzoru zprávy pro administrátora"
+
+#: admin/views/Themes.php:1248
+msgid "You can use this shortcodes in Email From: field"
+msgstr "Tyto shortcode lze použít v poli e-mailu \"Od: [shortcode]\""
+
+#: admin/views/Themes.php:1255 admin/views/Themes.php:1434
+msgid "Notify on book request"
+msgstr "Upozornit při požadavku o rezervaci"
+
+#: admin/views/Themes.php:1263 admin/views/Themes.php:1322
+#: admin/views/Themes.php:1382
+msgid "To:"
+msgstr "Komu:"
+
+#: admin/views/Themes.php:1272 admin/views/Themes.php:1331
+#: admin/views/Themes.php:1391 admin/views/Themes.php:1442
+#: admin/views/Themes.php:1493 admin/views/Themes.php:1544
+#: admin/views/Themes.php:1595 admin/views/Themes.php:1647
+#: admin/views/Themes.php:1690
+msgid "Email From:"
+msgstr "Email From:"
+
+#: admin/views/Themes.php:1280 admin/views/Themes.php:1339
+#: admin/views/Themes.php:1399 admin/views/Themes.php:1451
+#: admin/views/Themes.php:1502 admin/views/Themes.php:1553
+#: admin/views/Themes.php:1604 admin/views/Themes.php:1656
+#: admin/views/Themes.php:1699
+msgid "From Name:"
+msgstr "Od (jméno):"
+
+#: admin/views/Themes.php:1288 admin/views/Themes.php:1347
+#: admin/views/Themes.php:1407 admin/views/Themes.php:1459
+#: admin/views/Themes.php:1510 admin/views/Themes.php:1561
+#: admin/views/Themes.php:1612 admin/views/Themes.php:1664
+#: admin/views/Themes.php:1707
+msgid "Subject:"
+msgstr "Předmět"
+
+#: admin/views/Themes.php:1296 admin/views/Themes.php:1355
+#: admin/views/Themes.php:1415 admin/views/Themes.php:1467
+#: admin/views/Themes.php:1518 admin/views/Themes.php:1569
+#: admin/views/Themes.php:1620 admin/views/Themes.php:1672
+#: admin/views/Themes.php:1715
+msgid "Content:"
+msgstr "Zpráva:"
+
+#: admin/views/Themes.php:1305 admin/views/Themes.php:1364
+#: admin/views/Themes.php:1476 admin/views/Themes.php:1527
+#: admin/views/Themes.php:1578 admin/views/Themes.php:1629
+msgid "Enable notification when email doesn't send"
+msgstr "Povolit upozornění při neodeslaném mailu"
+
+#: admin/views/Themes.php:1314
+msgid "Notify on approved book request"
+msgstr "Upozornit při schváleném požadavku o rezervaci"
+
+#: admin/views/Themes.php:1374 admin/views/Themes.php:1639
+msgid "PayPal Notification"
+msgstr "PayPal upozornění"
+
+#: admin/views/Themes.php:1427
+msgid "You can use these shortcodes in content of user templates"
+msgstr "Tyto shortcode lze použít ve vzoru zprávy pro uživatele"
+
+#: admin/views/Themes.php:1485
+msgid "Notify when reservation is approved"
+msgstr "Upozornit při schválené rezervaci"
+
+#: admin/views/Themes.php:1536
+msgid "Notify when reservation is canceled"
+msgstr "Upozornit při zrušené rezervaci"
+
+#: admin/views/Themes.php:1587
+msgid "Notify when reservation is deleted (rejected)"
+msgstr "Upozornit při smazané (odmítnuté) rezervaci"
+
+#: admin/views/Themes.php:1682
+msgid "PayPal Notification - Payment Failed"
+msgstr "PayPal upozornění - platba neproběhla"
+
+#: admin/views/Themes.php:1727
+msgid "Default Texts"
+msgstr "Výchozí texty"
+
+#: admin/views/Themes.php:1732
+msgid "Use mo"
+msgstr "Použít .mo soubor"
+
+#: admin/views/Themes.php:1739
+msgid "Text for available"
+msgstr "Text pro \"volné\""
+
+#: admin/views/Themes.php:1746
+msgid "Text for booked"
+msgstr "Text pro \"rezervované\""
+
+#: admin/views/Themes.php:1753
+msgid "Text for unavailable"
+msgstr "Text pro \"nedostupné\""
+
+#: admin/views/Themes.php:1760
+msgid "Text for check in"
+msgstr "Text pro \"check-in\""
+
+#: admin/views/Themes.php:1767
+msgid "Text for check out"
+msgstr "Text pro \"check-out\""
+
+#: admin/views/Themes.php:1774
+msgid "Text for date"
+msgstr "Text pro \"datum\""
+
+#: admin/views/Themes.php:1781
+msgid "Text for No hour available."
+msgstr "Text pro \"žádné dostupné hodiny\""
+
+#: admin/views/Themes.php:1788
+msgid "Text for start hour"
+msgstr "Text pro \"počáteční hodinu\""
+
+#: admin/views/Themes.php:1795
+msgid "Text for end hour"
+msgstr "Text pro \"nejpozdnější hodinu\""
+
+#: admin/views/Themes.php:1802
+msgid "Text for hour"
+msgstr "Text pro \"hodinu\""
+
+#: admin/views/Themes.php:1809
+msgid "Text for item count"
+msgstr "Text pro \"počet položek\""
+
+#: admin/views/Themes.php:1816
+msgid "Text for terms & conditions"
+msgstr "Text pro \"obchodní podmínky\""
+
+#: admin/views/Themes.php:1823
+msgid "Text for reservation"
+msgstr "Text pro \"rezervaci\""
+
+#: admin/views/Themes.php:1830
+msgid "Text for select days"
+msgstr "Text pro \"výběr dnů\""
+
+#: admin/views/Themes.php:1837
+msgid "Text for price"
+msgstr "Text pro \"cenu\""
+
+#: admin/views/Themes.php:1844
+msgid "Text for total"
+msgstr "Text pro \"celkem\""
+
+#: admin/views/Themes.php:1851
+msgid "Text for submit button"
+msgstr "Text pro \"tlačítko odeslat\""
+
+#: admin/views/Themes.php:1858
+msgid "Text for request successfully sent"
+msgstr "Text pro \"požadavek úspěšně odeslán\""
+
+#: admin/views/Themes.php:1865
+msgid "Text for request successfully received"
+msgstr "Text pro \"požadavek úspěšně doručen\""
+
+#: admin/views/Themes.php:1872
+msgid "Text for no services available(single days)"
+msgstr "Text pro \"nedostupné služby (jednotlivé dny)\""
+
+#: admin/views/Themes.php:1879
+msgid "Text for no services available(multiple days)"
+msgstr "Text pro \"nedostupné služby (více dní)\""
+
+#: admin/views/Themes.php:1886
+msgid "Text for one night error"
+msgstr "Text pro chybu \"jedné noci\""
+
+#: admin/views/Themes.php:1893
+msgid "Text for pay in cash"
+msgstr "Text pro \"platbu v hotovosti\""
+
+#: admin/views/Themes.php:1900
+msgid "Text for pay with PayPal"
+msgstr "Text pro platbu \"PayPal\""
+
+#: admin/views/Themes.php:1907
+msgid "Text for same as billing info"
+msgstr "Text pro \"stejné jako fakturační adresa\""
+
+#: admin/views/Themes.php:1914
+msgid "Notification texts when email doesn't send"
+msgstr "Texty upozornění při neodeslání e-mailu"
+
+#: admin/views/Themes.php:1921
+msgid "To administrator after book request"
+msgstr "Administrátorovi po žádosti o rezervaci"
+
+#: admin/views/Themes.php:1928
+msgid "To administrator after book request approved"
+msgstr "Administrátorovi po schválení rezervace"
+
+#: admin/views/Themes.php:1935
+msgid "To user after book request"
+msgstr "Uživateli po žádosti o rezervaci"
+
+#: admin/views/Themes.php:1942
+msgid "To user after book request approved"
+msgstr "Uživateli po schválení rezervace"
+
+#: admin/views/Themes.php:1949
+msgid "To user after book request canceled"
+msgstr "Uživateli po zrušení rezervace"
+
+#: admin/views/Themes.php:1956
+msgid "To user after book request deleted"
+msgstr "Uživateli po smazání rezervace"
+
+#: admin/views/Themes.php:1965
+msgid "Payments"
+msgstr "Obrázek tlačítka PayPal"
+
+#: admin/views/Themes.php:1970
+msgid "Show booking details in payment form"
+msgstr "Zobraz detaily rezervace ve formuláři platby"
+
+#: admin/views/Themes.php:1977
+msgid "Enable Billing address"
+msgstr "Povolit fakturační adresu"
+
+#: admin/views/Themes.php:1985
+msgid "Select form for billing address"
+msgstr "Vyber fakturační adresu"
+
+#: admin/views/Themes.php:1993
+msgid "Enable Shipping address"
+msgstr "Povolit dodací adresu"
+
+#: admin/views/Themes.php:2001
+msgid "Select form for shipping address"
+msgstr "Vyber dodací adresu"
+
+#: admin/views/Themes.php:2009
+msgid "Redirect after payment"
+msgstr "Přesměrovat po zaplacení"
+
+#: admin/views/Themes.php:2023
+msgid "Tax"
+msgstr "Daň"
+
+#: admin/views/Themes.php:2032
+msgid "Enable Pay in Cash"
+msgstr "Povolit platbu v hotovosti"
+
+#: admin/views/Themes.php:2051
+msgid "Enable PayPal"
+msgstr "Povolit PayPal"
+
+#: admin/views/Themes.php:2059
+msgid "Payment mode"
+msgstr "Stav platby"
+
+#: admin/views/Themes.php:2076
+msgid "PayPal email"
+msgstr "PayPal e-mail"
+
+#: admin/views/Themes.php:2083
+msgid "PayPal button image"
+msgstr "PayPal obrázek tlačítka"
+
+#: admin/views/Themes.php:2124
+msgid "Edit Theme"
+msgstr "Upravit vzhled"
+
+#: admin/views/Themes.php:2134
+msgid "Theme Name"
+msgstr "Název vzhledu"
+
+#: admin/views/UserPermissions.php:23
+msgid "Reservations"
+msgstr "Rezervace"
+
+#: admin/views/UserPermissions.php:58
+msgid "User permissions for booking calendar pages"
+msgstr "Uživatelská práva pro rezervační kalendář"
+
+#: admin/views/UserPermissions.php:84
+msgid "Administrator"
+msgstr "Administrátor"
+
+#: admin/views/UserPermissions.php:85
+msgid "Editor"
+msgstr "Šéfredaktor"
+
+#: admin/views/UserPermissions.php:86
+msgid "Author"
+msgstr "Redaktor"
+
+#: admin/views/UserPermissions.php:87
+msgid "Contributor"
+msgstr "Spolupracovník"
+
+#: admin/views/UserPermissions.php:88
+msgid "Subscriber"
+msgstr "Návštěvník"
+
+#: booking_calendar.php:110 includes/admin_menu.php:58
+#: includes/admin_menu.php:75
+msgid "is required."
+msgstr "je vyžadováno."
+
+#: booking_calendar.php:111 includes/admin_menu.php:59
+#: includes/admin_menu.php:76
+msgid "Enter the valid email address."
+msgstr "Je potřeba zadat platný e-mail."
+
+#: booking_calendar.php:112 includes/admin_menu.php:68
+#: includes/admin_menu.php:77
+msgid "Date"
+msgstr "Datum"
+
+#: booking_calendar.php:228 booking_calendar.php:233
+msgid "New "
+msgstr "Nový"
+
+#: booking_calendar.php:248
+msgid "New Extra"
+msgstr "Nové rozšíření"
+
+#: includes/admin_menu.php:62 includes/admin_menu.php:93
+#: includes/wpdevart_lib.php:365 includes/wpdevart_lib.php:380
+msgid "Marked Price"
+msgstr "Původní cena"
+
+#: includes/admin_menu.php:66 includes/admin_menu.php:97
+#: includes/wpdevart_lib.php:371 includes/wpdevart_lib.php:386
+msgid "Number Availabile"
+msgstr "Dostupný počet"
+
+#: includes/admin_menu.php:67 includes/admin_menu.php:98
+#: includes/wpdevart_lib.php:372 includes/wpdevart_lib.php:387
+msgid "Hour Information"
+msgstr "Informace k hodině"
+
+#: includes/admin_menu.php:238
+msgid "The following Database Tables successfully deleted:"
+msgstr "Tyto tabulky byly úspěšně smazané z databáze:"
+
+#: includes/admin_menu.php:247
+msgid "Uninstall Booking Calendar"
+msgstr "Odinstalovat Booking Calendar"
+
+#: includes/admin_menu.php:248
+msgid "Click Here"
+msgstr "Klikni zde"
+
+#: includes/admin_menu.php:248
+msgid " To Finish the Uninstallation"
+msgstr "PRO DOKONČENÍ ODINSTALACE"
+
+#: includes/admin_menu.php:259
+msgid "Uninstall Booking calendar"
+msgstr "Odinstalovat Booking Calendar"
+
+#: includes/admin_menu.php:261
+msgid ""
+"Deactivating Booking calendar plugin does not remove any data that may have "
+"been created. To completely remove this plugin, you can uninstall it here."
+msgstr ""
+"Deaktivací pluginu Booking Calendar neodstraníte data, která mohla být "
+"vytvořena. Pro kompletní odebrání pluginu ho odinstalujte zde."
+
+#: includes/admin_menu.php:262
+msgid "WARNING:"
+msgstr "VAROVÁNÍ:"
+
+#: includes/admin_menu.php:262
+msgid ""
+"Once uninstalled, this can't be undone. You should use a Database Backup "
+"plugin of WordPress to back up all the data first."
+msgstr ""
+"Pokud plugin odinstalujete, už není cesty zpět. Použijte plugin Database "
+"Backup ve Wordpress pro zálohu všech dat."
+
+#: includes/admin_menu.php:263
+msgid "The following Database Tables will be deleted:"
+msgstr "Tyto tabulky budou smazané z databáze:"
+
+#: includes/admin_menu.php:284
+msgid "Do you really want to uninstall Booking Calendar?"
+msgstr "Opravdu chcete odinstalovat Booking Calendar?"
+
+#: includes/admin_menu.php:287
+msgid "Yes"
+msgstr "Ano"
+
+#: includes/booking_class.php:999
+msgid "No options"
+msgstr "Bez možnosti"
+
+#: includes/main_class.php:518
+msgid "Reservation ID"
+msgstr "Rezervační ID"
+
+#: includes/main_class.php:519
+msgid "Reservation date"
+msgstr "Datum rezervace"
+
+#: includes/main_class.php:524 includes/textfortr.php:70
+msgid "Total"
+msgstr "Celkem"
+
+#: includes/textfortr.php:16
+msgid "Jan"
+msgstr "Led"
+
+#: includes/textfortr.php:17
+msgid "Feb"
+msgstr "Úno"
+
+#: includes/textfortr.php:18
+msgid "Mar"
+msgstr "Bře"
+
+#: includes/textfortr.php:19
+msgid "Apr"
+msgstr "Dub"
+
+#: includes/textfortr.php:21
+msgid "Jun"
+msgstr "Čer"
+
+#: includes/textfortr.php:22
+msgid "Jul"
+msgstr "Čec"
+
+#: includes/textfortr.php:23
+msgid "Aug"
+msgstr "Srp"
+
+#: includes/textfortr.php:24
+msgid "Sep"
+msgstr "Zář"
+
+#: includes/textfortr.php:25
+msgid "Oct"
+msgstr "Říj"
+
+#: includes/textfortr.php:26
+msgid "Nov"
+msgstr "Lis"
+
+#: includes/textfortr.php:27
+msgid "Dec"
+msgstr "Pro"
+
+#: includes/textfortr.php:40
+msgid "Mon"
+msgstr "Pon"
+
+#: includes/textfortr.php:41
+msgid "Tue"
+msgstr "Úte"
+
+#: includes/textfortr.php:42
+msgid "Wed"
+msgstr "Stř"
+
+#: includes/textfortr.php:43
+msgid "Thu"
+msgstr "Čtv"
+
+#: includes/textfortr.php:44
+msgid "Fri"
+msgstr "Pát"
+
+#: includes/textfortr.php:45
+msgid "Sat"
+msgstr "Sob"
+
+#: includes/textfortr.php:49
+msgid "Mo"
+msgstr "Po"
+
+#: includes/textfortr.php:50
+msgid "Tu"
+msgstr "Út"
+
+#: includes/textfortr.php:51
+msgid "We"
+msgstr "St"
+
+#: includes/textfortr.php:52
+msgid "Th"
+msgstr "Čt"
+
+#: includes/textfortr.php:53
+msgid "Fr"
+msgstr "Pá"
+
+#: includes/textfortr.php:54
+msgid "Sa"
+msgstr "So"
+
+#: includes/textfortr.php:57
+msgid "available"
+msgstr "dostupné"
+
+#: includes/textfortr.php:60
+msgid "Check in"
+msgstr "Check-in"
+
+#: includes/textfortr.php:61
+msgid "Check out"
+msgstr "Check-out"
+
+#: includes/textfortr.php:62
+msgid "No hour available."
+msgstr "Žádné dostupné hodiny."
+
+#: includes/textfortr.php:63
+msgid "Start hour"
+msgstr "Počáteční hodina"
+
+#: includes/textfortr.php:64
+msgid "End hour"
+msgstr "Koncová hodina"
+
+#: includes/textfortr.php:65
+msgid "Item count"
+msgstr "Počet položek"
+
+#: includes/textfortr.php:66
+msgid "I accept to agree to the Terms & Conditions."
+msgstr "Souhlasím s obchodními podmínkami."
+
+#: includes/textfortr.php:67
+msgid "Reservation"
+msgstr "Rezervace"
+
+#: includes/textfortr.php:68
+msgid "Please select the days from calendar."
+msgstr "Zvol si dny z kalendáře."
+
+#: includes/textfortr.php:71
+msgid "Book Now"
+msgstr "Rezervuj"
+
+#: includes/textfortr.php:72
+msgid "Your request has been successfully sent. Please wait for approval."
+msgstr "Rezervace úspěšně odeslána k potvrzení."
+
+#: includes/textfortr.php:73
+msgid "Your request has been successfully received. We are waiting you!"
+msgstr "Rezervace úspěšně odeslána."
+
+#: includes/textfortr.php:74
+msgid "There are no services available for this day."
+msgstr "Žádné dostupné služby pro tento dn."
+
+#: includes/textfortr.php:75
+msgid "There are no services available for the period you selected."
+msgstr "Žádné dostupné služby pro toto období."
+
+#: includes/textfortr.php:76
+msgid "Email on book to administrator doesn't send"
+msgstr "Nepodařilo se odeslat e-mail o rezervaci administrátorovi"
+
+#: includes/textfortr.php:77
+msgid "Email on approved to administrator doesn't send"
+msgstr "Nepodařilo se odeslat e-mail o schválení administrátorovi"
+
+#: includes/textfortr.php:78
+msgid "Email on book to user doesn't send"
+msgstr "Nepodařilo se odeslat e-mail o rezrvaci uživateli "
+
+#: includes/textfortr.php:79
+msgid "Email on approved to user doesn't send"
+msgstr "Nepodařilo se odeslat e-mail o schválení uživateli "
+
+#: includes/textfortr.php:80
+msgid "Email on canceled to user doesn't send"
+msgstr "Nepodařilo se odeslat e-mail o zrušení uživateli "
+
+#: includes/textfortr.php:81
+msgid "Email on delete to user doesn't send"
+msgstr "Nepodařilo se odeslat e-mail o smazání uživateli"
+
+#: includes/widgets/widget-booking_calendar.php:6
+msgid "Displays Booking Calendar WpDevArt"
+msgstr "Zobrazí Booking Calendar WpDevArt"
+
+#: includes/widgets/widget-booking_calendar.php:40
+msgid "Title:"
+msgstr "Název:"
+
+#: includes/widgets/widget-booking_calendar.php:45
+msgid "Calendar to display"
+msgstr "Kalendář k zobrazení"
+
+#: includes/wpdevart_lib.php:84
+msgid "Add Image"
+msgstr "Přidat obrázek"
+
+#: includes/wpdevart_lib.php:357
+msgid "Add Hour"
+msgstr "Přidat hodinu"
+
+#: includes/wpdevart_lib.php:358
+msgid "Add Default"
+msgstr "Přidat výchozí"
+
+#: includes/wpdevart_lib.php:430 includes/wpdevart_lib.php:485
+#: includes/wpdevart_lib.php:529 includes/wpdevart_lib.php:570
+#: includes/wpdevart_lib.php:607 includes/wpdevart_lib.php:653
+#: includes/wpdevart_lib.php:694
+msgid "Label"
+msgstr "Jmenovka"
+
+#: includes/wpdevart_lib.php:436 includes/wpdevart_lib.php:491
+#: includes/wpdevart_lib.php:535 includes/wpdevart_lib.php:576
+#: includes/wpdevart_lib.php:613 includes/wpdevart_lib.php:659
+msgid "Required"
+msgstr "Vyžadováno"
+
+#: includes/wpdevart_lib.php:443
+msgid "Multiple select"
+msgstr "Vícenásobný výběr"
+
+#: includes/wpdevart_lib.php:450
+msgid "Options"
+msgstr "Možnosti"
+
+#: includes/wpdevart_lib.php:451
+msgid "Add one per line"
+msgstr "Přidat jeden na řádek"
+
+#: includes/wpdevart_lib.php:620
+msgid "Is Email"
+msgstr "Je e-mail"
+
+#: includes/wpdevart_lib.php:621
+msgid "Use only for Email field"
+msgstr "Použít jen pole E-Mail"
+
+#: includes/wpdevart_lib.php:700
+msgid "Regardless of counting days"
+msgstr "Nezávisle na počtu dnů (za celý pobyt)"
+
+#: includes/wpdevart_lib.php:707
+msgid "Items"
+msgstr "Položky"

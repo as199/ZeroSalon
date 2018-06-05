@@ -1,0 +1,141 @@
+Changelog 1.9 26 January 2017
+
+- UPDATE	: ACF Pro Plugin
+- UPDATE	: Demo Content
+- UPDATE 	: Redux Framework to 3.6.3.4
+- ADDED		: Disable ACF update notification
+
+File Changed :
+
+- inc/option/core
+- inc/option/core/inc/extensions/wbc_importer/demo-data
+- plugins/advanced-custom-fields-pro.zip
+- function.php
+
+Changelog Version 1.8 18 October 2016
+
+- UPDATED	: ACF Pro Plugin
+- UPDATED	: Kedavra Demo Import
+
+File Changed:
+
+- plugins/advanced-custom-fields-pro.zip
+- function.php
+- inc/function/kedavra-importer.php
+- inc/option/core/inc/extension/wbc_importer/demo-data
+
+Changelog Version 1.7 30 June 2016
+
+- FIXED		: Header right section color when header is white
+- ADDED		: Multiple category for portfolio full block
+- UPDATED	: Redux Framework to 3.6.0.7
+- UPDATED	: ACF Pro plugin to 5.3.9.2
+
+File Changed:
+- inc/function/akmanda-customizer.php
+- js/akmanda-customizer.js
+- inc/widget/fullportfolio-block/tpl/base.php
+- inc/widget/grid-block/tpl/base.php
+- inc/option/core
+- plugins/advanced-custom-fields-pro.zip
+
+Changelog Version 1.6.1 (15 April 2016)
+
+FIXED	: Menu click disable
+
+File Changed:
+- header.php
+
+Changelog Version 1.6 (14 April 2016)
+
+FIXED	: Layout broke
+REMOVED	: Animsition effect and function
+ADDED	: Preloader use image option
+
+File Changed:
+- inc/option/panel/config.php
+- js/main.js
+- js/plugin.js
+- css/plugin.css
+- header-light.php
+- header-social-light.php
+- header-social-transparent.php
+- header-social.php
+- header-transparent.php
+- header-two-light.php
+- header-two-transparent.php
+- header-two.php
+- header.php
+- style.css
+
+Version 1.5 28 March 2016
+
+- ADDED		: Support multiple categories
+- UPDATED 	: ACF Pro plugin to 5.3.6.1
+
+File Changed:
+
+- plugins/advanced-custom-fields-pro.zip
+- template/portfolio-grid-template.php
+- template/portfolio-masonry-template.php
+- template/fullwidth-portfolio-template.php
+- inc/widget/masonry-block/tpl/base.php
+- inc/widget/grid-block/tpl/base.php
+
+Version 1.4 23 December 2015
+
+- ADDED		: Montserrat fonts
+- ADDED 	: Some content styling
+
+File Changed:
+
+- style.css
+- css/fonts
+- css/plugin.css
+
+Version 1.3 7 December 2015
+
+- UPDATED	: Redux Framework options to 3.5.8.10
+- UPDATED 	: ACF Plugin to Version 5.3.2.2
+- CHANGED 	: Contact Google Maps to Contact Embed text area
+- DELETED	: Smooth Scroll function and google maps js
+
+File Changed:
+
+- style.css
+- inc/option/core
+- class-tgm-plugin-activation.php
+- class-tgm.php
+- functions.php
+- template/contact-template.php
+- inc/function/meta-box.php
+- js/plugins.js
+
+Version 1.2 31 August 2015
+
+- UPDATED	: Redux Framework options to 3.5.6.1
+- CHANGED 	: ACF Meta Box as Plugins ACF
+- FIXED 	: WP_Widget Error
+
+File Changed:
+
+- inc/acf
+- style.css
+- latest-post-widget.php
+- latest-work-widget.php
+- causes-widget.php
+- class-tgm.php
+- functions.php
+
+Kedavra Version 1.1 (29-7-2015)
+
+- FIXED	: ACF Option when using Child Theme
+- FIXED	: Architect import demo content
+- ADDED	: Hide Footer option for contact template
+
+File Changed
+
+- inc/function/meta-box.php
+- template/contact-template.php
+- inc/option/core/inc/extentions/wbc_importer/demo-data/Architect
+- style.css

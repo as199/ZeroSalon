@@ -1,0 +1,1759 @@
+# Translation of Plugins - Booking calendar, Booking System, Appointment Booking - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Booking calendar, Booking System, Appointment Booking - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-04 09:27:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Booking calendar, Booking System, Appointment Booking - Stable (latest release)\n"
+
+#. Description of the plugin/theme
+msgid "WordPress Booking Calendar plugin is an awesome tool to create a booking system for your website. Create booking calendars in a few minutes."
+msgstr "WordPress плагин бронирования календарь является удивительным инструментом для создания системы бронирования для вашего сайта. Создание календарей бронирование в течение нескольких минут."
+
+#. Plugin URI of the plugin/theme
+msgid "http://wpdevart.com/wordpress-booking-calendar-plugin"
+msgstr "http://wpdevart.com/wordpress-booking-calendar-plugin"
+
+#. Plugin Name of the plugin/theme
+msgid "Booking Calendar WpDevArt"
+msgstr "Бронирование Календарь WpDevArt"
+
+#: includes/wpdevart_lib.php:693
+msgid "Items"
+msgstr "Предметы"
+
+#: includes/wpdevart_lib.php:685
+msgid "Regardless of counting days"
+msgstr "Независимо от подсчета дней"
+
+#: includes/wpdevart_lib.php:606
+msgid "Use only for Email field"
+msgstr "Используйте только для поля Email"
+
+#: includes/wpdevart_lib.php:605
+msgid "Is Email"
+msgstr "Есть E-mail"
+
+#: includes/wpdevart_lib.php:436
+msgid "Add one per line"
+msgstr "Добавить по одному в строке"
+
+#: includes/wpdevart_lib.php:435
+msgid "Options"
+msgstr "Опции"
+
+#: includes/wpdevart_lib.php:428
+msgid "Multiple select"
+msgstr "Множественный выбор"
+
+#: includes/wpdevart_lib.php:421 includes/wpdevart_lib.php:476
+#: includes/wpdevart_lib.php:520 includes/wpdevart_lib.php:561
+#: includes/wpdevart_lib.php:598 includes/wpdevart_lib.php:644
+msgid "Required"
+msgstr "необходимые"
+
+#: includes/wpdevart_lib.php:415 includes/wpdevart_lib.php:470
+#: includes/wpdevart_lib.php:514 includes/wpdevart_lib.php:555
+#: includes/wpdevart_lib.php:592 includes/wpdevart_lib.php:638
+#: includes/wpdevart_lib.php:679
+msgid "Label"
+msgstr "метка"
+
+#: includes/wpdevart_lib.php:343
+msgid "Add Default"
+msgstr "Добавить по умолчанию"
+
+#: includes/wpdevart_lib.php:342
+msgid "Add Hour"
+msgstr "Добавить час"
+
+#: includes/wpdevart_lib.php:84
+msgid "Add Image"
+msgstr "Добавить изображение"
+
+#: includes/widgets/widget-booking_calendar.php:45
+msgid "Calendar to display"
+msgstr "Календарь для отображения"
+
+#: includes/widgets/widget-booking_calendar.php:40
+msgid "Title:"
+msgstr "Заглавие:"
+
+#: includes/widgets/widget-booking_calendar.php:6
+msgid "Displays Booking Calendar WpDevArt"
+msgstr "Отображение бронирования календарь WpDevArt"
+
+#: includes/textfortr.php:81
+msgid "Email on delete to user doesn't send"
+msgstr "E-mail на удаление пользователю не отправляет"
+
+#: includes/textfortr.php:80
+msgid "Email on canceled to user doesn't send"
+msgstr "Отправить на отменен пользователю не посылает"
+
+#: includes/textfortr.php:79
+msgid "Email on approved to user doesn't send"
+msgstr "E-mail о допущенных к пользователю не посылает"
+
+#: includes/textfortr.php:78
+msgid "Email on book to user doesn't send"
+msgstr "Электронная почта на книги к пользователю не посылает"
+
+#: includes/textfortr.php:77
+msgid "Email on approved to administrator doesn't send"
+msgstr "E-mail о допущенных к администратору не посылает"
+
+#: includes/textfortr.php:76
+msgid "Email on book to administrator doesn't send"
+msgstr "Электронная почта на книгу администратору не посылает"
+
+#: includes/textfortr.php:75
+msgid "There are no services available for the period you selected."
+msgstr "Там нет услуг, доступных для выбранного вами периода."
+
+#: includes/textfortr.php:74
+msgid "There are no services available for this day."
+msgstr "Там нет услуг, доступных на этот день."
+
+#: includes/textfortr.php:73
+msgid "Your request has been successfully received. We are waiting you!"
+msgstr "Ваш запрос был успешно принят. Мы ждем вас!"
+
+#: includes/textfortr.php:72
+msgid "Your request has been successfully sent. Please wait for approval."
+msgstr "Ваш запрос был успешно отправлен. Пожалуйста, подождите для утверждения."
+
+#: includes/textfortr.php:71
+msgid "Book Now"
+msgstr "Забронируйте сейчас"
+
+#: includes/textfortr.php:68
+msgid "Please select the days from calendar."
+msgstr "Пожалуйста, выберите дни из календаря."
+
+#: includes/textfortr.php:67
+msgid "Reservation"
+msgstr "бронирование"
+
+#: includes/textfortr.php:66
+msgid "I accept to agree to the Terms & Conditions."
+msgstr "Я согласен согласен Условия & Условия."
+
+#: includes/textfortr.php:65
+msgid "Item count"
+msgstr "Количество товара"
+
+#: includes/textfortr.php:64
+msgid "End hour"
+msgstr "Конец час"
+
+#: includes/textfortr.php:63
+msgid "Start hour"
+msgstr "Начало час"
+
+#: includes/textfortr.php:62
+msgid "No hour available."
+msgstr "Нет час доступны."
+
+#: includes/textfortr.php:61
+msgid "Check out"
+msgstr "Проверять, выписываться"
+
+#: includes/textfortr.php:60
+msgid "Check in"
+msgstr "Регистрироваться"
+
+#: includes/textfortr.php:57
+msgid "available"
+msgstr "доступный"
+
+#: includes/textfortr.php:54
+msgid "Sa"
+msgstr "Сб"
+
+#: includes/textfortr.php:53
+msgid "Fr"
+msgstr "Пт"
+
+#: includes/textfortr.php:52
+msgid "Th"
+msgstr "Вт"
+
+#: includes/textfortr.php:51
+msgid "We"
+msgstr "Ср"
+
+#: includes/textfortr.php:49
+msgid "Mo"
+msgstr "Пн"
+
+#: includes/textfortr.php:44
+msgid "Fri"
+msgstr "Пт"
+
+#: includes/textfortr.php:43
+msgid "Thu"
+msgstr "Чт"
+
+#: includes/textfortr.php:42
+msgid "Wed"
+msgstr "Ср"
+
+#: includes/textfortr.php:41
+msgid "Tue"
+msgstr "Вт"
+
+#: includes/textfortr.php:40
+msgid "Mon"
+msgstr "Пн"
+
+#: includes/textfortr.php:27
+msgid "Dec"
+msgstr "декабрь"
+
+#: includes/textfortr.php:26
+msgid "Nov"
+msgstr "ноябрь"
+
+#: includes/textfortr.php:25
+msgid "Oct"
+msgstr "октябрь"
+
+#: includes/textfortr.php:24
+msgid "Sep"
+msgstr "сентябрь"
+
+#: includes/textfortr.php:23
+msgid "Aug"
+msgstr "август"
+
+#: includes/textfortr.php:22
+msgid "Jul"
+msgstr "июль"
+
+#: includes/textfortr.php:21
+msgid "Jun"
+msgstr "июнь"
+
+#: includes/textfortr.php:19
+msgid "Apr"
+msgstr "апрель"
+
+#: includes/textfortr.php:18
+msgid "Mar"
+msgstr "март"
+
+#: includes/textfortr.php:17
+msgid "Feb"
+msgstr "февраль"
+
+#: includes/textfortr.php:16
+msgid "Jan"
+msgstr "январь"
+
+#: includes/main_class.php:533 includes/textfortr.php:70
+msgid "Total"
+msgstr "Всего"
+
+#: includes/main_class.php:528
+msgid "Reservation date"
+msgstr "дата резервации"
+
+#: includes/main_class.php:527
+msgid "Reservation ID"
+msgstr "Номер резервации"
+
+#: includes/booking_class.php:1029
+msgid "No options"
+msgstr "Нет опций"
+
+#: includes/admin_menu.php:297
+msgid "Yes"
+msgstr "да"
+
+#: includes/admin_menu.php:294
+msgid "Do you really want to uninstall Booking Calendar?"
+msgstr "Вы действительно хотите удалить бронирования календарь?"
+
+#: includes/admin_menu.php:273
+msgid "The following Database Tables will be deleted:"
+msgstr "Следующие таблицы базы данных будут удалены:"
+
+#: includes/admin_menu.php:272
+msgid "Once uninstalled, this can't be undone. You should use a Database Backup plugin of WordPress to back up all the data first."
+msgstr "После того, как удалили, это не может быть отменено. Вы должны использовать резервную копию базы данных как плагин WordPress, чтобы создать резервную копию всех данных в первую очередь."
+
+#: includes/admin_menu.php:272
+msgid "WARNING:"
+msgstr "ПРЕДУПРЕЖДЕНИЕ:"
+
+#: includes/admin_menu.php:271
+msgid "Deactivating Booking calendar plugin does not remove any data that may have been created. To completely remove this plugin, you can uninstall it here."
+msgstr "Деактивация календарь Заказ плагин не удаляет какие-либо данные, которые могут быть созданы. Чтобы полностью удалить этот плагин, вы можете удалить его здесь."
+
+#: includes/admin_menu.php:269
+msgid "Uninstall Booking calendar"
+msgstr "Удаление календаря бронирования"
+
+#: includes/admin_menu.php:258
+msgid " To Finish the Uninstallation"
+msgstr " Чтобы закончить удаление"
+
+#: includes/admin_menu.php:258
+msgid "Click Here"
+msgstr "Кликните сюда"
+
+#: includes/admin_menu.php:257
+msgid "Uninstall Booking Calendar"
+msgstr "Удаление бронирования календарь"
+
+#: includes/admin_menu.php:247
+msgid "The following Database Tables successfully deleted:"
+msgstr "В таблицах базы данных успешно удалены:"
+
+#: includes/admin_menu.php:69 includes/admin_menu.php:100
+#: includes/wpdevart_lib.php:357 includes/wpdevart_lib.php:372
+msgid "Hour Information"
+msgstr "час информации"
+
+#: includes/admin_menu.php:68 includes/admin_menu.php:99
+#: includes/wpdevart_lib.php:356 includes/wpdevart_lib.php:371
+msgid "Number Availabile"
+msgstr "Количество Availabile"
+
+#: includes/admin_menu.php:64 includes/admin_menu.php:95
+#: includes/wpdevart_lib.php:350 includes/wpdevart_lib.php:365
+msgid "Marked Price"
+msgstr "обозначенная цена"
+
+#: booking_calendar.php:233
+msgid "New Extra"
+msgstr "Новый Extra"
+
+#: booking_calendar.php:114 includes/admin_menu.php:70
+#: includes/admin_menu.php:79
+msgid "Date"
+msgstr "Дата"
+
+#: booking_calendar.php:113 includes/admin_menu.php:61
+#: includes/admin_menu.php:78
+msgid "Enter the valid email address."
+msgstr "Введите действительный адрес электронной почты."
+
+#: booking_calendar.php:112 includes/admin_menu.php:60
+#: includes/admin_menu.php:77
+msgid "is required."
+msgstr "необходимо."
+
+#: admin/views/UserPermissions.php:94
+msgid "Subscriber"
+msgstr "подписчик"
+
+#: admin/views/UserPermissions.php:93
+msgid "Contributor"
+msgstr "участник"
+
+#: admin/views/UserPermissions.php:92
+msgid "Author"
+msgstr "автор"
+
+#: admin/views/UserPermissions.php:91
+msgid "Editor"
+msgstr "редактор"
+
+#: admin/views/UserPermissions.php:90
+msgid "Administrator"
+msgstr "администратор"
+
+#: admin/views/UserPermissions.php:63
+msgid "User permissions for booking calendar pages"
+msgstr "Права пользователя для календаря бронирования страниц"
+
+#: admin/views/UserPermissions.php:24
+msgid "Reservations"
+msgstr "Оговорки"
+
+#: admin/views/Themes.php:2158
+msgid "Theme Name"
+msgstr "тема Имя"
+
+#: admin/views/Themes.php:2148
+msgid "Edit Theme"
+msgstr "Редактировать Theme"
+
+#: admin/views/Themes.php:2107
+msgid "PayPal button image"
+msgstr "PayPal изображение кнопки"
+
+#: admin/views/Themes.php:2100
+msgid "PayPal email"
+msgstr "PayPal по электронной почте"
+
+#: admin/views/Themes.php:2083
+msgid "Payment mode"
+msgstr "Режим оплаты"
+
+#: admin/views/Themes.php:2075
+msgid "Enable PayPal"
+msgstr "Включить PayPal"
+
+#: admin/views/Themes.php:2056
+msgid "Enable Pay in Cash"
+msgstr "Включить оплату наличными"
+
+#: admin/views/Themes.php:2047
+msgid "Tax"
+msgstr "налог"
+
+#: admin/views/Themes.php:2033
+msgid "Redirect after payment"
+msgstr "Перенаправление после оплаты"
+
+#: admin/views/Themes.php:2025
+msgid "Select form for shipping address"
+msgstr "Выберите форму для адреса доставки"
+
+#: admin/views/Themes.php:2017
+msgid "Enable Shipping address"
+msgstr "Включить адрес доставки"
+
+#: admin/views/Themes.php:2009
+msgid "Select form for billing address"
+msgstr "Выбор формы для платежного адреса"
+
+#: admin/views/Themes.php:2001
+msgid "Enable Billing address"
+msgstr "Включить платежный адрес"
+
+#: admin/views/Themes.php:1994
+msgid "Show booking details in payment form"
+msgstr "Показать детали заказа, формы оплаты"
+
+#: admin/views/Themes.php:1988
+msgid "Payments"
+msgstr "платежи"
+
+#: admin/views/Themes.php:1979
+msgid "To user after book request deleted"
+msgstr "Для того, чтобы пользователь после запроса книги удалена"
+
+#: admin/views/Themes.php:1972
+msgid "To user after book request canceled"
+msgstr "Для того, чтобы пользователь после запроса книги отменен"
+
+#: admin/views/Themes.php:1965
+msgid "To user after book request approved"
+msgstr "Для того, чтобы пользователь после запроса книга одобрена"
+
+#: admin/views/Themes.php:1958
+msgid "To user after book request"
+msgstr "Для того, чтобы пользователь после запроса книги"
+
+#: admin/views/Themes.php:1951
+msgid "To administrator after book request approved"
+msgstr "Для администратора после запроса книга одобрена"
+
+#: admin/views/Themes.php:1944
+msgid "To administrator after book request"
+msgstr "Для администратора после запроса книги"
+
+#: admin/views/Themes.php:1937
+msgid "Notification texts when email doesn't send"
+msgstr "Уведомление тексты когда электронная почта не посылает"
+
+#: admin/views/Themes.php:1930
+msgid "Text for same as billing info"
+msgstr "Текст для такой же, как биллинговой информации"
+
+#: admin/views/Themes.php:1923
+msgid "Text for pay with PayPal"
+msgstr "Текст для оплаты с PayPal"
+
+#: admin/views/Themes.php:1916
+msgid "Text for pay in cash"
+msgstr "Текст для оплаты наличными"
+
+#: admin/views/Themes.php:1909
+msgid "Text for one night error"
+msgstr "Текст на одну ночь ошибки"
+
+#: admin/views/Themes.php:1902
+msgid "Text for no services available(multiple days)"
+msgstr "Текст для каких-либо услуг, доступных (несколько дней)"
+
+#: admin/views/Themes.php:1895
+msgid "Text for no services available(single days)"
+msgstr "Текст для каких-либо услуг, доступных (одиночными дней)"
+
+#: admin/views/Themes.php:1888
+msgid "Text for request successfully received"
+msgstr "Текст запроса успешно получен"
+
+#: admin/views/Themes.php:1881
+msgid "Text for request successfully sent"
+msgstr "Текст запроса успешно отправлен"
+
+#: admin/views/Themes.php:1874
+msgid "Text for submit button"
+msgstr "Текст для кнопки отправки"
+
+#: admin/views/Themes.php:1867
+msgid "Text for total"
+msgstr "Текст для общего"
+
+#: admin/views/Themes.php:1860
+msgid "Text for price"
+msgstr "Текст для цены"
+
+#: admin/views/Themes.php:1853
+msgid "Text for select days"
+msgstr "Текст для избранных дней"
+
+#: admin/views/Themes.php:1846
+msgid "Text for reservation"
+msgstr "Текст для бронирования"
+
+#: admin/views/Themes.php:1839
+msgid "Text for terms & conditions"
+msgstr "Текст для терминов & условий"
+
+#: admin/views/Themes.php:1832
+msgid "Text for item count"
+msgstr "Текст для подсчета пункта"
+
+#: admin/views/Themes.php:1825
+msgid "Text for hour"
+msgstr "Текст для час"
+
+#: admin/views/Themes.php:1818
+msgid "Text for end hour"
+msgstr "Текст на конец час"
+
+#: admin/views/Themes.php:1811
+msgid "Text for start hour"
+msgstr "Текст на час начала"
+
+#: admin/views/Themes.php:1804
+msgid "Text for No hour available."
+msgstr "Текст для нет час доступны."
+
+#: admin/views/Themes.php:1797
+msgid "Text for date"
+msgstr "Текст на дату"
+
+#: admin/views/Themes.php:1790
+msgid "Text for check out"
+msgstr "Текст для заканчивало"
+
+#: admin/views/Themes.php:1783
+msgid "Text for check in"
+msgstr "Текст для регистрации"
+
+#: admin/views/Themes.php:1776
+msgid "Text for unavailable"
+msgstr "Текст для недоступен"
+
+#: admin/views/Themes.php:1769
+msgid "Text for booked"
+msgstr "Текст для забронированы"
+
+#: admin/views/Themes.php:1762
+msgid "Text for available"
+msgstr "Текст для доступен"
+
+#: admin/views/Themes.php:1755
+msgid "Use mo"
+msgstr "Используйте мо"
+
+#: admin/views/Themes.php:1750
+msgid "Default Texts"
+msgstr "По умолчанию Тексты"
+
+#: admin/views/Themes.php:1704
+msgid "PayPal Notification - Payment Failed"
+msgstr "PayPal Уведомление - Сбой оплаты"
+
+#: admin/views/Themes.php:1608
+msgid "Notify when reservation is deleted (rejected)"
+msgstr "Оповещать, когда резервирование удаляется (отклонено)"
+
+#: admin/views/Themes.php:1557
+msgid "Notify when reservation is canceled"
+msgstr "Сообщите, когда резервирование будет отменено"
+
+#: admin/views/Themes.php:1506
+msgid "Notify when reservation is approved"
+msgstr "Оповещать, когда заказ одобрен"
+
+#: admin/views/Themes.php:1448
+msgid "You can use these shortcodes in content of user templates"
+msgstr "Вы можете использовать эти шорткоды в содержании пользовательских шаблонов"
+
+#: admin/views/Themes.php:1394 admin/views/Themes.php:1660
+msgid "PayPal Notification"
+msgstr "PayPal Уведомление"
+
+#: admin/views/Themes.php:1334
+msgid "Notify on approved book request"
+msgstr "Уведомлять по утвержденной запросу книги"
+
+#: admin/views/Themes.php:1325 admin/views/Themes.php:1384
+#: admin/views/Themes.php:1497 admin/views/Themes.php:1548
+#: admin/views/Themes.php:1599 admin/views/Themes.php:1650
+msgid "Enable notification when email doesn't send"
+msgstr "Включить уведомление по электронной почте, когда не посылает"
+
+#: admin/views/Themes.php:1316 admin/views/Themes.php:1375
+#: admin/views/Themes.php:1436 admin/views/Themes.php:1488
+#: admin/views/Themes.php:1539 admin/views/Themes.php:1590
+#: admin/views/Themes.php:1641 admin/views/Themes.php:1694
+#: admin/views/Themes.php:1738
+msgid "Content:"
+msgstr "Содержание:"
+
+#: admin/views/Themes.php:1308 admin/views/Themes.php:1367
+#: admin/views/Themes.php:1428 admin/views/Themes.php:1480
+#: admin/views/Themes.php:1531 admin/views/Themes.php:1582
+#: admin/views/Themes.php:1633 admin/views/Themes.php:1686
+#: admin/views/Themes.php:1730
+msgid "Subject:"
+msgstr "Предмет:"
+
+#: admin/views/Themes.php:1300 admin/views/Themes.php:1359
+#: admin/views/Themes.php:1420 admin/views/Themes.php:1472
+#: admin/views/Themes.php:1523 admin/views/Themes.php:1574
+#: admin/views/Themes.php:1625 admin/views/Themes.php:1678
+#: admin/views/Themes.php:1722
+msgid "From Name:"
+msgstr "От имени:"
+
+#: admin/views/Themes.php:1292 admin/views/Themes.php:1351
+#: admin/views/Themes.php:1412 admin/views/Themes.php:1463
+#: admin/views/Themes.php:1514 admin/views/Themes.php:1565
+#: admin/views/Themes.php:1616 admin/views/Themes.php:1669
+#: admin/views/Themes.php:1713
+msgid "Email From:"
+msgstr "E-mail От:"
+
+#: admin/views/Themes.php:1275 admin/views/Themes.php:1455
+msgid "Notify on book request"
+msgstr "Уведомлять по запросу книги"
+
+#: admin/views/Themes.php:1268
+msgid "You can use this shortcodes in Email From: field"
+msgstr "Вы можете использовать эту шорткоды электронной почте поле От:"
+
+#: admin/views/Themes.php:1261
+msgid "You can use these shortcodes in content of admin templates"
+msgstr "Вы можете использовать эти шорткоды в содержании шаблонов администратора"
+
+#: admin/views/Themes.php:1252
+msgid "Mail footer text font color"
+msgstr "Почтовый сноска цвет шрифта текста"
+
+#: admin/views/Themes.php:1245
+msgid "Mail footer text"
+msgstr "Почтовый текст нижнего колонтитула"
+
+#: admin/views/Themes.php:1238
+msgid "Mail header image"
+msgstr "Почтовый изображение заголовка"
+
+#: admin/views/Themes.php:1231
+msgid "Mail font color"
+msgstr "Цвет шрифта Почта"
+
+#: admin/views/Themes.php:1224
+msgid "Mail content background color"
+msgstr "Почта цвет фона содержимого"
+
+#: admin/views/Themes.php:1217
+msgid "Mail background color"
+msgstr "Цвет фона Почта"
+
+#: admin/views/Themes.php:1205
+msgid "Notifications"
+msgstr "Уведомления"
+
+#: admin/views/Themes.php:1196
+msgid "Widget Day Info border color"
+msgstr "Виджет Информационный день цвет границы"
+
+#: admin/views/Themes.php:1189
+msgid "Widget Day Info color"
+msgstr "цвет Виджет Информационный день"
+
+#: admin/views/Themes.php:1182
+msgid "Widget Day Info background"
+msgstr "Виджет Информационный день фон"
+
+#: admin/views/Themes.php:1175
+msgid "Successfully Info Close color"
+msgstr "Успешно информация Закрыть цвет"
+
+#: admin/views/Themes.php:1168
+msgid "Successfully Info Close background"
+msgstr "Успешно информация Закрыть фон"
+
+#: admin/views/Themes.php:1161
+msgid "Successfully Info Border color"
+msgstr "Успешно цвет Info Border"
+
+#: admin/views/Themes.php:1154
+msgid "Successfully Info color"
+msgstr "Успешно информация цвет"
+
+#: admin/views/Themes.php:1147
+msgid "Successfully Info background"
+msgstr "Успешно Информационный фон"
+
+#: admin/views/Themes.php:1140
+msgid "Error Info Close color"
+msgstr "Error Info Закрыть цвет"
+
+#: admin/views/Themes.php:1133
+msgid "Error Info Close background"
+msgstr "Error Info Закрыть фон"
+
+#: admin/views/Themes.php:1126
+msgid "Error Info Border color"
+msgstr "Ошибка цвета Информация о пограничной"
+
+#: admin/views/Themes.php:1119
+msgid "Error Info color"
+msgstr "Error Info цвет"
+
+#: admin/views/Themes.php:1112
+msgid "Error Info background"
+msgstr "Информация об ошибке фон"
+
+#: admin/views/Themes.php:1105
+msgid "Submit Button color"
+msgstr "Кнопка отправки цвет"
+
+#: admin/views/Themes.php:1098
+msgid "Submit Button background"
+msgstr "Отправить фон кнопки"
+
+#: admin/views/Themes.php:1091
+msgid "Required Star color"
+msgstr "Требуемый цвет звезды"
+
+#: admin/views/Themes.php:1084
+msgid "Total Price color"
+msgstr "Общий цвет Цена"
+
+#: admin/views/Themes.php:1077
+msgid "Total Price background"
+msgstr "Общий фон Цена"
+
+#: admin/views/Themes.php:1070
+msgid "Reservation Info color"
+msgstr "Информация о резервировании цвет"
+
+#: admin/views/Themes.php:1063
+msgid "Form/Extra Fields color"
+msgstr "Форма / Extra цвет поля"
+
+#: admin/views/Themes.php:1056
+msgid "Form/Extra Labels color"
+msgstr "Форма / цвет Дополнительные этикетки"
+
+#: admin/views/Themes.php:1049
+msgid "Form/Extra Title background"
+msgstr "Форма / Дополнительное Название фона"
+
+#: admin/views/Themes.php:1042
+msgid "Form/Extra Title color"
+msgstr "Форма / Extra Цвет Название"
+
+#: admin/views/Themes.php:1035
+msgid "Form boreder color"
+msgstr "Форма boreder цвет"
+
+#: admin/views/Themes.php:1028
+msgid "Form background"
+msgstr "Форма фон"
+
+#: admin/views/Themes.php:1020
+msgid "Info color"
+msgstr "цвет информация"
+
+#: admin/views/Themes.php:1013
+msgid "Info background"
+msgstr "Информационный фон"
+
+#: admin/views/Themes.php:1006
+msgid "Info Icon color"
+msgstr "Информация Значок Цвет"
+
+#: admin/views/Themes.php:999
+msgid "Booked Day Availability color"
+msgstr "Бронирования день цвет Доступность"
+
+#: admin/views/Themes.php:992
+msgid "Booked Day Number color"
+msgstr "Бронирования цвет Номер дня"
+
+#: admin/views/Themes.php:985
+msgid "Booked Day Number background"
+msgstr "Бронирования фон День Номер"
+
+#: admin/views/Themes.php:978
+msgid "Booked Day background"
+msgstr "Бронирования фон День"
+
+#: admin/views/Themes.php:971
+msgid "Unavailable Day Availability color"
+msgstr "Недоступен день цвет Доступность"
+
+#: admin/views/Themes.php:964
+msgid "Unavailable Day Number color"
+msgstr "Недоступен день номер цвета"
+
+#: admin/views/Themes.php:957
+msgid "Unavailable Day Number background"
+msgstr "Недоступен день фон Количество"
+
+#: admin/views/Themes.php:950
+msgid "Unavailable Day background"
+msgstr "Недоступен фон День"
+
+#: admin/views/Themes.php:943
+msgid "Selected Day Price color"
+msgstr "Выбранный цвет день Цена"
+
+#: admin/views/Themes.php:936
+msgid "Selected Day Availability color"
+msgstr "Выбранный цвет день Доступность"
+
+#: admin/views/Themes.php:929
+msgid "Selected Day Number color"
+msgstr "Выбранный цвет день Номер"
+
+#: admin/views/Themes.php:922
+msgid "Selected Day Number background"
+msgstr "Выбранный фон День Номер"
+
+#: admin/views/Themes.php:915
+msgid "Selected Day background"
+msgstr "Выбранный фон День"
+
+#: admin/views/Themes.php:908
+msgid "Available Day Number color"
+msgstr "Доступные цвета Номер дня"
+
+#: admin/views/Themes.php:901
+msgid "Available Day Number background"
+msgstr "Доступный фон День Номер"
+
+#: admin/views/Themes.php:894
+msgid "Available Day background"
+msgstr "Доступный фон День"
+
+#: admin/views/Themes.php:887
+msgid "Day Price color"
+msgstr "День цветов Цена"
+
+#: admin/views/Themes.php:880
+msgid "Day Availability color"
+msgstr "День цветов Наличие"
+
+#: admin/views/Themes.php:873
+msgid "Day Number color"
+msgstr "Цвет Номер дня"
+
+#: admin/views/Themes.php:866
+msgid "Day Number background"
+msgstr "Номер дня фон"
+
+#: admin/views/Themes.php:859
+msgid "Day background"
+msgstr "День фон"
+
+#: admin/views/Themes.php:852
+msgid "Calendar Border color"
+msgstr "Цвет рамки календаря"
+
+#: admin/views/Themes.php:845
+msgid "Calendar background"
+msgstr "Фон календаря"
+
+#: admin/views/Themes.php:838
+msgid "Week Days color"
+msgstr "Дни недели цвет"
+
+#: admin/views/Themes.php:831
+msgid "Week Days background"
+msgstr "Неделя дней фона"
+
+#: admin/views/Themes.php:824
+msgid "Current Year color"
+msgstr "Текущий цвет Год"
+
+#: admin/views/Themes.php:817
+msgid "Current Month color"
+msgstr "Текущий цвет месяц"
+
+#: admin/views/Themes.php:810
+msgid "Next Preview Month color"
+msgstr "Следующий цвет Предварительный месяц"
+
+#: admin/views/Themes.php:803
+msgid "Calendar Header background"
+msgstr "Календарь Заголовок фона"
+
+#: admin/views/Themes.php:796
+msgid "Load Spinner color"
+msgstr "Нагрузка Spinner цвет"
+
+#: admin/views/Themes.php:786
+msgid "Widget Day Info font size"
+msgstr "Виджет Информационный день размер шрифта"
+
+#: admin/views/Themes.php:778
+msgid "Widget Day Info font style"
+msgstr "Виджет Информационный день стиль шрифта"
+
+#: admin/views/Themes.php:770
+msgid "Widget Day Info font weight"
+msgstr "Виджет Информационный день вес шрифта"
+
+#: admin/views/Themes.php:763
+msgid "Reservation Info font size"
+msgstr "Информация о резервировании размер шрифта"
+
+#: admin/views/Themes.php:755
+msgid "Reservation Info font style"
+msgstr "Информация о резервировании стиль шрифта"
+
+#: admin/views/Themes.php:747
+msgid "Reservation Info font weight"
+msgstr "Информация о резервировании вес шрифта"
+
+#: admin/views/Themes.php:739
+msgid "Form Submit font style"
+msgstr "Форма Отправить стиль шрифта"
+
+#: admin/views/Themes.php:731
+msgid "Form Submit font weight"
+msgstr "Подчиненной формы вес шрифта"
+
+#: admin/views/Themes.php:724
+msgid "Form/Extra Fields font size"
+msgstr "Форма / Extra размер шрифта Поля"
+
+#: admin/views/Themes.php:716
+msgid "Form/Extra Fields font style"
+msgstr "Форма / Extra стиль шрифта Поля"
+
+#: admin/views/Themes.php:708
+msgid "Form/Extra Fields font weight"
+msgstr "Форма / Extra Fields вес шрифта"
+
+#: admin/views/Themes.php:701
+msgid "Form/Extra Labels font size"
+msgstr "Форма / Дополнительные этикетки размер шрифта"
+
+#: admin/views/Themes.php:693
+msgid "Form/Extra Labels font style"
+msgstr "Форма / Дополнительные этикетки стиль шрифта"
+
+#: admin/views/Themes.php:685
+msgid "Form/Extra Labels font weight"
+msgstr "Форма / Дополнительные этикетки вес шрифта"
+
+#: admin/views/Themes.php:678
+msgid "Form/Extra Title font size"
+msgstr "Форма / Дополнительное Название размер шрифта"
+
+#: admin/views/Themes.php:670
+msgid "Form/Extra Title font style"
+msgstr "Форма / Extra стиль шрифта Название"
+
+#: admin/views/Themes.php:662
+msgid "Form/Extra Title font weight"
+msgstr "Форма / Дополнительное Название вес шрифта"
+
+#: admin/views/Themes.php:654
+msgid "Info Border radius"
+msgstr "Информация Пограничный радиус"
+
+#: admin/views/Themes.php:647
+msgid "Info font size"
+msgstr "Информация размер шрифта"
+
+#: admin/views/Themes.php:639
+msgid "Info font style"
+msgstr "Информационный стиль шрифта"
+
+#: admin/views/Themes.php:631
+msgid "Info font weight"
+msgstr "Информационный вес шрифта"
+
+#: admin/views/Themes.php:624
+msgid "Hours height"
+msgstr "высота часов"
+
+#: admin/views/Themes.php:617
+msgid "Hours width"
+msgstr "часы ширина"
+
+#: admin/views/Themes.php:610
+msgid "Days height"
+msgstr "высота дней"
+
+#: admin/views/Themes.php:603
+msgid "Day Price font size"
+msgstr "День Цена размер шрифта"
+
+#: admin/views/Themes.php:595
+msgid "Day Price font style"
+msgstr "День Цена стиль шрифта"
+
+#: admin/views/Themes.php:587
+msgid "Day Price font weight"
+msgstr "День Цена вес шрифта"
+
+#: admin/views/Themes.php:580
+msgid "Day Availability font size"
+msgstr "День размер шрифта Доступность"
+
+#: admin/views/Themes.php:572
+msgid "Day Availability font style"
+msgstr "День стиль шрифта Доступность"
+
+#: admin/views/Themes.php:564
+msgid "Day Availability font weight"
+msgstr "День веса Наличие шрифта"
+
+#: admin/views/Themes.php:557
+msgid "Day Number font size"
+msgstr "Номер дня размер шрифта"
+
+#: admin/views/Themes.php:549
+msgid "Day Number font style"
+msgstr "Номер дня стиль шрифта"
+
+#: admin/views/Themes.php:541
+msgid "Day Number font weight"
+msgstr "Номер дня вес шрифта"
+
+#: admin/views/Themes.php:534
+msgid "Week Days font size"
+msgstr "Дни недели размер шрифта"
+
+#: admin/views/Themes.php:526
+msgid "Week Days font style"
+msgstr "Дни недели стиль шрифта"
+
+#: admin/views/Themes.php:518
+msgid "Week Days font weight"
+msgstr "Неделя дней Вес шрифта"
+
+#: admin/views/Themes.php:511
+msgid "Current Year font size"
+msgstr "Текущий год размер шрифта"
+
+#: admin/views/Themes.php:504
+msgid "Current Month font size"
+msgstr "Текущий месяц размер шрифта"
+
+#: admin/views/Themes.php:497
+msgid "Next Prev Month font size"
+msgstr "Следующий Предыдущий месяц размер шрифта"
+
+#: admin/views/Themes.php:490
+msgid "Calendar Header padding"
+msgstr "Календарь Заголовок обивка"
+
+#: admin/views/Themes.php:482
+msgid "Calendar Header font style"
+msgstr "Календарь Заголовок стиль шрифта"
+
+#: admin/views/Themes.php:474
+msgid "Calendar Header font weight"
+msgstr "Календарь Заголовок вес шрифта"
+
+#: admin/views/Themes.php:467
+msgid "Calendar Maximum width"
+msgstr "Календарь Максимальная ширина"
+
+#: admin/views/Themes.php:460
+msgid "Styles and Colors"
+msgstr "Стили и Цвета"
+
+#: admin/views/Themes.php:451
+msgid "After how many days mark reservations as read"
+msgstr "Через сколько дней знак оговорок как прочитанные"
+
+#: admin/views/Themes.php:445
+msgid "Select this if you need approve the booking requests instantly, without moderation"
+msgstr "Выберите эту опцию, если вам нужно одобрить заявки на бронирование мгновенно, без модерации"
+
+#: admin/views/Themes.php:444
+msgid "Enable instant approval"
+msgstr "Включить мгновенное одобрение"
+
+#: admin/views/Themes.php:437
+msgid "Use this option if you need to clear the information for previous dates on calendar"
+msgstr "Используйте эту опцию, если вам нужно, чтобы очистить информацию для предыдущих дат в календаре"
+
+#: admin/views/Themes.php:436
+msgid "Delete previous dates"
+msgstr "Удалить предыдущие даты"
+
+#: admin/views/Themes.php:428
+msgid "Select this option if you need to display days info on hover(only for widget calendar)"
+msgstr "Выберите эту опцию, если нужно отобразить дней информацию о парении (только для календаря виджета)"
+
+#: admin/views/Themes.php:427
+msgid "Show Day Info on Hover"
+msgstr "Показать день Информация о Hover"
+
+#: admin/views/Themes.php:417
+msgid "Add a simple hour field(hh:mm) using \"Add Hour\" button or use our default hours button \"Add Default\", that will add 24 fields with 1 hour inteval for all day. Use 24 hour format."
+msgstr "Добавьте простой час поле (чч: мм) с помощью \"Добавить\" Час кнопку или использовать нашу кнопку часов по умолчанию \"Add Default\", который добавит 24 полей с 1 час выдерживая интервал в течение всего дня. Использовать 24-часовой формат."
+
+#: admin/views/Themes.php:409
+msgid "Display hours availability info when users mouse over on calendar days"
+msgstr "Информация на дисплее часов доступности, когда пользователи мыши над на календарных дней"
+
+#: admin/views/Themes.php:399
+msgid "Choose the type of hours selection in calendar"
+msgstr "Выберите тип выбора часов в календаре"
+
+#: admin/views/Themes.php:381
+msgid "Enable this option if you need to create hour booking calendar"
+msgstr "Включите эту опцию, если вам нужно создать календарь час бронирования"
+
+#: admin/views/Themes.php:370
+msgid "Select the currency position(after or before price)"
+msgstr "Выберите валютную позицию (до или после цены)"
+
+#: admin/views/Themes.php:369
+msgid "Currency Position"
+msgstr "Валюта Позиция"
+
+#: admin/views/Themes.php:361
+msgid "Select the default currency for calendar"
+msgstr "Выберите валюту по умолчанию для календаря"
+
+#: admin/views/Themes.php:360
+msgid "Currency"
+msgstr "валюта"
+
+#: admin/views/Themes.php:334
+msgid "URL"
+msgstr "URL"
+
+#: admin/views/Themes.php:320
+msgid "Message after submition"
+msgstr "Сообщение после submition"
+
+#: admin/views/Themes.php:311
+msgid "Redirect visitor to a new page"
+msgstr "Перенаправление посетителя на новую страницу"
+
+#: admin/views/Themes.php:310
+msgid "Stay on Calendar"
+msgstr "Пребывание на календаре"
+
+#: admin/views/Themes.php:308
+msgid "Selct the action after users submit the booking form"
+msgstr "SELCT действие после того, как пользователи отправляют форму бронирования"
+
+#: admin/views/Themes.php:307
+msgid "Action after submition"
+msgstr "Действие после submition"
+
+#: admin/views/Themes.php:291 includes/admin_menu.php:67
+#: includes/admin_menu.php:98 includes/textfortr.php:59
+#: includes/wpdevart_lib.php:354 includes/wpdevart_lib.php:369
+msgid "Unavailable"
+msgstr "Недоступен"
+
+#: admin/views/Themes.php:276 includes/admin_menu.php:66
+#: includes/admin_menu.php:97 includes/textfortr.php:58
+#: includes/wpdevart_lib.php:353 includes/wpdevart_lib.php:368
+msgid "Booked"
+msgstr "Забронировано"
+
+#: admin/views/Themes.php:260 includes/admin_menu.php:65
+#: includes/admin_menu.php:96 includes/wpdevart_lib.php:352
+#: includes/wpdevart_lib.php:367
+msgid "Available"
+msgstr "Доступный"
+
+#: admin/views/Themes.php:253
+msgid "Display days status texts below calendar(Available, Booked, Unavailable)"
+msgstr "тексты дисплея дней состояния под календарь (Доступно, заказ сделан, будет доступна)"
+
+#: admin/views/Themes.php:252
+msgid "Display days status texts below calendare"
+msgstr "Показать дни тексты состояния под calendare"
+
+#: admin/views/Themes.php:246
+msgid "Show or hide the title of Extra"
+msgstr "Показать или скрыть заголовок Extra"
+
+#: admin/views/Themes.php:245
+msgid "Enable title of Extra"
+msgstr "Включить название Extra"
+
+#: admin/views/Themes.php:239
+msgid "Show or hide the title of form"
+msgstr "Показать или скрыть заголовок формы"
+
+#: admin/views/Themes.php:238
+msgid "Show title of Form"
+msgstr "Показать название формы"
+
+#: admin/views/Themes.php:230
+msgid "Insert here the url for Terms & Conditions text"
+msgstr "Здесь следует включить URL для Условия и условия текста"
+
+#: admin/views/Themes.php:229
+msgid "Terms & Conditions link"
+msgstr "Правила и условия ссылка"
+
+#: admin/views/Themes.php:222
+msgid "Enable Terms & Conditions option"
+msgstr "Включить Условия & Условия опции"
+
+#: admin/views/Themes.php:221
+msgid "Enable Terms & Conditions"
+msgstr "Включить Условия & Условия"
+
+#: admin/views/Themes.php:215
+msgid "Select this option if you don't need to display the number of available events on calendar in front-end"
+msgstr "Выберите этот параметр, если не нужно отображать количество доступных событий в календаре в переднем конце"
+
+#: admin/views/Themes.php:214
+msgid "Hide number of available events"
+msgstr "Скрыть количество доступных событий"
+
+#: admin/views/Themes.php:208
+msgid "Use this option if you need show the number of items in form"
+msgstr "Используйте эту опцию, если вам нужно показать количество элементов в форме"
+
+#: admin/views/Themes.php:207
+msgid "Show items number in form"
+msgstr "Показать номер детали в форме"
+
+#: admin/views/Themes.php:201
+msgid "Show Check in/Check out text in Form"
+msgstr "Показать Прибытие / Отъезд текст в форме"
+
+#: admin/views/Themes.php:200
+msgid "Enable Check in/Check out"
+msgstr "Включить Заезд / Выезд"
+
+#: admin/views/Themes.php:193 admin/views/Themes.php:194
+msgid "Calculate price for night"
+msgstr "Рассчитать цену за ночь"
+
+#: admin/views/Themes.php:187
+msgid "Single day"
+msgstr "Один день"
+
+#: admin/views/Themes.php:187
+msgid "Multiple days"
+msgstr "Несколько дней"
+
+#: admin/views/Themes.php:185
+msgid "Select the type of days selection in calendar"
+msgstr "Выберите тип выбора дней в календаре"
+
+#: admin/views/Themes.php:184
+msgid "Type of days selection in calendar"
+msgstr "Тип выбора дней в календаре"
+
+#: admin/views/Themes.php:169
+msgid "Select unavailable week days for calendar"
+msgstr "Выберите недоступные дни недели для календаря"
+
+#: admin/views/Themes.php:168
+msgid "Unavailable week days"
+msgstr "Недоступные дни недели"
+
+#: admin/views/Themes.php:161
+msgid "Use this option if you need to display form before users select date or hour on the calendar"
+msgstr "Используйте эту опцию, если нужно отобразить форму, прежде чем пользователь может выбрать дату или час на календаре"
+
+#: admin/views/Themes.php:160
+msgid "Show Form before select the days"
+msgstr "Показать форму, прежде чем выбрать дни"
+
+#: admin/views/Themes.php:154
+msgid "After selecting date or hour on calendar you will be scroll down to the form, so correct the scrolling distance using this option, type only numbers(also you can type reverse numbers, for example -150)"
+msgstr "После выбора даты или час на календаре вы будете прокрутите вниз до формы, поэтому корректировать расстояние прокрутки с помощью этого параметра введите только цифры (также вы можете ввести обратный номера, например -150)"
+
+#: admin/views/Themes.php:145
+msgid "Select calendar animation type"
+msgstr "Выберите тип календаря анимации"
+
+#: admin/views/Themes.php:144
+msgid "Calendar Animation type"
+msgstr "Тип календаря Анимация"
+
+#: admin/views/Themes.php:136
+msgid "Select default month for Calendar"
+msgstr "Выберите месяц по умолчанию календарь"
+
+#: admin/views/Themes.php:135
+msgid "Default Month"
+msgstr "По умолчанию месяц"
+
+#: admin/views/Themes.php:128
+msgid "Type here default year(for example 2018)"
+msgstr "Введите здесь год по умолчанию (например, 2018 год)"
+
+#: admin/views/Themes.php:127
+msgid "Default Year"
+msgstr "По умолчанию Год"
+
+#: admin/views/Themes.php:120 admin/views/Themes.php:177
+#: includes/textfortr.php:36
+msgid "Saturday"
+msgstr "суббота"
+
+#: admin/views/Themes.php:119 admin/views/Themes.php:176
+#: includes/textfortr.php:35
+msgid "Friday"
+msgstr "пятница"
+
+#: admin/views/Themes.php:118 admin/views/Themes.php:175
+#: includes/textfortr.php:34
+msgid "Thursday"
+msgstr "Четверг"
+
+#: admin/views/Themes.php:117 admin/views/Themes.php:174
+#: includes/textfortr.php:33
+msgid "Wednesday"
+msgstr "среда"
+
+#: admin/views/Themes.php:116 admin/views/Themes.php:173
+#: includes/textfortr.php:32
+msgid "Tuesday"
+msgstr "вторник"
+
+#: admin/views/Themes.php:115 admin/views/Themes.php:172
+#: includes/textfortr.php:31
+msgid "Monday"
+msgstr "понедельник"
+
+#: admin/views/Themes.php:112
+msgid "Select start day of the week for Calendar"
+msgstr "Выберите день начала недели на календаре"
+
+#: admin/views/Themes.php:111
+msgid "Start Day of the week"
+msgstr "Начало День недели"
+
+#: admin/views/Themes.php:90 includes/textfortr.php:48
+msgid "Su"
+msgstr "Вс"
+
+#: admin/views/Themes.php:89 includes/textfortr.php:39
+msgid "Sun"
+msgstr "Сб"
+
+#: admin/views/Themes.php:88 admin/views/Themes.php:114
+#: admin/views/Themes.php:171 includes/textfortr.php:30
+msgid "Sunday"
+msgstr "Воскресенье"
+
+#: admin/views/Themes.php:86
+msgid "Select week days format"
+msgstr "Выбор формата дни недели"
+
+#: admin/views/Themes.php:85
+msgid "Week days format"
+msgstr "Дни недели формат"
+
+#: admin/views/Themes.php:73
+msgid "Select date format for emails and the reservation table"
+msgstr "Выберите формат даты для электронных писем и заказ столика"
+
+#: admin/views/Themes.php:72
+msgid "Date format"
+msgstr "Формат даты"
+
+#: admin/views/Themes.php:67
+msgid "General"
+msgstr "Главная"
+
+#: admin/views/Themes.php:20 admin/views/Themes.php:2153
+msgid "Add Theme"
+msgstr "Добавить тему"
+
+#: admin/views/Themes.php:18 admin/views/UserPermissions.php:51
+msgid "Themes"
+msgstr "Темы"
+
+#: admin/views/Reservations.php:518
+msgid "Edit Reservation"
+msgstr "Изменить Бронирование"
+
+#: admin/views/Reservations.php:435
+msgid "Reservations Month View"
+msgstr "Бронирование номеров месяц"
+
+#: admin/views/Reservations.php:401
+msgid "Created:"
+msgstr "Создано:"
+
+#: admin/views/Reservations.php:395
+msgid "Update"
+msgstr "Обновить"
+
+#: admin/views/Reservations.php:392
+msgid "Quick Edit"
+msgstr "Быстрое редактирование"
+
+#: admin/views/Reservations.php:371
+msgid "New"
+msgstr "новый"
+
+#: admin/views/Reservations.php:346
+msgid "Paymant Information"
+msgstr "Схема оплаты информация"
+
+#: admin/views/Reservations.php:337
+msgid "Payment Status"
+msgstr "Статус платежа"
+
+#: admin/views/Reservations.php:332
+msgid "Payment method - "
+msgstr "Способ оплаты - "
+
+#: admin/views/Reservations.php:310
+msgid "Shipping address"
+msgstr "Адрес доставки"
+
+#: admin/views/Reservations.php:292
+msgid "Billing address"
+msgstr "Платежный адрес"
+
+#: admin/views/Reservations.php:254 includes/booking_class.php:659
+msgid "Contact Information"
+msgstr "Контактная информация"
+
+#: admin/views/Reservations.php:232 includes/booking_class.php:640
+msgid "Hours"
+msgstr "часов"
+
+#: admin/views/Reservations.php:158
+msgid "Payment information"
+msgstr "Платежная информация"
+
+#: admin/views/Reservations.php:156
+msgid "Reservation information"
+msgstr "информация о резервировании"
+
+#: admin/views/Reservations.php:155
+msgid "Status"
+msgstr "Положение дел"
+
+#: admin/views/Reservations.php:126
+msgid "Search"
+msgstr "Поиск"
+
+#: admin/views/Reservations.php:117
+msgid "Period"
+msgstr "период"
+
+#: admin/views/Reservations.php:113
+msgid "Pending"
+msgstr "в ожидании"
+
+#: admin/views/Reservations.php:110
+msgid "Rejected"
+msgstr "Отклонено"
+
+#: admin/views/Reservations.php:107
+msgid "Canceled"
+msgstr "отменен"
+
+#: admin/views/Reservations.php:104
+msgid "Approved"
+msgstr "утвержденный"
+
+#: admin/views/Reservations.php:102
+msgid "Select Status"
+msgstr "Выберите статус"
+
+#: admin/views/Reservations.php:96 admin/views/Reservations.php:384
+#: admin/views/Reservations.php:394
+msgid "Cancel"
+msgstr "Отмена"
+
+#: admin/views/Reservations.php:95 admin/views/Reservations.php:381
+msgid "Reject"
+msgstr "Отклонить"
+
+#: admin/views/Reservations.php:94 admin/views/Reservations.php:379
+msgid "Approve"
+msgstr "Одобрить"
+
+#: admin/views/Reservations.php:72
+msgid "Filters"
+msgstr "фильтры"
+
+#: admin/views/Reservations.php:69
+msgid "Actions"
+msgstr "действия"
+
+#: admin/views/Reservations.php:66
+msgid "Statistics"
+msgstr "Статистика"
+
+#: admin/views/Reservations.php:54 admin/views/Reservations.php:438
+#: admin/views/Reservations.php:482
+msgid "Select Calendar"
+msgstr "Выберите календарь"
+
+#: admin/views/Forms.php:141
+msgid "Form fields"
+msgstr "поля формы"
+
+#: admin/views/Forms.php:131
+msgid "Checkbox"
+msgstr "флажок"
+
+#: admin/views/Forms.php:130
+msgid "Textarea"
+msgstr "Текстовое поле"
+
+#: admin/views/Forms.php:129
+msgid "Text"
+msgstr "Текст"
+
+#: admin/views/Forms.php:126
+msgid "Add form field"
+msgstr "Добавить поле формы"
+
+#: admin/views/Forms.php:122
+msgid "Form Name"
+msgstr "Имя формы"
+
+#: admin/views/Forms.php:112
+msgid "Edit Form"
+msgstr "Редактировать форму"
+
+#: admin/views/Forms.php:20 admin/views/Forms.php:117
+msgid "Add Form"
+msgstr "Добавить анкету"
+
+#: admin/views/Forms.php:18 admin/views/UserPermissions.php:33
+msgid "Forms"
+msgstr "формы"
+
+#: admin/views/Extras.php:175
+msgid "Extras fields"
+msgstr "Дополнительно поля"
+
+#: admin/views/Extras.php:164
+msgid "Extra Name"
+msgstr "Дополнительное имя"
+
+#: admin/views/Extras.php:154
+msgid "Edit Extra"
+msgstr "Редактировать доболнителное"
+
+#: admin/views/Extras.php:20 admin/views/Extras.php:159
+msgid "Add Extra"
+msgstr "Добавить дополнительное"
+
+#: admin/views/Extras.php:18 admin/views/UserPermissions.php:42
+msgid "Extras"
+msgstr "Дополнительно"
+
+#: admin/views/Calendars.php:317 admin/views/Themes.php:2255
+#: includes/textfortr.php:13
+msgid "December"
+msgstr "Декабрь"
+
+#: admin/views/Calendars.php:316 admin/views/Themes.php:2254
+#: includes/textfortr.php:12
+msgid "November"
+msgstr "ноябрь"
+
+#: admin/views/Calendars.php:315 admin/views/Themes.php:2253
+#: includes/textfortr.php:11
+msgid "October"
+msgstr "октября"
+
+#: admin/views/Calendars.php:314 admin/views/Themes.php:2252
+#: includes/textfortr.php:10
+msgid "September"
+msgstr "сентябрь"
+
+#: admin/views/Calendars.php:313 admin/views/Themes.php:2251
+#: includes/textfortr.php:9
+msgid "August"
+msgstr "август"
+
+#: admin/views/Calendars.php:312 admin/views/Themes.php:2250
+#: includes/textfortr.php:8
+msgid "July"
+msgstr "июль"
+
+#: admin/views/Calendars.php:311 admin/views/Themes.php:2249
+#: includes/textfortr.php:7
+msgid "June"
+msgstr "июнь"
+
+#: admin/views/Calendars.php:310 admin/views/Themes.php:2248
+#: includes/textfortr.php:6 includes/textfortr.php:20
+msgid "May"
+msgstr "май"
+
+#: admin/views/Calendars.php:309 admin/views/Themes.php:2247
+#: includes/textfortr.php:5
+msgid "April"
+msgstr "апрель"
+
+#: admin/views/Calendars.php:308 admin/views/Themes.php:2246
+#: includes/textfortr.php:4
+msgid "March"
+msgstr "Март"
+
+#: admin/views/Calendars.php:307 admin/views/Themes.php:2245
+#: includes/textfortr.php:3
+msgid "February"
+msgstr "февраль"
+
+#: admin/views/Calendars.php:306 admin/views/Themes.php:2244
+#: includes/textfortr.php:2
+msgid "January"
+msgstr "январь"
+
+#: admin/views/Calendars.php:305 admin/views/Themes.php:2243
+msgid "Current"
+msgstr "Текущий"
+
+#: admin/views/Calendars.php:247
+msgid "Edit Calendar"
+msgstr "Изменить календарь"
+
+#: admin/views/Calendars.php:233
+msgid "End Date"
+msgstr "Дата окончания"
+
+#: admin/views/Calendars.php:226
+msgid "Start Date"
+msgstr "Дата начала"
+
+#: admin/views/Calendars.php:107
+msgid "Extra"
+msgstr "Дополнительно"
+
+#: admin/views/Calendars.php:99
+msgid "Form"
+msgstr "форма"
+
+#: admin/views/Calendars.php:90
+msgid "Theme"
+msgstr "тема"
+
+#: admin/views/Calendars.php:83
+msgid "Calendar Title"
+msgstr "Календарь Название"
+
+#: admin/views/Calendars.php:32 admin/views/Calendars.php:43
+#: admin/views/Extras.php:38 admin/views/Extras.php:48 admin/views/Forms.php:38
+#: admin/views/Forms.php:48 admin/views/Reservations.php:390
+#: admin/views/Themes.php:38 admin/views/Themes.php:48
+msgid "Edit"
+msgstr "редактировать"
+
+#: admin/views/Calendars.php:31
+msgid "Shortcode"
+msgstr "Короткий код"
+
+#: admin/views/Calendars.php:30 admin/views/Extras.php:37
+#: admin/views/Forms.php:37 admin/views/Themes.php:37
+msgid "Title"
+msgstr "заглавие"
+
+#: admin/views/Calendars.php:29 admin/views/Extras.php:36
+#: admin/views/Forms.php:36 admin/views/Reservations.php:154
+#: admin/views/Themes.php:36
+msgid "ID"
+msgstr "ID"
+
+#: admin/views/Calendars.php:21 admin/views/Calendars.php:33
+#: admin/views/Calendars.php:44 admin/views/Extras.php:21
+#: admin/views/Extras.php:39 admin/views/Extras.php:49 admin/views/Forms.php:21
+#: admin/views/Forms.php:39 admin/views/Forms.php:49
+#: admin/views/Reservations.php:97 admin/views/Reservations.php:386
+#: admin/views/Themes.php:21 admin/views/Themes.php:39
+#: admin/views/Themes.php:49
+msgid "Delete"
+msgstr "Удалить"
+
+#: admin/views/Calendars.php:20 admin/views/Calendars.php:252
+msgid "Add Calendar"
+msgstr "Добавить календарь"
+
+#: admin/views/Calendars.php:18 admin/views/UserPermissions.php:15
+msgid "Calendars"
+msgstr "Календари"
+
+#: admin/controllers/Reservations.php:608 admin/models/Reservations.php:276
+#: includes/booking_class.php:1963
+msgid "Select Country"
+msgstr "Выберите страну"
+
+#: admin/controllers/Payment.php:183 admin/controllers/Reservations.php:426
+#: admin/views/Reservations.php:285 includes/booking_class.php:693
+#: includes/main_class.php:545
+msgid "Price change"
+msgstr "изменение цен"
+
+#: admin/controllers/Payment.php:170 admin/controllers/Reservations.php:413
+#: admin/views/Reservations.php:272 includes/booking_class.php:676
+#: includes/booking_class.php:1394
+msgid "Extra Information"
+msgstr "Дополнительная информация"
+
+#: admin/controllers/Payment.php:152 admin/controllers/Reservations.php:394
+#: admin/views/Reservations.php:222 includes/booking_class.php:634
+#: includes/booking_class.php:1375
+msgid "Total Price"
+msgstr "Итоговая цена"
+
+#: admin/controllers/Payment.php:151 admin/controllers/Reservations.php:391
+#: admin/views/Reservations.php:221 includes/admin_menu.php:63
+#: includes/admin_menu.php:94 includes/booking_class.php:633
+#: includes/booking_class.php:1372 includes/main_class.php:532
+#: includes/textfortr.php:69 includes/wpdevart_lib.php:349
+#: includes/wpdevart_lib.php:364
+msgid "Price"
+msgstr "Цена"
+
+#: admin/controllers/Payment.php:149 admin/controllers/Reservations.php:388
+#: admin/views/Reservations.php:160 includes/booking_class.php:1369
+msgid "Reservation dates"
+msgstr "даты бронирования"
+
+#: admin/controllers/Payment.php:148 admin/controllers/Reservations.php:387
+#: admin/views/Reservations.php:219 includes/booking_class.php:1368
+msgid "Details"
+msgstr "Детали"
+
+#: admin/controllers/Payment.php:143 admin/controllers/Reservations.php:382
+#: admin/views/Reservations.php:367 booking_calendar.php:115
+#: includes/admin_menu.php:62 includes/admin_menu.php:80
+#: includes/admin_menu.php:93 includes/booking_class.php:627
+#: includes/booking_class.php:1363 includes/main_class.php:525
+#: includes/wpdevart_lib.php:348 includes/wpdevart_lib.php:363
+msgid "Hour"
+msgstr "Час"

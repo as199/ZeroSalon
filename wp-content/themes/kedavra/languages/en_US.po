@@ -1,0 +1,3582 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kedavra\n"
+"POT-Creation-Date: 2015-06-15 15:07+0700\n"
+"PO-Revision-Date: 2015-06-15 15:07+0700\n"
+"Last-Translator: Rizki Akmanda <rizkiakmanda@gmail.com>\n"
+"Language-Team: themesawesome <admin@themesawesome.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPath-2: ..\n"
+"X-Poedit-SearchPath-3: .\n"
+
+#: 404.php:10 ../kedavra/404.php:10
+msgid "Sorry, page not found."
+msgstr ""
+
+#: 404.php:11 ../kedavra/404.php:11
+msgid "The page you are looking for is no longer available or has been moved."
+msgstr ""
+
+#: 404.php:17 ../kedavra/404.php:17
+msgid "Search the site"
+msgstr ""
+
+#: 404.php:25 ../kedavra/404.php:25
+msgid "Latest Article"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:161 class-tgm.php:129
+#: ../kedavra/class-tgm-plugin-activation.php:161 ../kedavra/class-tgm.php:129
+msgid "Install Required Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:162 class-tgm.php:130
+#: ../kedavra/class-tgm-plugin-activation.php:162 ../kedavra/class-tgm.php:130
+msgid "Install Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:163 class-tgm.php:131
+#: ../kedavra/class-tgm-plugin-activation.php:163 ../kedavra/class-tgm.php:131
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:164
+#: ../kedavra/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:175 class-tgm.php:143
+#: ../kedavra/class-tgm-plugin-activation.php:175 ../kedavra/class-tgm.php:143
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:176
+#: ../kedavra/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:177 class-tgm-plugin-activation.php:1956
+#: class-tgm.php:144 ../kedavra/class-tgm-plugin-activation.php:177
+#: ../kedavra/class-tgm-plugin-activation.php:1956
+#: ../kedavra/class-tgm.php:144
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:178
+#: ../kedavra/class-tgm-plugin-activation.php:178
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:179
+#: ../kedavra/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:180
+#: ../kedavra/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:532 class-tgm-plugin-activation.php:2173
+#: ../kedavra/class-tgm-plugin-activation.php:532
+#: ../kedavra/class-tgm-plugin-activation.php:2173
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1167 class-tgm-plugin-activation.php:1348
+#: ../kedavra/class-tgm-plugin-activation.php:1167
+#: ../kedavra/class-tgm-plugin-activation.php:1348
+msgid "Private Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1170 class-tgm-plugin-activation.php:1351
+#: ../kedavra/class-tgm-plugin-activation.php:1170
+#: ../kedavra/class-tgm-plugin-activation.php:1351
+msgid "Pre-Packaged"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1175
+#: ../kedavra/class-tgm-plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1178
+#: ../kedavra/class-tgm-plugin-activation.php:1178
+msgid "Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1178
+#: ../kedavra/class-tgm-plugin-activation.php:1178
+msgid "Recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1181
+#: ../kedavra/class-tgm-plugin-activation.php:1181
+msgid "Not Installed"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1183
+#: ../kedavra/class-tgm-plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1288 class-tgm-plugin-activation.php:1409
+#: ../kedavra/class-tgm-plugin-activation.php:1288
+#: ../kedavra/class-tgm-plugin-activation.php:1409
+msgid "Install"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1312 class-tgm-plugin-activation.php:1410
+#: ../kedavra/class-tgm-plugin-activation.php:1312
+#: ../kedavra/class-tgm-plugin-activation.php:1410
+msgid "Activate"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1372
+#: ../kedavra/class-tgm-plugin-activation.php:1372
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1388
+#: ../kedavra/class-tgm-plugin-activation.php:1388
+msgid "Plugin"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1389
+#: ../kedavra/class-tgm-plugin-activation.php:1389
+msgid "Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1390
+#: ../kedavra/class-tgm-plugin-activation.php:1390
+msgid "Type"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1391
+#: ../kedavra/class-tgm-plugin-activation.php:1391
+msgid "Status"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1939
+#: ../kedavra/class-tgm-plugin-activation.php:1939
+msgid "Install package not available."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1940
+#: ../kedavra/class-tgm-plugin-activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1941
+#: ../kedavra/class-tgm-plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1942
+#: ../kedavra/class-tgm-plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1943
+#: ../kedavra/class-tgm-plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1944
+#: ../kedavra/class-tgm-plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1955
+#: ../kedavra/class-tgm-plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2069
+#: ../kedavra/class-tgm-plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2070
+#: ../kedavra/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2070 class-tgm-plugin-activation.php:2079
+#: ../kedavra/class-tgm-plugin-activation.php:2070
+#: ../kedavra/class-tgm-plugin-activation.php:2079
+msgid "Show Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2070 class-tgm-plugin-activation.php:2079
+#: ../kedavra/class-tgm-plugin-activation.php:2070
+#: ../kedavra/class-tgm-plugin-activation.php:2079
+msgid "Hide Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2071
+#: ../kedavra/class-tgm-plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2072
+#: ../kedavra/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2076
+#: ../kedavra/class-tgm-plugin-activation.php:2076
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2077
+#: ../kedavra/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2078
+#: ../kedavra/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2079
+#: ../kedavra/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2080
+#: ../kedavra/class-tgm-plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2081
+#: ../kedavra/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm.php:132 ../kedavra/class-tgm.php:132
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: class-tgm.php:145 ../kedavra/class-tgm.php:145
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: comments.php:20 comments.php:35 ../kedavra/comments.php:20
+#: ../kedavra/comments.php:35
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:21 comments.php:36 ../kedavra/comments.php:21
+#: ../kedavra/comments.php:36
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:22 comments.php:37 ../kedavra/comments.php:22
+#: ../kedavra/comments.php:37
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:47 ../kedavra/comments.php:47
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:179 ../kedavra/functions.php:179
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:192 ../kedavra/functions.php:192
+msgid "Causes Sidebar"
+msgstr ""
+
+#: functions.php:284 ../kedavra/functions.php:284
+msgid "KEDAVRA BUILDER"
+msgstr ""
+
+#: single-kedavra-portfolio.php:45 inc/widget/grid-block/tpl/base.php:68
+#: ../kedavra/single-kedavra-portfolio.php:45
+#: ../kedavra/inc/widget/grid-block/tpl/base.php:68
+msgid "Raised "
+msgstr ""
+
+#: single-kedavra-portfolio.php:48 inc/widget/grid-block/tpl/base.php:71
+#: ../kedavra/single-kedavra-portfolio.php:48
+#: ../kedavra/inc/widget/grid-block/tpl/base.php:71
+msgid "Donors "
+msgstr ""
+
+#: single-kedavra-portfolio.php:51 inc/widget/grid-block/tpl/base.php:74
+#: ../kedavra/single-kedavra-portfolio.php:51
+#: ../kedavra/inc/widget/grid-block/tpl/base.php:74
+msgid "Goal "
+msgstr ""
+
+#: single-kedavra-portfolio.php:102 single-kedavra-portfolio.php:138
+#: ../kedavra/single-kedavra-portfolio.php:102
+#: ../kedavra/single-kedavra-portfolio.php:138
+msgid "Client : "
+msgstr ""
+
+#: single-kedavra-portfolio.php:105 single-kedavra-portfolio.php:141
+#: ../kedavra/single-kedavra-portfolio.php:105
+#: ../kedavra/single-kedavra-portfolio.php:141
+msgid "Date : "
+msgstr ""
+
+#: single-kedavra-portfolio.php:108 single-kedavra-portfolio.php:144
+#: ../kedavra/single-kedavra-portfolio.php:108
+#: ../kedavra/single-kedavra-portfolio.php:144
+msgid "Online : "
+msgstr ""
+
+#: inc/format/content-no-result.php:8
+#: ../kedavra/inc/format/content-no-result.php:8
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/format/content-no-result.php:12
+#: ../kedavra/inc/format/content-no-result.php:12
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: inc/format/content.php:41 ../kedavra/inc/format/content.php:41
+msgid "Tags: "
+msgstr ""
+
+#: inc/format/content.php:42 ../kedavra/inc/format/content.php:42
+msgid "Categories: "
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:26
+#: ../kedavra/inc/function/akmanda-customizer.php:26
+msgid "Header"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:60
+#: ../kedavra/inc/function/akmanda-customizer.php:60
+msgid "Menu List Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:67
+#: ../kedavra/inc/function/akmanda-customizer.php:67
+msgid "Menu Background Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:74
+#: ../kedavra/inc/function/akmanda-customizer.php:74
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:85
+#: ../kedavra/inc/function/akmanda-customizer.php:85
+msgid "Content"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:307
+#: ../kedavra/inc/function/akmanda-customizer.php:307
+msgid "Title Page Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:314
+#: inc/function/akmanda-customizer.php:527
+#: ../kedavra/inc/function/akmanda-customizer.php:314
+#: ../kedavra/inc/function/akmanda-customizer.php:527
+msgid "Description Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:322
+#: ../kedavra/inc/function/akmanda-customizer.php:322
+msgid "Testimonial Text Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:329
+#: ../kedavra/inc/function/akmanda-customizer.php:329
+msgid "Title Newsletter Text Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:336
+#: ../kedavra/inc/function/akmanda-customizer.php:336
+msgid "Blog Title Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:343
+#: ../kedavra/inc/function/akmanda-customizer.php:343
+msgid "Blog Date Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:350
+#: ../kedavra/inc/function/akmanda-customizer.php:350
+msgid "Blog Background Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:357
+#: ../kedavra/inc/function/akmanda-customizer.php:357
+msgid "Blog Single Date Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:364
+#: ../kedavra/inc/function/akmanda-customizer.php:364
+msgid "Blog Single Background 1 Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:371
+#: ../kedavra/inc/function/akmanda-customizer.php:371
+msgid "Blog Single Background 2 Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:378
+#: ../kedavra/inc/function/akmanda-customizer.php:378
+msgid "Blog Single Detail Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:385
+#: ../kedavra/inc/function/akmanda-customizer.php:385
+msgid "Portfolio/Causes Background Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:392
+#: ../kedavra/inc/function/akmanda-customizer.php:392
+msgid "Portfolio/Causes Title Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:399
+#: ../kedavra/inc/function/akmanda-customizer.php:399
+msgid "Causes Detail Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:406
+#: ../kedavra/inc/function/akmanda-customizer.php:406
+msgid "Single Causes Percentage Bar Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:413
+#: ../kedavra/inc/function/akmanda-customizer.php:413
+msgid "Single Causes Icon Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:420
+#: ../kedavra/inc/function/akmanda-customizer.php:420
+msgid "Single Causes & Blog Sidebar Button with underline Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:427
+#: ../kedavra/inc/function/akmanda-customizer.php:427
+msgid "Single Portfolio Title Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:434
+#: ../kedavra/inc/function/akmanda-customizer.php:434
+msgid "Single Portfolio Detail Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:441
+#: ../kedavra/inc/function/akmanda-customizer.php:441
+msgid "Single Portfolio Website link Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:448
+#: ../kedavra/inc/function/akmanda-customizer.php:448
+msgid "Website link & Button Next/Previous Hover Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:455
+#: ../kedavra/inc/function/akmanda-customizer.php:455
+msgid "Blog Sidebar Border Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:462
+#: ../kedavra/inc/function/akmanda-customizer.php:462
+msgid "Background Sidebar Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:469
+#: ../kedavra/inc/function/akmanda-customizer.php:469
+msgid "Title Widget Sidebar Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:476
+#: ../kedavra/inc/function/akmanda-customizer.php:476
+msgid "Link Widget Sidebar Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:483
+#: ../kedavra/inc/function/akmanda-customizer.php:483
+msgid "Background Form Contact Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:490
+#: ../kedavra/inc/function/akmanda-customizer.php:490
+msgid "Border Form Contact Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:501
+#: ../kedavra/inc/function/akmanda-customizer.php:501
+msgid "Builder"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:534
+#: ../kedavra/inc/function/akmanda-customizer.php:534
+msgid "Button With Border Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:545
+#: ../kedavra/inc/function/akmanda-customizer.php:545
+msgid "Footer"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:626
+#: ../kedavra/inc/function/akmanda-customizer.php:626
+msgid "Footer style 1 Background Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:633
+#: ../kedavra/inc/function/akmanda-customizer.php:633
+msgid "Footer style 2 Background Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:640
+#: ../kedavra/inc/function/akmanda-customizer.php:640
+msgid "Footer Border Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:647
+#: ../kedavra/inc/function/akmanda-customizer.php:647
+msgid "Footer Title Widget Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:654
+#: ../kedavra/inc/function/akmanda-customizer.php:654
+msgid "Footer Text Widget Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:661
+#: ../kedavra/inc/function/akmanda-customizer.php:661
+msgid "Footer Copyright Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:668
+#: ../kedavra/inc/function/akmanda-customizer.php:668
+msgid "Footer Social Icon Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:675
+#: ../kedavra/inc/function/akmanda-customizer.php:675
+msgid "Footer Style 2 Slogan Text Color"
+msgstr ""
+
+#: inc/function/akmanda-customizer.php:682
+#: ../kedavra/inc/function/akmanda-customizer.php:682
+msgid "Footer Style 2 Button Color"
+msgstr ""
+
+#: inc/function/comment.php:16 ../kedavra/inc/function/comment.php:16
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/function/comment.php:21 ../kedavra/inc/function/comment.php:21
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/function/comment.php:34 ../kedavra/inc/function/comment.php:34
+msgid "Edit"
+msgstr ""
+
+#: inc/function/custom.php:80 ../kedavra/inc/function/custom.php:80
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/function/navigation.php:46 ../kedavra/inc/function/navigation.php:46
+msgid "OLDER POST"
+msgstr ""
+
+#: inc/function/navigation.php:50 ../kedavra/inc/function/navigation.php:50
+msgid "NEWER POST"
+msgstr ""
+
+#: inc/function/thefooter.php:9 inc/function/thefooter.php:23
+#: inc/function/thefooter.php:46 inc/function/thefooter.php:79
+#: ../kedavra/inc/function/thefooter.php:9
+#: ../kedavra/inc/function/thefooter.php:23
+#: ../kedavra/inc/function/thefooter.php:46
+#: ../kedavra/inc/function/thefooter.php:79
+msgid "Footer 1"
+msgstr ""
+
+#: inc/function/thefooter.php:33 inc/function/thefooter.php:56
+#: inc/function/thefooter.php:89 ../kedavra/inc/function/thefooter.php:33
+#: ../kedavra/inc/function/thefooter.php:56
+#: ../kedavra/inc/function/thefooter.php:89
+msgid "Footer 2"
+msgstr ""
+
+#: inc/function/thefooter.php:66 inc/function/thefooter.php:99
+#: ../kedavra/inc/function/thefooter.php:66
+#: ../kedavra/inc/function/thefooter.php:99
+msgid "Footer 3"
+msgstr ""
+
+#: inc/function/thefooter.php:109 ../kedavra/inc/function/thefooter.php:109
+msgid "Footer 4"
+msgstr ""
+
+#: inc/widget/about-block/about-block.php:9
+#: ../kedavra/inc/widget/about-block/about-block.php:9
+msgid "About Block"
+msgstr ""
+
+#: inc/widget/about-block/about-block.php:12
+#: ../kedavra/inc/widget/about-block/about-block.php:12
+msgid "Widget to show About Description"
+msgstr ""
+
+#: inc/widget/about-block/about-block.php:24
+#: inc/widget/about2-block/about2-block.php:31
+#: ../kedavra/inc/widget/about-block/about-block.php:24
+#: ../kedavra/inc/widget/about2-block/about2-block.php:31
+msgid "Insert About Image"
+msgstr ""
+
+#: inc/widget/about-block/about-block.php:25
+#: inc/widget/about2-block/about2-block.php:32
+#: inc/widget/author-block/author-block.php:27
+#: inc/widget/author-block/author-block.php:154
+#: inc/widget/feature-block/feature-block.php:42
+#: inc/widget/heroimage-block/heroimage-block.php:114
+#: inc/widget/image-block/image-block.php:21
+#: inc/widget/partner-block/partner-block.php:44
+#: inc/widget/service-block/service-block.php:33
+#: inc/widget/slider-block/slider-block.php:70
+#: inc/widget/slider-block/slider-block.php:207
+#: ../kedavra/inc/widget/about-block/about-block.php:25
+#: ../kedavra/inc/widget/about2-block/about2-block.php:32
+#: ../kedavra/inc/widget/author-block/author-block.php:27
+#: ../kedavra/inc/widget/author-block/author-block.php:154
+#: ../kedavra/inc/widget/feature-block/feature-block.php:42
+#: ../kedavra/inc/widget/heroimage-block/heroimage-block.php:114
+#: ../kedavra/inc/widget/image-block/image-block.php:21
+#: ../kedavra/inc/widget/partner-block/partner-block.php:44
+#: ../kedavra/inc/widget/service-block/service-block.php:33
+#: ../kedavra/inc/widget/slider-block/slider-block.php:70
+#: ../kedavra/inc/widget/slider-block/slider-block.php:207
+msgid "Choose image"
+msgstr ""
+
+#: inc/widget/about-block/about-block.php:26
+#: inc/widget/about2-block/about2-block.php:33
+#: inc/widget/author-block/author-block.php:28
+#: inc/widget/author-block/author-block.php:155
+#: inc/widget/feature-block/feature-block.php:43
+#: inc/widget/heroimage-block/heroimage-block.php:115
+#: inc/widget/image-block/image-block.php:22
+#: inc/widget/partner-block/partner-block.php:45
+#: inc/widget/service-block/service-block.php:34
+#: inc/widget/slider-block/slider-block.php:71
+#: inc/widget/slider-block/slider-block.php:208
+#: ../kedavra/inc/widget/about-block/about-block.php:26
+#: ../kedavra/inc/widget/about2-block/about2-block.php:33
+#: ../kedavra/inc/widget/author-block/author-block.php:28
+#: ../kedavra/inc/widget/author-block/author-block.php:155
+#: ../kedavra/inc/widget/feature-block/feature-block.php:43
+#: ../kedavra/inc/widget/heroimage-block/heroimage-block.php:115
+#: ../kedavra/inc/widget/image-block/image-block.php:22
+#: ../kedavra/inc/widget/partner-block/partner-block.php:45
+#: ../kedavra/inc/widget/service-block/service-block.php:34
+#: ../kedavra/inc/widget/slider-block/slider-block.php:71
+#: ../kedavra/inc/widget/slider-block/slider-block.php:208
+msgid "Set image"
+msgstr ""
+
+#: inc/widget/about-block/about-block.php:32
+#: inc/widget/about2-block/about2-block.php:81
+#: ../kedavra/inc/widget/about-block/about-block.php:32
+#: ../kedavra/inc/widget/about2-block/about2-block.php:81
+msgid "About Image Animation"
+msgstr ""
+
+#: inc/widget/about-block/about-block.php:40
+#: inc/widget/about-block/about-block.php:68
+#: inc/widget/about2-block/about2-block.php:89
+#: inc/widget/about2-block/about2-block.php:103
+#: inc/widget/author-block/author-block.php:139
+#: inc/widget/author-block/author-block.php:279
+#: inc/widget/button-block/button-block.php:43
+#: inc/widget/counter-block/counter-block.php:31
+#: inc/widget/feature-block/feature-block.php:166
+#: inc/widget/heroimage-block/heroimage-block.php:68
+#: inc/widget/html-block/html-block.php:47
+#: inc/widget/image-block/image-block.php:36
+#: inc/widget/menu-block/menu-block.php:149
+#: inc/widget/service-block/service-block.php:121
+#: inc/widget/service-block/service-block.php:228
+#: inc/widget/skill-block/skill-block.php:33
+#: inc/widget/slider-block/slider-block.php:171
+#: inc/widget/slider-block/slider-block.php:310
+#: inc/widget/slogan-block/slogan-block.php:28
+#: inc/widget/team-block/team-block.php:51
+#: inc/widget/team-block/team-block.php:65
+#: inc/widget/title-block/title-block.php:110
+#: ../kedavra/inc/widget/about-block/about-block.php:40
+#: ../kedavra/inc/widget/about-block/about-block.php:68
+#: ../kedavra/inc/widget/about2-block/about2-block.php:89
+#: ../kedavra/inc/widget/about2-block/about2-block.php:103
+#: ../kedavra/inc/widget/author-block/author-block.php:139
+#: ../kedavra/inc/widget/author-block/author-block.php:279
+#: ../kedavra/inc/widget/button-block/button-block.php:43
+#: ../kedavra/inc/widget/counter-block/counter-block.php:31
+#: ../kedavra/inc/widget/feature-block/feature-block.php:166
+#: ../kedavra/inc/widget/heroimage-block/heroimage-block.php:68
+#: ../kedavra/inc/widget/html-block/html-block.php:47
+#: ../kedavra/inc/widget/image-block/image-block.php:36
+#: ../kedavra/inc/widget/menu-block/menu-block.php:149
+#: ../kedavra/inc/widget/service-block/service-block.php:121
+#: ../kedavra/inc/widget/service-block/service-block.php:228
+#: ../kedavra/inc/widget/skill-block/skill-block.php:33
+#: ../kedavra/inc/widget/slider-block/slider-block.php:171
+#: ../kedavra/inc/widget/slider-block/slider-block.php:310
+#: ../kedavra/inc/widget/slogan-block/slogan-block.php:28
+#: ../kedavra/inc/widget/team-block/team-block.php:51
+#: ../kedavra/inc/widget/team-block/team-block.php:65
+#: ../kedavra/inc/widget/title-block/title-block.php:110
+msgid "Animation Delay (decimal allowed)"
+msgstr ""
+
+#: inc/widget/about-block/about-block.php:46
+#: inc/widget/about2-block/about2-block.php:39
+#: ../kedavra/inc/widget/about-block/about-block.php:46
+#: ../kedavra/inc/widget/about2-block/about2-block.php:39
+msgid "Your About Title"
+msgstr ""
+
+#: inc/widget/about-block/about-block.php:52
+#: inc/widget/about2-block/about2-block.php:45
+#: ../kedavra/inc/widget/about-block/about-block.php:52
+#: ../kedavra/inc/widget/about2-block/about2-block.php:45
+msgid "About Description"
+msgstr ""
+
+#: inc/widget/about-block/about-block.php:60
+#: inc/widget/about2-block/about2-block.php:95
+#: ../kedavra/inc/widget/about-block/about-block.php:60
+#: ../kedavra/inc/widget/about2-block/about2-block.php:95
+msgid "About Text Animation"
+msgstr ""
+
+#: inc/widget/about-block/about-block.php:74
+#: inc/widget/about2-block/about2-block.php:64
+#: ../kedavra/inc/widget/about-block/about-block.php:74
+#: ../kedavra/inc/widget/about2-block/about2-block.php:64
+msgid "About Title Color"
+msgstr ""
+
+#: inc/widget/about-block/about-block.php:80
+#: inc/widget/about2-block/about2-block.php:53
+#: inc/widget/author-block/author-block.php:181
+#: inc/widget/feature-block/feature-block.php:74
+#: inc/widget/service-block/service-block.php:234
+#: inc/widget/slogan-block/slogan-block.php:48
+#: ../kedavra/inc/widget/about-block/about-block.php:80
+#: ../kedavra/inc/widget/about2-block/about2-block.php:53
+#: ../kedavra/inc/widget/author-block/author-block.php:181
+#: ../kedavra/inc/widget/feature-block/feature-block.php:74
+#: ../kedavra/inc/widget/service-block/service-block.php:234
+#: ../kedavra/inc/widget/slogan-block/slogan-block.php:48
+msgid "Title Align "
+msgstr ""
+
+#: inc/widget/about-block/about-block.php:83
+#: inc/widget/about2-block/about2-block.php:56
+#: inc/widget/author-block/author-block.php:184
+#: inc/widget/button-block/button-block.php:81
+#: inc/widget/feature-block/feature-block.php:77
+#: inc/widget/heroimage-block/heroimage-block.php:52
+#: inc/widget/html-block/html-block.php:31
+#: inc/widget/service-block/service-block.php:237
+#: inc/widget/service-block/service-block.php:248
+#: inc/widget/slogan-block/slogan-block.php:51
+#: inc/widget/title-block/title-block.php:82
+#: ../kedavra/inc/widget/about-block/about-block.php:83
+#: ../kedavra/inc/widget/about2-block/about2-block.php:56
+#: ../kedavra/inc/widget/author-block/author-block.php:184
+#: ../kedavra/inc/widget/button-block/button-block.php:81
+#: ../kedavra/inc/widget/feature-block/feature-block.php:77
+#: ../kedavra/inc/widget/heroimage-block/heroimage-block.php:52
+#: ../kedavra/inc/widget/html-block/html-block.php:31
+#: ../kedavra/inc/widget/service-block/service-block.php:237
+#: ../kedavra/inc/widget/service-block/service-block.php:248
+#: ../kedavra/inc/widget/slogan-block/slogan-block.php:51
+#: ../kedavra/inc/widget/title-block/title-block.php:82
+msgid "Center"
+msgstr ""
+
+#: inc/widget/about-block/about-block.php:84
+#: inc/widget/about2-block/about2-block.php:57
+#: inc/widget/author-block/author-block.php:185
+#: inc/widget/button-block/button-block.php:80
+#: inc/widget/feature-block/feature-block.php:78
+#: inc/widget/heroimage-block/heroimage-block.php:53
+#: inc/widget/html-block/html-block.php:32
+#: inc/widget/service-block/service-block.php:238
+#: inc/widget/service-block/service-block.php:249
+#: inc/widget/slogan-block/slogan-block.php:52
+#: inc/widget/title-block/title-block.php:84
+#: ../kedavra/inc/widget/about-block/about-block.php:84
+#: ../kedavra/inc/widget/about2-block/about2-block.php:57
+#: ../kedavra/inc/widget/author-block/author-block.php:185
+#: ../kedavra/inc/widget/button-block/button-block.php:80
+#: ../kedavra/inc/widget/feature-block/feature-block.php:78
+#: ../kedavra/inc/widget/heroimage-block/heroimage-block.php:53
+#: ../kedavra/inc/widget/html-block/html-block.php:32
+#: ../kedavra/inc/widget/service-block/service-block.php:238
+#: ../kedavra/inc/widget/service-block/service-block.php:249
+#: ../kedavra/inc/widget/slogan-block/slogan-block.php:52
+#: ../kedavra/inc/widget/title-block/title-block.php:84
+msgid "Right"
+msgstr ""
+
+#: inc/widget/about-block/about-block.php:85
+#: inc/widget/about2-block/about2-block.php:58
+#: inc/widget/author-block/author-block.php:186
+#: inc/widget/button-block/button-block.php:79
+#: inc/widget/feature-block/feature-block.php:79
+#: inc/widget/heroimage-block/heroimage-block.php:54
+#: inc/widget/html-block/html-block.php:33
+#: inc/widget/service-block/service-block.php:239
+#: inc/widget/service-block/service-block.php:250
+#: inc/widget/slogan-block/slogan-block.php:53
+#: inc/widget/title-block/title-block.php:83
+#: ../kedavra/inc/widget/about-block/about-block.php:85
+#: ../kedavra/inc/widget/about2-block/about2-block.php:58
+#: ../kedavra/inc/widget/author-block/author-block.php:186
+#: ../kedavra/inc/widget/button-block/button-block.php:79
+#: ../kedavra/inc/widget/feature-block/feature-block.php:79
+#: ../kedavra/inc/widget/heroimage-block/heroimage-block.php:54
+#: ../kedavra/inc/widget/html-block/html-block.php:33
+#: ../kedavra/inc/widget/service-block/service-block.php:239
+#: ../kedavra/inc/widget/service-block/service-block.php:250
+#: ../kedavra/inc/widget/slogan-block/slogan-block.php:53
+#: ../kedavra/inc/widget/title-block/title-block.php:83
+msgid "Left"
+msgstr ""
+
+#: inc/widget/about-block/about-block.php:91
+#: ../kedavra/inc/widget/about-block/about-block.php:91
+msgid "Button Type "
+msgstr ""
+
+#: inc/widget/about-block/about-block.php:94
+#: ../kedavra/inc/widget/about-block/about-block.php:94
+msgid "With Border Bottom"
+msgstr ""
+
+#: inc/widget/about-block/about-block.php:95
+#: ../kedavra/inc/widget/about-block/about-block.php:95
+msgid "With Background Color"
+msgstr ""
+
+#: inc/widget/about-block/about-block.php:101
+#: ../kedavra/inc/widget/about-block/about-block.php:101
+msgid "About Text Link"
+msgstr ""
+
+#: inc/widget/about-block/about-block.php:107
+#: ../kedavra/inc/widget/about-block/about-block.php:107
+msgid "About Link"
+msgstr ""
+
+#: inc/widget/about-block/about-block.php:113
+#: ../kedavra/inc/widget/about-block/about-block.php:113
+msgid "About Button Color"
+msgstr ""
+
+#: inc/widget/about2-block/about2-block.php:8
+#: ../kedavra/inc/widget/about2-block/about2-block.php:8
+msgid "About Two Side Block"
+msgstr ""
+
+#: inc/widget/about2-block/about2-block.php:10
+#: ../kedavra/inc/widget/about2-block/about2-block.php:10
+msgid "Widget to show About Repeater"
+msgstr ""
+
+#: inc/widget/about2-block/about2-block.php:20
+#: ../kedavra/inc/widget/about2-block/about2-block.php:20
+msgid "About"
+msgstr ""
+
+#: inc/widget/about2-block/about2-block.php:21
+#: ../kedavra/inc/widget/about2-block/about2-block.php:21
+msgid "About Item"
+msgstr ""
+
+#: inc/widget/about2-block/about2-block.php:70
+#: ../kedavra/inc/widget/about2-block/about2-block.php:70
+msgid "About Description Color"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:8
+#: ../kedavra/inc/widget/author-block/author-block.php:8
+msgid "Author Block"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:10
+#: ../kedavra/inc/widget/author-block/author-block.php:10
+msgid "Widget to show Author Description"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:20
+#: ../kedavra/inc/widget/author-block/author-block.php:20
+msgid "Author Left Part"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:26
+#: ../kedavra/inc/widget/author-block/author-block.php:26
+msgid "Insert Author Image"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:34
+#: inc/widget/author-block/author-block.php:161
+#: ../kedavra/inc/widget/author-block/author-block.php:34
+#: ../kedavra/inc/widget/author-block/author-block.php:161
+msgid "Your Author Title"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:40
+#: ../kedavra/inc/widget/author-block/author-block.php:40
+msgid "Your Author Name"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:46
+#: ../kedavra/inc/widget/author-block/author-block.php:46
+msgid "Your Author Job"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:52
+#: ../kedavra/inc/widget/author-block/author-block.php:52
+msgid "Text Left Color"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:58
+#: ../kedavra/inc/widget/author-block/author-block.php:58
+msgid "Author Left Content Animation"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:61
+#: inc/widget/author-block/author-block.php:201
+#: inc/widget/feature-block/feature-block.php:88
+#: inc/widget/menu-block/menu-block.php:71
+#: inc/widget/service-block/service-block.php:43
+#: inc/widget/service-block/service-block.php:150
+#: inc/widget/slider-block/slider-block.php:94
+#: inc/widget/slider-block/slider-block.php:233
+#: ../kedavra/inc/widget/author-block/author-block.php:61
+#: ../kedavra/inc/widget/author-block/author-block.php:201
+#: ../kedavra/inc/widget/feature-block/feature-block.php:88
+#: ../kedavra/inc/widget/menu-block/menu-block.php:71
+#: ../kedavra/inc/widget/service-block/service-block.php:43
+#: ../kedavra/inc/widget/service-block/service-block.php:150
+#: ../kedavra/inc/widget/slider-block/slider-block.php:94
+#: ../kedavra/inc/widget/slider-block/slider-block.php:233
+msgid "bounce"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:62
+#: inc/widget/author-block/author-block.php:202
+#: inc/widget/feature-block/feature-block.php:89
+#: inc/widget/menu-block/menu-block.php:72
+#: inc/widget/service-block/service-block.php:44
+#: inc/widget/service-block/service-block.php:151
+#: inc/widget/slider-block/slider-block.php:95
+#: inc/widget/slider-block/slider-block.php:234
+#: ../kedavra/inc/widget/author-block/author-block.php:62
+#: ../kedavra/inc/widget/author-block/author-block.php:202
+#: ../kedavra/inc/widget/feature-block/feature-block.php:89
+#: ../kedavra/inc/widget/menu-block/menu-block.php:72
+#: ../kedavra/inc/widget/service-block/service-block.php:44
+#: ../kedavra/inc/widget/service-block/service-block.php:151
+#: ../kedavra/inc/widget/slider-block/slider-block.php:95
+#: ../kedavra/inc/widget/slider-block/slider-block.php:234
+msgid "flash"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:63
+#: inc/widget/author-block/author-block.php:203
+#: inc/widget/feature-block/feature-block.php:90
+#: inc/widget/menu-block/menu-block.php:73
+#: inc/widget/service-block/service-block.php:45
+#: inc/widget/service-block/service-block.php:152
+#: inc/widget/slider-block/slider-block.php:96
+#: inc/widget/slider-block/slider-block.php:235
+#: ../kedavra/inc/widget/author-block/author-block.php:63
+#: ../kedavra/inc/widget/author-block/author-block.php:203
+#: ../kedavra/inc/widget/feature-block/feature-block.php:90
+#: ../kedavra/inc/widget/menu-block/menu-block.php:73
+#: ../kedavra/inc/widget/service-block/service-block.php:45
+#: ../kedavra/inc/widget/service-block/service-block.php:152
+#: ../kedavra/inc/widget/slider-block/slider-block.php:96
+#: ../kedavra/inc/widget/slider-block/slider-block.php:235
+msgid "pulse"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:64
+#: inc/widget/author-block/author-block.php:204
+#: inc/widget/feature-block/feature-block.php:91
+#: inc/widget/menu-block/menu-block.php:74
+#: inc/widget/service-block/service-block.php:46
+#: inc/widget/service-block/service-block.php:153
+#: inc/widget/slider-block/slider-block.php:97
+#: inc/widget/slider-block/slider-block.php:236
+#: ../kedavra/inc/widget/author-block/author-block.php:64
+#: ../kedavra/inc/widget/author-block/author-block.php:204
+#: ../kedavra/inc/widget/feature-block/feature-block.php:91
+#: ../kedavra/inc/widget/menu-block/menu-block.php:74
+#: ../kedavra/inc/widget/service-block/service-block.php:46
+#: ../kedavra/inc/widget/service-block/service-block.php:153
+#: ../kedavra/inc/widget/slider-block/slider-block.php:97
+#: ../kedavra/inc/widget/slider-block/slider-block.php:236
+msgid "rubberBand"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:65
+#: inc/widget/author-block/author-block.php:205
+#: inc/widget/feature-block/feature-block.php:92
+#: inc/widget/menu-block/menu-block.php:75
+#: inc/widget/service-block/service-block.php:47
+#: inc/widget/service-block/service-block.php:154
+#: inc/widget/slider-block/slider-block.php:98
+#: inc/widget/slider-block/slider-block.php:237
+#: ../kedavra/inc/widget/author-block/author-block.php:65
+#: ../kedavra/inc/widget/author-block/author-block.php:205
+#: ../kedavra/inc/widget/feature-block/feature-block.php:92
+#: ../kedavra/inc/widget/menu-block/menu-block.php:75
+#: ../kedavra/inc/widget/service-block/service-block.php:47
+#: ../kedavra/inc/widget/service-block/service-block.php:154
+#: ../kedavra/inc/widget/slider-block/slider-block.php:98
+#: ../kedavra/inc/widget/slider-block/slider-block.php:237
+msgid "shake"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:66
+#: inc/widget/author-block/author-block.php:206
+#: inc/widget/feature-block/feature-block.php:93
+#: inc/widget/menu-block/menu-block.php:76
+#: inc/widget/service-block/service-block.php:48
+#: inc/widget/service-block/service-block.php:155
+#: inc/widget/slider-block/slider-block.php:99
+#: inc/widget/slider-block/slider-block.php:238
+#: ../kedavra/inc/widget/author-block/author-block.php:66
+#: ../kedavra/inc/widget/author-block/author-block.php:206
+#: ../kedavra/inc/widget/feature-block/feature-block.php:93
+#: ../kedavra/inc/widget/menu-block/menu-block.php:76
+#: ../kedavra/inc/widget/service-block/service-block.php:48
+#: ../kedavra/inc/widget/service-block/service-block.php:155
+#: ../kedavra/inc/widget/slider-block/slider-block.php:99
+#: ../kedavra/inc/widget/slider-block/slider-block.php:238
+msgid "swing"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:67
+#: inc/widget/author-block/author-block.php:207
+#: inc/widget/feature-block/feature-block.php:94
+#: inc/widget/menu-block/menu-block.php:77
+#: inc/widget/service-block/service-block.php:49
+#: inc/widget/service-block/service-block.php:156
+#: inc/widget/slider-block/slider-block.php:100
+#: inc/widget/slider-block/slider-block.php:239
+#: ../kedavra/inc/widget/author-block/author-block.php:67
+#: ../kedavra/inc/widget/author-block/author-block.php:207
+#: ../kedavra/inc/widget/feature-block/feature-block.php:94
+#: ../kedavra/inc/widget/menu-block/menu-block.php:77
+#: ../kedavra/inc/widget/service-block/service-block.php:49
+#: ../kedavra/inc/widget/service-block/service-block.php:156
+#: ../kedavra/inc/widget/slider-block/slider-block.php:100
+#: ../kedavra/inc/widget/slider-block/slider-block.php:239
+msgid "tada"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:68
+#: inc/widget/author-block/author-block.php:208
+#: inc/widget/feature-block/feature-block.php:95
+#: inc/widget/menu-block/menu-block.php:78
+#: inc/widget/service-block/service-block.php:50
+#: inc/widget/service-block/service-block.php:157
+#: inc/widget/slider-block/slider-block.php:101
+#: inc/widget/slider-block/slider-block.php:240
+#: ../kedavra/inc/widget/author-block/author-block.php:68
+#: ../kedavra/inc/widget/author-block/author-block.php:208
+#: ../kedavra/inc/widget/feature-block/feature-block.php:95
+#: ../kedavra/inc/widget/menu-block/menu-block.php:78
+#: ../kedavra/inc/widget/service-block/service-block.php:50
+#: ../kedavra/inc/widget/service-block/service-block.php:157
+#: ../kedavra/inc/widget/slider-block/slider-block.php:101
+#: ../kedavra/inc/widget/slider-block/slider-block.php:240
+msgid "wobble"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:69
+#: inc/widget/author-block/author-block.php:209
+#: inc/widget/feature-block/feature-block.php:96
+#: inc/widget/menu-block/menu-block.php:79
+#: inc/widget/service-block/service-block.php:51
+#: inc/widget/service-block/service-block.php:158
+#: inc/widget/slider-block/slider-block.php:102
+#: inc/widget/slider-block/slider-block.php:241
+#: ../kedavra/inc/widget/author-block/author-block.php:69
+#: ../kedavra/inc/widget/author-block/author-block.php:209
+#: ../kedavra/inc/widget/feature-block/feature-block.php:96
+#: ../kedavra/inc/widget/menu-block/menu-block.php:79
+#: ../kedavra/inc/widget/service-block/service-block.php:51
+#: ../kedavra/inc/widget/service-block/service-block.php:158
+#: ../kedavra/inc/widget/slider-block/slider-block.php:102
+#: ../kedavra/inc/widget/slider-block/slider-block.php:241
+msgid "bounceIn"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:70
+#: inc/widget/author-block/author-block.php:210
+#: inc/widget/feature-block/feature-block.php:97
+#: inc/widget/menu-block/menu-block.php:80
+#: inc/widget/service-block/service-block.php:52
+#: inc/widget/service-block/service-block.php:159
+#: inc/widget/slider-block/slider-block.php:103
+#: inc/widget/slider-block/slider-block.php:242
+#: ../kedavra/inc/widget/author-block/author-block.php:70
+#: ../kedavra/inc/widget/author-block/author-block.php:210
+#: ../kedavra/inc/widget/feature-block/feature-block.php:97
+#: ../kedavra/inc/widget/menu-block/menu-block.php:80
+#: ../kedavra/inc/widget/service-block/service-block.php:52
+#: ../kedavra/inc/widget/service-block/service-block.php:159
+#: ../kedavra/inc/widget/slider-block/slider-block.php:103
+#: ../kedavra/inc/widget/slider-block/slider-block.php:242
+msgid "bounceInDown"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:71
+#: inc/widget/author-block/author-block.php:211
+#: inc/widget/feature-block/feature-block.php:98
+#: inc/widget/menu-block/menu-block.php:81
+#: inc/widget/service-block/service-block.php:53
+#: inc/widget/service-block/service-block.php:160
+#: inc/widget/slider-block/slider-block.php:104
+#: inc/widget/slider-block/slider-block.php:243
+#: ../kedavra/inc/widget/author-block/author-block.php:71
+#: ../kedavra/inc/widget/author-block/author-block.php:211
+#: ../kedavra/inc/widget/feature-block/feature-block.php:98
+#: ../kedavra/inc/widget/menu-block/menu-block.php:81
+#: ../kedavra/inc/widget/service-block/service-block.php:53
+#: ../kedavra/inc/widget/service-block/service-block.php:160
+#: ../kedavra/inc/widget/slider-block/slider-block.php:104
+#: ../kedavra/inc/widget/slider-block/slider-block.php:243
+msgid "bounceInLeft"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:72
+#: inc/widget/author-block/author-block.php:212
+#: inc/widget/feature-block/feature-block.php:99
+#: inc/widget/menu-block/menu-block.php:82
+#: inc/widget/service-block/service-block.php:54
+#: inc/widget/service-block/service-block.php:161
+#: inc/widget/slider-block/slider-block.php:105
+#: inc/widget/slider-block/slider-block.php:244
+#: ../kedavra/inc/widget/author-block/author-block.php:72
+#: ../kedavra/inc/widget/author-block/author-block.php:212
+#: ../kedavra/inc/widget/feature-block/feature-block.php:99
+#: ../kedavra/inc/widget/menu-block/menu-block.php:82
+#: ../kedavra/inc/widget/service-block/service-block.php:54
+#: ../kedavra/inc/widget/service-block/service-block.php:161
+#: ../kedavra/inc/widget/slider-block/slider-block.php:105
+#: ../kedavra/inc/widget/slider-block/slider-block.php:244
+msgid "bounceInRight"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:73
+#: inc/widget/author-block/author-block.php:213
+#: inc/widget/feature-block/feature-block.php:100
+#: inc/widget/menu-block/menu-block.php:83
+#: inc/widget/service-block/service-block.php:55
+#: inc/widget/service-block/service-block.php:162
+#: inc/widget/slider-block/slider-block.php:106
+#: inc/widget/slider-block/slider-block.php:245
+#: ../kedavra/inc/widget/author-block/author-block.php:73
+#: ../kedavra/inc/widget/author-block/author-block.php:213
+#: ../kedavra/inc/widget/feature-block/feature-block.php:100
+#: ../kedavra/inc/widget/menu-block/menu-block.php:83
+#: ../kedavra/inc/widget/service-block/service-block.php:55
+#: ../kedavra/inc/widget/service-block/service-block.php:162
+#: ../kedavra/inc/widget/slider-block/slider-block.php:106
+#: ../kedavra/inc/widget/slider-block/slider-block.php:245
+msgid "bounceInUp"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:74
+#: inc/widget/author-block/author-block.php:214
+#: inc/widget/feature-block/feature-block.php:101
+#: inc/widget/menu-block/menu-block.php:84
+#: inc/widget/service-block/service-block.php:56
+#: inc/widget/service-block/service-block.php:163
+#: inc/widget/slider-block/slider-block.php:107
+#: inc/widget/slider-block/slider-block.php:246
+#: ../kedavra/inc/widget/author-block/author-block.php:74
+#: ../kedavra/inc/widget/author-block/author-block.php:214
+#: ../kedavra/inc/widget/feature-block/feature-block.php:101
+#: ../kedavra/inc/widget/menu-block/menu-block.php:84
+#: ../kedavra/inc/widget/service-block/service-block.php:56
+#: ../kedavra/inc/widget/service-block/service-block.php:163
+#: ../kedavra/inc/widget/slider-block/slider-block.php:107
+#: ../kedavra/inc/widget/slider-block/slider-block.php:246
+msgid "bounceOut"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:75
+#: inc/widget/author-block/author-block.php:215
+#: inc/widget/feature-block/feature-block.php:102
+#: inc/widget/menu-block/menu-block.php:85
+#: inc/widget/service-block/service-block.php:57
+#: inc/widget/service-block/service-block.php:164
+#: inc/widget/slider-block/slider-block.php:108
+#: inc/widget/slider-block/slider-block.php:247
+#: ../kedavra/inc/widget/author-block/author-block.php:75
+#: ../kedavra/inc/widget/author-block/author-block.php:215
+#: ../kedavra/inc/widget/feature-block/feature-block.php:102
+#: ../kedavra/inc/widget/menu-block/menu-block.php:85
+#: ../kedavra/inc/widget/service-block/service-block.php:57
+#: ../kedavra/inc/widget/service-block/service-block.php:164
+#: ../kedavra/inc/widget/slider-block/slider-block.php:108
+#: ../kedavra/inc/widget/slider-block/slider-block.php:247
+msgid "bounceOutDown"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:76
+#: inc/widget/author-block/author-block.php:216
+#: inc/widget/feature-block/feature-block.php:103
+#: inc/widget/menu-block/menu-block.php:86
+#: inc/widget/service-block/service-block.php:58
+#: inc/widget/service-block/service-block.php:165
+#: inc/widget/slider-block/slider-block.php:109
+#: inc/widget/slider-block/slider-block.php:248
+#: ../kedavra/inc/widget/author-block/author-block.php:76
+#: ../kedavra/inc/widget/author-block/author-block.php:216
+#: ../kedavra/inc/widget/feature-block/feature-block.php:103
+#: ../kedavra/inc/widget/menu-block/menu-block.php:86
+#: ../kedavra/inc/widget/service-block/service-block.php:58
+#: ../kedavra/inc/widget/service-block/service-block.php:165
+#: ../kedavra/inc/widget/slider-block/slider-block.php:109
+#: ../kedavra/inc/widget/slider-block/slider-block.php:248
+msgid "bounceOutLeft"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:77
+#: inc/widget/author-block/author-block.php:217
+#: inc/widget/feature-block/feature-block.php:104
+#: inc/widget/menu-block/menu-block.php:87
+#: inc/widget/service-block/service-block.php:59
+#: inc/widget/service-block/service-block.php:166
+#: inc/widget/slider-block/slider-block.php:110
+#: inc/widget/slider-block/slider-block.php:249
+#: ../kedavra/inc/widget/author-block/author-block.php:77
+#: ../kedavra/inc/widget/author-block/author-block.php:217
+#: ../kedavra/inc/widget/feature-block/feature-block.php:104
+#: ../kedavra/inc/widget/menu-block/menu-block.php:87
+#: ../kedavra/inc/widget/service-block/service-block.php:59
+#: ../kedavra/inc/widget/service-block/service-block.php:166
+#: ../kedavra/inc/widget/slider-block/slider-block.php:110
+#: ../kedavra/inc/widget/slider-block/slider-block.php:249
+msgid "bounceOutRight"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:78
+#: inc/widget/author-block/author-block.php:218
+#: inc/widget/feature-block/feature-block.php:105
+#: inc/widget/menu-block/menu-block.php:88
+#: inc/widget/service-block/service-block.php:60
+#: inc/widget/service-block/service-block.php:167
+#: inc/widget/slider-block/slider-block.php:111
+#: inc/widget/slider-block/slider-block.php:250
+#: ../kedavra/inc/widget/author-block/author-block.php:78
+#: ../kedavra/inc/widget/author-block/author-block.php:218
+#: ../kedavra/inc/widget/feature-block/feature-block.php:105
+#: ../kedavra/inc/widget/menu-block/menu-block.php:88
+#: ../kedavra/inc/widget/service-block/service-block.php:60
+#: ../kedavra/inc/widget/service-block/service-block.php:167
+#: ../kedavra/inc/widget/slider-block/slider-block.php:111
+#: ../kedavra/inc/widget/slider-block/slider-block.php:250
+msgid "bounceOutUp"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:79
+#: inc/widget/author-block/author-block.php:219
+#: inc/widget/feature-block/feature-block.php:106
+#: inc/widget/menu-block/menu-block.php:89
+#: inc/widget/service-block/service-block.php:61
+#: inc/widget/service-block/service-block.php:168
+#: inc/widget/slider-block/slider-block.php:112
+#: inc/widget/slider-block/slider-block.php:251
+#: ../kedavra/inc/widget/author-block/author-block.php:79
+#: ../kedavra/inc/widget/author-block/author-block.php:219
+#: ../kedavra/inc/widget/feature-block/feature-block.php:106
+#: ../kedavra/inc/widget/menu-block/menu-block.php:89
+#: ../kedavra/inc/widget/service-block/service-block.php:61
+#: ../kedavra/inc/widget/service-block/service-block.php:168
+#: ../kedavra/inc/widget/slider-block/slider-block.php:112
+#: ../kedavra/inc/widget/slider-block/slider-block.php:251
+msgid "fadeIn"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:80
+#: inc/widget/author-block/author-block.php:220
+#: inc/widget/feature-block/feature-block.php:107
+#: inc/widget/menu-block/menu-block.php:90
+#: inc/widget/service-block/service-block.php:62
+#: inc/widget/service-block/service-block.php:169
+#: inc/widget/slider-block/slider-block.php:113
+#: inc/widget/slider-block/slider-block.php:252
+#: ../kedavra/inc/widget/author-block/author-block.php:80
+#: ../kedavra/inc/widget/author-block/author-block.php:220
+#: ../kedavra/inc/widget/feature-block/feature-block.php:107
+#: ../kedavra/inc/widget/menu-block/menu-block.php:90
+#: ../kedavra/inc/widget/service-block/service-block.php:62
+#: ../kedavra/inc/widget/service-block/service-block.php:169
+#: ../kedavra/inc/widget/slider-block/slider-block.php:113
+#: ../kedavra/inc/widget/slider-block/slider-block.php:252
+msgid "fadeInDown"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:81
+#: inc/widget/author-block/author-block.php:221
+#: inc/widget/feature-block/feature-block.php:108
+#: inc/widget/menu-block/menu-block.php:91
+#: inc/widget/service-block/service-block.php:63
+#: inc/widget/service-block/service-block.php:170
+#: inc/widget/slider-block/slider-block.php:114
+#: inc/widget/slider-block/slider-block.php:253
+#: ../kedavra/inc/widget/author-block/author-block.php:81
+#: ../kedavra/inc/widget/author-block/author-block.php:221
+#: ../kedavra/inc/widget/feature-block/feature-block.php:108
+#: ../kedavra/inc/widget/menu-block/menu-block.php:91
+#: ../kedavra/inc/widget/service-block/service-block.php:63
+#: ../kedavra/inc/widget/service-block/service-block.php:170
+#: ../kedavra/inc/widget/slider-block/slider-block.php:114
+#: ../kedavra/inc/widget/slider-block/slider-block.php:253
+msgid "fadeInDownBig"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:82
+#: inc/widget/author-block/author-block.php:222
+#: inc/widget/feature-block/feature-block.php:109
+#: inc/widget/menu-block/menu-block.php:92
+#: inc/widget/service-block/service-block.php:64
+#: inc/widget/service-block/service-block.php:171
+#: inc/widget/slider-block/slider-block.php:115
+#: inc/widget/slider-block/slider-block.php:254
+#: ../kedavra/inc/widget/author-block/author-block.php:82
+#: ../kedavra/inc/widget/author-block/author-block.php:222
+#: ../kedavra/inc/widget/feature-block/feature-block.php:109
+#: ../kedavra/inc/widget/menu-block/menu-block.php:92
+#: ../kedavra/inc/widget/service-block/service-block.php:64
+#: ../kedavra/inc/widget/service-block/service-block.php:171
+#: ../kedavra/inc/widget/slider-block/slider-block.php:115
+#: ../kedavra/inc/widget/slider-block/slider-block.php:254
+msgid "fadeInLeft"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:83
+#: inc/widget/author-block/author-block.php:223
+#: inc/widget/feature-block/feature-block.php:110
+#: inc/widget/menu-block/menu-block.php:93
+#: inc/widget/service-block/service-block.php:65
+#: inc/widget/service-block/service-block.php:172
+#: inc/widget/slider-block/slider-block.php:116
+#: inc/widget/slider-block/slider-block.php:255
+#: ../kedavra/inc/widget/author-block/author-block.php:83
+#: ../kedavra/inc/widget/author-block/author-block.php:223
+#: ../kedavra/inc/widget/feature-block/feature-block.php:110
+#: ../kedavra/inc/widget/menu-block/menu-block.php:93
+#: ../kedavra/inc/widget/service-block/service-block.php:65
+#: ../kedavra/inc/widget/service-block/service-block.php:172
+#: ../kedavra/inc/widget/slider-block/slider-block.php:116
+#: ../kedavra/inc/widget/slider-block/slider-block.php:255
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:84
+#: inc/widget/author-block/author-block.php:224
+#: inc/widget/feature-block/feature-block.php:111
+#: inc/widget/menu-block/menu-block.php:94
+#: inc/widget/service-block/service-block.php:66
+#: inc/widget/service-block/service-block.php:173
+#: inc/widget/slider-block/slider-block.php:117
+#: inc/widget/slider-block/slider-block.php:256
+#: ../kedavra/inc/widget/author-block/author-block.php:84
+#: ../kedavra/inc/widget/author-block/author-block.php:224
+#: ../kedavra/inc/widget/feature-block/feature-block.php:111
+#: ../kedavra/inc/widget/menu-block/menu-block.php:94
+#: ../kedavra/inc/widget/service-block/service-block.php:66
+#: ../kedavra/inc/widget/service-block/service-block.php:173
+#: ../kedavra/inc/widget/slider-block/slider-block.php:117
+#: ../kedavra/inc/widget/slider-block/slider-block.php:256
+msgid "fadeInRight"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:85
+#: inc/widget/author-block/author-block.php:225
+#: inc/widget/feature-block/feature-block.php:112
+#: inc/widget/menu-block/menu-block.php:95
+#: inc/widget/service-block/service-block.php:67
+#: inc/widget/service-block/service-block.php:174
+#: inc/widget/slider-block/slider-block.php:118
+#: inc/widget/slider-block/slider-block.php:257
+#: ../kedavra/inc/widget/author-block/author-block.php:85
+#: ../kedavra/inc/widget/author-block/author-block.php:225
+#: ../kedavra/inc/widget/feature-block/feature-block.php:112
+#: ../kedavra/inc/widget/menu-block/menu-block.php:95
+#: ../kedavra/inc/widget/service-block/service-block.php:67
+#: ../kedavra/inc/widget/service-block/service-block.php:174
+#: ../kedavra/inc/widget/slider-block/slider-block.php:118
+#: ../kedavra/inc/widget/slider-block/slider-block.php:257
+msgid "fadeInRightBig"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:86
+#: inc/widget/author-block/author-block.php:226
+#: inc/widget/feature-block/feature-block.php:113
+#: inc/widget/menu-block/menu-block.php:96
+#: inc/widget/service-block/service-block.php:68
+#: inc/widget/service-block/service-block.php:175
+#: inc/widget/slider-block/slider-block.php:119
+#: inc/widget/slider-block/slider-block.php:258
+#: ../kedavra/inc/widget/author-block/author-block.php:86
+#: ../kedavra/inc/widget/author-block/author-block.php:226
+#: ../kedavra/inc/widget/feature-block/feature-block.php:113
+#: ../kedavra/inc/widget/menu-block/menu-block.php:96
+#: ../kedavra/inc/widget/service-block/service-block.php:68
+#: ../kedavra/inc/widget/service-block/service-block.php:175
+#: ../kedavra/inc/widget/slider-block/slider-block.php:119
+#: ../kedavra/inc/widget/slider-block/slider-block.php:258
+msgid "fadeInUp"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:87
+#: inc/widget/author-block/author-block.php:227
+#: inc/widget/feature-block/feature-block.php:114
+#: inc/widget/menu-block/menu-block.php:97
+#: inc/widget/service-block/service-block.php:69
+#: inc/widget/service-block/service-block.php:176
+#: inc/widget/slider-block/slider-block.php:120
+#: inc/widget/slider-block/slider-block.php:259
+#: ../kedavra/inc/widget/author-block/author-block.php:87
+#: ../kedavra/inc/widget/author-block/author-block.php:227
+#: ../kedavra/inc/widget/feature-block/feature-block.php:114
+#: ../kedavra/inc/widget/menu-block/menu-block.php:97
+#: ../kedavra/inc/widget/service-block/service-block.php:69
+#: ../kedavra/inc/widget/service-block/service-block.php:176
+#: ../kedavra/inc/widget/slider-block/slider-block.php:120
+#: ../kedavra/inc/widget/slider-block/slider-block.php:259
+msgid "fadeInUpBig"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:88
+#: inc/widget/author-block/author-block.php:228
+#: inc/widget/feature-block/feature-block.php:115
+#: inc/widget/menu-block/menu-block.php:98
+#: inc/widget/service-block/service-block.php:70
+#: inc/widget/service-block/service-block.php:177
+#: inc/widget/slider-block/slider-block.php:121
+#: inc/widget/slider-block/slider-block.php:260
+#: ../kedavra/inc/widget/author-block/author-block.php:88
+#: ../kedavra/inc/widget/author-block/author-block.php:228
+#: ../kedavra/inc/widget/feature-block/feature-block.php:115
+#: ../kedavra/inc/widget/menu-block/menu-block.php:98
+#: ../kedavra/inc/widget/service-block/service-block.php:70
+#: ../kedavra/inc/widget/service-block/service-block.php:177
+#: ../kedavra/inc/widget/slider-block/slider-block.php:121
+#: ../kedavra/inc/widget/slider-block/slider-block.php:260
+msgid "fadeOut"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:89
+#: inc/widget/author-block/author-block.php:229
+#: inc/widget/feature-block/feature-block.php:116
+#: inc/widget/menu-block/menu-block.php:99
+#: inc/widget/service-block/service-block.php:71
+#: inc/widget/service-block/service-block.php:178
+#: inc/widget/slider-block/slider-block.php:122
+#: inc/widget/slider-block/slider-block.php:261
+#: ../kedavra/inc/widget/author-block/author-block.php:89
+#: ../kedavra/inc/widget/author-block/author-block.php:229
+#: ../kedavra/inc/widget/feature-block/feature-block.php:116
+#: ../kedavra/inc/widget/menu-block/menu-block.php:99
+#: ../kedavra/inc/widget/service-block/service-block.php:71
+#: ../kedavra/inc/widget/service-block/service-block.php:178
+#: ../kedavra/inc/widget/slider-block/slider-block.php:122
+#: ../kedavra/inc/widget/slider-block/slider-block.php:261
+msgid "fadeOutDown"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:90
+#: inc/widget/author-block/author-block.php:230
+#: inc/widget/feature-block/feature-block.php:117
+#: inc/widget/menu-block/menu-block.php:100
+#: inc/widget/service-block/service-block.php:72
+#: inc/widget/service-block/service-block.php:179
+#: inc/widget/slider-block/slider-block.php:123
+#: inc/widget/slider-block/slider-block.php:262
+#: ../kedavra/inc/widget/author-block/author-block.php:90
+#: ../kedavra/inc/widget/author-block/author-block.php:230
+#: ../kedavra/inc/widget/feature-block/feature-block.php:117
+#: ../kedavra/inc/widget/menu-block/menu-block.php:100
+#: ../kedavra/inc/widget/service-block/service-block.php:72
+#: ../kedavra/inc/widget/service-block/service-block.php:179
+#: ../kedavra/inc/widget/slider-block/slider-block.php:123
+#: ../kedavra/inc/widget/slider-block/slider-block.php:262
+msgid "fadeOutDownBig"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:91
+#: inc/widget/author-block/author-block.php:231
+#: inc/widget/feature-block/feature-block.php:118
+#: inc/widget/menu-block/menu-block.php:101
+#: inc/widget/service-block/service-block.php:73
+#: inc/widget/service-block/service-block.php:180
+#: inc/widget/slider-block/slider-block.php:124
+#: inc/widget/slider-block/slider-block.php:263
+#: ../kedavra/inc/widget/author-block/author-block.php:91
+#: ../kedavra/inc/widget/author-block/author-block.php:231
+#: ../kedavra/inc/widget/feature-block/feature-block.php:118
+#: ../kedavra/inc/widget/menu-block/menu-block.php:101
+#: ../kedavra/inc/widget/service-block/service-block.php:73
+#: ../kedavra/inc/widget/service-block/service-block.php:180
+#: ../kedavra/inc/widget/slider-block/slider-block.php:124
+#: ../kedavra/inc/widget/slider-block/slider-block.php:263
+msgid "fadeOutLeft"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:92
+#: inc/widget/author-block/author-block.php:232
+#: inc/widget/feature-block/feature-block.php:119
+#: inc/widget/menu-block/menu-block.php:102
+#: inc/widget/service-block/service-block.php:74
+#: inc/widget/service-block/service-block.php:181
+#: inc/widget/slider-block/slider-block.php:125
+#: inc/widget/slider-block/slider-block.php:264
+#: ../kedavra/inc/widget/author-block/author-block.php:92
+#: ../kedavra/inc/widget/author-block/author-block.php:232
+#: ../kedavra/inc/widget/feature-block/feature-block.php:119
+#: ../kedavra/inc/widget/menu-block/menu-block.php:102
+#: ../kedavra/inc/widget/service-block/service-block.php:74
+#: ../kedavra/inc/widget/service-block/service-block.php:181
+#: ../kedavra/inc/widget/slider-block/slider-block.php:125
+#: ../kedavra/inc/widget/slider-block/slider-block.php:264
+msgid "fadeOutLeftBig"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:93
+#: inc/widget/author-block/author-block.php:233
+#: inc/widget/feature-block/feature-block.php:120
+#: inc/widget/menu-block/menu-block.php:103
+#: inc/widget/service-block/service-block.php:75
+#: inc/widget/service-block/service-block.php:182
+#: inc/widget/slider-block/slider-block.php:126
+#: inc/widget/slider-block/slider-block.php:265
+#: ../kedavra/inc/widget/author-block/author-block.php:93
+#: ../kedavra/inc/widget/author-block/author-block.php:233
+#: ../kedavra/inc/widget/feature-block/feature-block.php:120
+#: ../kedavra/inc/widget/menu-block/menu-block.php:103
+#: ../kedavra/inc/widget/service-block/service-block.php:75
+#: ../kedavra/inc/widget/service-block/service-block.php:182
+#: ../kedavra/inc/widget/slider-block/slider-block.php:126
+#: ../kedavra/inc/widget/slider-block/slider-block.php:265
+msgid "fadeOutRight"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:94
+#: inc/widget/author-block/author-block.php:234
+#: inc/widget/feature-block/feature-block.php:121
+#: inc/widget/menu-block/menu-block.php:104
+#: inc/widget/service-block/service-block.php:76
+#: inc/widget/service-block/service-block.php:183
+#: inc/widget/slider-block/slider-block.php:127
+#: inc/widget/slider-block/slider-block.php:266
+#: ../kedavra/inc/widget/author-block/author-block.php:94
+#: ../kedavra/inc/widget/author-block/author-block.php:234
+#: ../kedavra/inc/widget/feature-block/feature-block.php:121
+#: ../kedavra/inc/widget/menu-block/menu-block.php:104
+#: ../kedavra/inc/widget/service-block/service-block.php:76
+#: ../kedavra/inc/widget/service-block/service-block.php:183
+#: ../kedavra/inc/widget/slider-block/slider-block.php:127
+#: ../kedavra/inc/widget/slider-block/slider-block.php:266
+msgid "fadeOutRightBig"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:95
+#: inc/widget/author-block/author-block.php:235
+#: inc/widget/feature-block/feature-block.php:122
+#: inc/widget/menu-block/menu-block.php:105
+#: inc/widget/service-block/service-block.php:77
+#: inc/widget/service-block/service-block.php:184
+#: inc/widget/slider-block/slider-block.php:128
+#: inc/widget/slider-block/slider-block.php:267
+#: ../kedavra/inc/widget/author-block/author-block.php:95
+#: ../kedavra/inc/widget/author-block/author-block.php:235
+#: ../kedavra/inc/widget/feature-block/feature-block.php:122
+#: ../kedavra/inc/widget/menu-block/menu-block.php:105
+#: ../kedavra/inc/widget/service-block/service-block.php:77
+#: ../kedavra/inc/widget/service-block/service-block.php:184
+#: ../kedavra/inc/widget/slider-block/slider-block.php:128
+#: ../kedavra/inc/widget/slider-block/slider-block.php:267
+msgid "fadeOutUp"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:96
+#: inc/widget/author-block/author-block.php:236
+#: inc/widget/feature-block/feature-block.php:123
+#: inc/widget/menu-block/menu-block.php:106
+#: inc/widget/service-block/service-block.php:78
+#: inc/widget/service-block/service-block.php:185
+#: inc/widget/slider-block/slider-block.php:129
+#: inc/widget/slider-block/slider-block.php:268
+#: ../kedavra/inc/widget/author-block/author-block.php:96
+#: ../kedavra/inc/widget/author-block/author-block.php:236
+#: ../kedavra/inc/widget/feature-block/feature-block.php:123
+#: ../kedavra/inc/widget/menu-block/menu-block.php:106
+#: ../kedavra/inc/widget/service-block/service-block.php:78
+#: ../kedavra/inc/widget/service-block/service-block.php:185
+#: ../kedavra/inc/widget/slider-block/slider-block.php:129
+#: ../kedavra/inc/widget/slider-block/slider-block.php:268
+msgid "fadeOutUpBig"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:97
+#: inc/widget/author-block/author-block.php:237
+#: inc/widget/feature-block/feature-block.php:124
+#: inc/widget/menu-block/menu-block.php:107
+#: inc/widget/service-block/service-block.php:79
+#: inc/widget/service-block/service-block.php:186
+#: inc/widget/slider-block/slider-block.php:130
+#: inc/widget/slider-block/slider-block.php:269
+#: ../kedavra/inc/widget/author-block/author-block.php:97
+#: ../kedavra/inc/widget/author-block/author-block.php:237
+#: ../kedavra/inc/widget/feature-block/feature-block.php:124
+#: ../kedavra/inc/widget/menu-block/menu-block.php:107
+#: ../kedavra/inc/widget/service-block/service-block.php:79
+#: ../kedavra/inc/widget/service-block/service-block.php:186
+#: ../kedavra/inc/widget/slider-block/slider-block.php:130
+#: ../kedavra/inc/widget/slider-block/slider-block.php:269
+msgid "flipInX"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:98
+#: inc/widget/author-block/author-block.php:238
+#: inc/widget/feature-block/feature-block.php:125
+#: inc/widget/menu-block/menu-block.php:108
+#: inc/widget/service-block/service-block.php:80
+#: inc/widget/service-block/service-block.php:187
+#: inc/widget/slider-block/slider-block.php:131
+#: inc/widget/slider-block/slider-block.php:270
+#: ../kedavra/inc/widget/author-block/author-block.php:98
+#: ../kedavra/inc/widget/author-block/author-block.php:238
+#: ../kedavra/inc/widget/feature-block/feature-block.php:125
+#: ../kedavra/inc/widget/menu-block/menu-block.php:108
+#: ../kedavra/inc/widget/service-block/service-block.php:80
+#: ../kedavra/inc/widget/service-block/service-block.php:187
+#: ../kedavra/inc/widget/slider-block/slider-block.php:131
+#: ../kedavra/inc/widget/slider-block/slider-block.php:270
+msgid "flipInY"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:99
+#: inc/widget/author-block/author-block.php:239
+#: inc/widget/feature-block/feature-block.php:126
+#: inc/widget/menu-block/menu-block.php:109
+#: inc/widget/service-block/service-block.php:81
+#: inc/widget/service-block/service-block.php:188
+#: inc/widget/slider-block/slider-block.php:132
+#: inc/widget/slider-block/slider-block.php:271
+#: ../kedavra/inc/widget/author-block/author-block.php:99
+#: ../kedavra/inc/widget/author-block/author-block.php:239
+#: ../kedavra/inc/widget/feature-block/feature-block.php:126
+#: ../kedavra/inc/widget/menu-block/menu-block.php:109
+#: ../kedavra/inc/widget/service-block/service-block.php:81
+#: ../kedavra/inc/widget/service-block/service-block.php:188
+#: ../kedavra/inc/widget/slider-block/slider-block.php:132
+#: ../kedavra/inc/widget/slider-block/slider-block.php:271
+msgid "flipOutX"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:100
+#: inc/widget/author-block/author-block.php:240
+#: inc/widget/feature-block/feature-block.php:127
+#: inc/widget/menu-block/menu-block.php:110
+#: inc/widget/service-block/service-block.php:82
+#: inc/widget/service-block/service-block.php:189
+#: inc/widget/slider-block/slider-block.php:133
+#: inc/widget/slider-block/slider-block.php:272
+#: ../kedavra/inc/widget/author-block/author-block.php:100
+#: ../kedavra/inc/widget/author-block/author-block.php:240
+#: ../kedavra/inc/widget/feature-block/feature-block.php:127
+#: ../kedavra/inc/widget/menu-block/menu-block.php:110
+#: ../kedavra/inc/widget/service-block/service-block.php:82
+#: ../kedavra/inc/widget/service-block/service-block.php:189
+#: ../kedavra/inc/widget/slider-block/slider-block.php:133
+#: ../kedavra/inc/widget/slider-block/slider-block.php:272
+msgid "flipOutY"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:101
+#: inc/widget/author-block/author-block.php:241
+#: inc/widget/feature-block/feature-block.php:128
+#: inc/widget/menu-block/menu-block.php:111
+#: inc/widget/service-block/service-block.php:83
+#: inc/widget/service-block/service-block.php:190
+#: inc/widget/slider-block/slider-block.php:134
+#: inc/widget/slider-block/slider-block.php:273
+#: ../kedavra/inc/widget/author-block/author-block.php:101
+#: ../kedavra/inc/widget/author-block/author-block.php:241
+#: ../kedavra/inc/widget/feature-block/feature-block.php:128
+#: ../kedavra/inc/widget/menu-block/menu-block.php:111
+#: ../kedavra/inc/widget/service-block/service-block.php:83
+#: ../kedavra/inc/widget/service-block/service-block.php:190
+#: ../kedavra/inc/widget/slider-block/slider-block.php:134
+#: ../kedavra/inc/widget/slider-block/slider-block.php:273
+msgid "lightSpeedIn"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:102
+#: inc/widget/author-block/author-block.php:242
+#: inc/widget/feature-block/feature-block.php:129
+#: inc/widget/menu-block/menu-block.php:112
+#: inc/widget/service-block/service-block.php:84
+#: inc/widget/service-block/service-block.php:191
+#: inc/widget/slider-block/slider-block.php:135
+#: inc/widget/slider-block/slider-block.php:274
+#: ../kedavra/inc/widget/author-block/author-block.php:102
+#: ../kedavra/inc/widget/author-block/author-block.php:242
+#: ../kedavra/inc/widget/feature-block/feature-block.php:129
+#: ../kedavra/inc/widget/menu-block/menu-block.php:112
+#: ../kedavra/inc/widget/service-block/service-block.php:84
+#: ../kedavra/inc/widget/service-block/service-block.php:191
+#: ../kedavra/inc/widget/slider-block/slider-block.php:135
+#: ../kedavra/inc/widget/slider-block/slider-block.php:274
+msgid "lightSpeedOut"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:103
+#: inc/widget/author-block/author-block.php:243
+#: inc/widget/feature-block/feature-block.php:130
+#: inc/widget/menu-block/menu-block.php:113
+#: inc/widget/service-block/service-block.php:85
+#: inc/widget/service-block/service-block.php:192
+#: inc/widget/slider-block/slider-block.php:136
+#: inc/widget/slider-block/slider-block.php:275
+#: ../kedavra/inc/widget/author-block/author-block.php:103
+#: ../kedavra/inc/widget/author-block/author-block.php:243
+#: ../kedavra/inc/widget/feature-block/feature-block.php:130
+#: ../kedavra/inc/widget/menu-block/menu-block.php:113
+#: ../kedavra/inc/widget/service-block/service-block.php:85
+#: ../kedavra/inc/widget/service-block/service-block.php:192
+#: ../kedavra/inc/widget/slider-block/slider-block.php:136
+#: ../kedavra/inc/widget/slider-block/slider-block.php:275
+msgid "rotateIn"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:104
+#: inc/widget/author-block/author-block.php:244
+#: inc/widget/feature-block/feature-block.php:131
+#: inc/widget/menu-block/menu-block.php:114
+#: inc/widget/service-block/service-block.php:86
+#: inc/widget/service-block/service-block.php:193
+#: inc/widget/slider-block/slider-block.php:137
+#: inc/widget/slider-block/slider-block.php:276
+#: ../kedavra/inc/widget/author-block/author-block.php:104
+#: ../kedavra/inc/widget/author-block/author-block.php:244
+#: ../kedavra/inc/widget/feature-block/feature-block.php:131
+#: ../kedavra/inc/widget/menu-block/menu-block.php:114
+#: ../kedavra/inc/widget/service-block/service-block.php:86
+#: ../kedavra/inc/widget/service-block/service-block.php:193
+#: ../kedavra/inc/widget/slider-block/slider-block.php:137
+#: ../kedavra/inc/widget/slider-block/slider-block.php:276
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:105
+#: inc/widget/author-block/author-block.php:245
+#: inc/widget/feature-block/feature-block.php:132
+#: inc/widget/menu-block/menu-block.php:115
+#: inc/widget/service-block/service-block.php:87
+#: inc/widget/service-block/service-block.php:194
+#: inc/widget/slider-block/slider-block.php:138
+#: inc/widget/slider-block/slider-block.php:277
+#: ../kedavra/inc/widget/author-block/author-block.php:105
+#: ../kedavra/inc/widget/author-block/author-block.php:245
+#: ../kedavra/inc/widget/feature-block/feature-block.php:132
+#: ../kedavra/inc/widget/menu-block/menu-block.php:115
+#: ../kedavra/inc/widget/service-block/service-block.php:87
+#: ../kedavra/inc/widget/service-block/service-block.php:194
+#: ../kedavra/inc/widget/slider-block/slider-block.php:138
+#: ../kedavra/inc/widget/slider-block/slider-block.php:277
+msgid "rotateInDownRight"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:106
+#: inc/widget/author-block/author-block.php:246
+#: inc/widget/feature-block/feature-block.php:133
+#: inc/widget/menu-block/menu-block.php:116
+#: inc/widget/service-block/service-block.php:88
+#: inc/widget/service-block/service-block.php:195
+#: inc/widget/slider-block/slider-block.php:139
+#: inc/widget/slider-block/slider-block.php:278
+#: ../kedavra/inc/widget/author-block/author-block.php:106
+#: ../kedavra/inc/widget/author-block/author-block.php:246
+#: ../kedavra/inc/widget/feature-block/feature-block.php:133
+#: ../kedavra/inc/widget/menu-block/menu-block.php:116
+#: ../kedavra/inc/widget/service-block/service-block.php:88
+#: ../kedavra/inc/widget/service-block/service-block.php:195
+#: ../kedavra/inc/widget/slider-block/slider-block.php:139
+#: ../kedavra/inc/widget/slider-block/slider-block.php:278
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:107
+#: inc/widget/author-block/author-block.php:247
+#: inc/widget/feature-block/feature-block.php:134
+#: inc/widget/menu-block/menu-block.php:117
+#: inc/widget/service-block/service-block.php:89
+#: inc/widget/service-block/service-block.php:196
+#: inc/widget/slider-block/slider-block.php:140
+#: inc/widget/slider-block/slider-block.php:279
+#: ../kedavra/inc/widget/author-block/author-block.php:107
+#: ../kedavra/inc/widget/author-block/author-block.php:247
+#: ../kedavra/inc/widget/feature-block/feature-block.php:134
+#: ../kedavra/inc/widget/menu-block/menu-block.php:117
+#: ../kedavra/inc/widget/service-block/service-block.php:89
+#: ../kedavra/inc/widget/service-block/service-block.php:196
+#: ../kedavra/inc/widget/slider-block/slider-block.php:140
+#: ../kedavra/inc/widget/slider-block/slider-block.php:279
+msgid "rotateInUpRight"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:108
+#: inc/widget/author-block/author-block.php:248
+#: inc/widget/feature-block/feature-block.php:135
+#: inc/widget/menu-block/menu-block.php:118
+#: inc/widget/service-block/service-block.php:90
+#: inc/widget/service-block/service-block.php:197
+#: inc/widget/slider-block/slider-block.php:141
+#: inc/widget/slider-block/slider-block.php:280
+#: ../kedavra/inc/widget/author-block/author-block.php:108
+#: ../kedavra/inc/widget/author-block/author-block.php:248
+#: ../kedavra/inc/widget/feature-block/feature-block.php:135
+#: ../kedavra/inc/widget/menu-block/menu-block.php:118
+#: ../kedavra/inc/widget/service-block/service-block.php:90
+#: ../kedavra/inc/widget/service-block/service-block.php:197
+#: ../kedavra/inc/widget/slider-block/slider-block.php:141
+#: ../kedavra/inc/widget/slider-block/slider-block.php:280
+msgid "rotateOut"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:109
+#: inc/widget/author-block/author-block.php:249
+#: inc/widget/feature-block/feature-block.php:136
+#: inc/widget/menu-block/menu-block.php:119
+#: inc/widget/service-block/service-block.php:91
+#: inc/widget/service-block/service-block.php:198
+#: inc/widget/slider-block/slider-block.php:142
+#: inc/widget/slider-block/slider-block.php:281
+#: ../kedavra/inc/widget/author-block/author-block.php:109
+#: ../kedavra/inc/widget/author-block/author-block.php:249
+#: ../kedavra/inc/widget/feature-block/feature-block.php:136
+#: ../kedavra/inc/widget/menu-block/menu-block.php:119
+#: ../kedavra/inc/widget/service-block/service-block.php:91
+#: ../kedavra/inc/widget/service-block/service-block.php:198
+#: ../kedavra/inc/widget/slider-block/slider-block.php:142
+#: ../kedavra/inc/widget/slider-block/slider-block.php:281
+msgid "rotateOutDownLeft"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:110
+#: inc/widget/author-block/author-block.php:250
+#: inc/widget/feature-block/feature-block.php:137
+#: inc/widget/menu-block/menu-block.php:120
+#: inc/widget/service-block/service-block.php:92
+#: inc/widget/service-block/service-block.php:199
+#: inc/widget/slider-block/slider-block.php:143
+#: inc/widget/slider-block/slider-block.php:282
+#: ../kedavra/inc/widget/author-block/author-block.php:110
+#: ../kedavra/inc/widget/author-block/author-block.php:250
+#: ../kedavra/inc/widget/feature-block/feature-block.php:137
+#: ../kedavra/inc/widget/menu-block/menu-block.php:120
+#: ../kedavra/inc/widget/service-block/service-block.php:92
+#: ../kedavra/inc/widget/service-block/service-block.php:199
+#: ../kedavra/inc/widget/slider-block/slider-block.php:143
+#: ../kedavra/inc/widget/slider-block/slider-block.php:282
+msgid "rotateOutDownRight"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:111
+#: inc/widget/author-block/author-block.php:251
+#: inc/widget/feature-block/feature-block.php:138
+#: inc/widget/menu-block/menu-block.php:121
+#: inc/widget/service-block/service-block.php:93
+#: inc/widget/service-block/service-block.php:200
+#: inc/widget/slider-block/slider-block.php:144
+#: inc/widget/slider-block/slider-block.php:283
+#: ../kedavra/inc/widget/author-block/author-block.php:111
+#: ../kedavra/inc/widget/author-block/author-block.php:251
+#: ../kedavra/inc/widget/feature-block/feature-block.php:138
+#: ../kedavra/inc/widget/menu-block/menu-block.php:121
+#: ../kedavra/inc/widget/service-block/service-block.php:93
+#: ../kedavra/inc/widget/service-block/service-block.php:200
+#: ../kedavra/inc/widget/slider-block/slider-block.php:144
+#: ../kedavra/inc/widget/slider-block/slider-block.php:283
+msgid "rotateOutUpLeft"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:112
+#: inc/widget/author-block/author-block.php:252
+#: inc/widget/feature-block/feature-block.php:139
+#: inc/widget/menu-block/menu-block.php:122
+#: inc/widget/service-block/service-block.php:94
+#: inc/widget/service-block/service-block.php:201
+#: inc/widget/slider-block/slider-block.php:145
+#: inc/widget/slider-block/slider-block.php:284
+#: ../kedavra/inc/widget/author-block/author-block.php:112
+#: ../kedavra/inc/widget/author-block/author-block.php:252
+#: ../kedavra/inc/widget/feature-block/feature-block.php:139
+#: ../kedavra/inc/widget/menu-block/menu-block.php:122
+#: ../kedavra/inc/widget/service-block/service-block.php:94
+#: ../kedavra/inc/widget/service-block/service-block.php:201
+#: ../kedavra/inc/widget/slider-block/slider-block.php:145
+#: ../kedavra/inc/widget/slider-block/slider-block.php:284
+msgid "rotateOutUpRight"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:113
+#: inc/widget/author-block/author-block.php:253
+#: inc/widget/feature-block/feature-block.php:140
+#: inc/widget/menu-block/menu-block.php:123
+#: inc/widget/service-block/service-block.php:95
+#: inc/widget/service-block/service-block.php:202
+#: inc/widget/slider-block/slider-block.php:146
+#: inc/widget/slider-block/slider-block.php:285
+#: ../kedavra/inc/widget/author-block/author-block.php:113
+#: ../kedavra/inc/widget/author-block/author-block.php:253
+#: ../kedavra/inc/widget/feature-block/feature-block.php:140
+#: ../kedavra/inc/widget/menu-block/menu-block.php:123
+#: ../kedavra/inc/widget/service-block/service-block.php:95
+#: ../kedavra/inc/widget/service-block/service-block.php:202
+#: ../kedavra/inc/widget/slider-block/slider-block.php:146
+#: ../kedavra/inc/widget/slider-block/slider-block.php:285
+msgid "hinge"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:114
+#: inc/widget/author-block/author-block.php:254
+#: inc/widget/feature-block/feature-block.php:141
+#: inc/widget/menu-block/menu-block.php:124
+#: inc/widget/service-block/service-block.php:96
+#: inc/widget/service-block/service-block.php:203
+#: inc/widget/slider-block/slider-block.php:147
+#: inc/widget/slider-block/slider-block.php:286
+#: ../kedavra/inc/widget/author-block/author-block.php:114
+#: ../kedavra/inc/widget/author-block/author-block.php:254
+#: ../kedavra/inc/widget/feature-block/feature-block.php:141
+#: ../kedavra/inc/widget/menu-block/menu-block.php:124
+#: ../kedavra/inc/widget/service-block/service-block.php:96
+#: ../kedavra/inc/widget/service-block/service-block.php:203
+#: ../kedavra/inc/widget/slider-block/slider-block.php:147
+#: ../kedavra/inc/widget/slider-block/slider-block.php:286
+msgid "rollIn"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:115
+#: inc/widget/author-block/author-block.php:255
+#: inc/widget/feature-block/feature-block.php:142
+#: inc/widget/menu-block/menu-block.php:125
+#: inc/widget/service-block/service-block.php:97
+#: inc/widget/service-block/service-block.php:204
+#: inc/widget/slider-block/slider-block.php:148
+#: inc/widget/slider-block/slider-block.php:287
+#: ../kedavra/inc/widget/author-block/author-block.php:115
+#: ../kedavra/inc/widget/author-block/author-block.php:255
+#: ../kedavra/inc/widget/feature-block/feature-block.php:142
+#: ../kedavra/inc/widget/menu-block/menu-block.php:125
+#: ../kedavra/inc/widget/service-block/service-block.php:97
+#: ../kedavra/inc/widget/service-block/service-block.php:204
+#: ../kedavra/inc/widget/slider-block/slider-block.php:148
+#: ../kedavra/inc/widget/slider-block/slider-block.php:287
+msgid "rollOut"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:116
+#: inc/widget/author-block/author-block.php:256
+#: inc/widget/feature-block/feature-block.php:143
+#: inc/widget/menu-block/menu-block.php:126
+#: inc/widget/service-block/service-block.php:98
+#: inc/widget/service-block/service-block.php:205
+#: inc/widget/slider-block/slider-block.php:149
+#: inc/widget/slider-block/slider-block.php:288
+#: ../kedavra/inc/widget/author-block/author-block.php:116
+#: ../kedavra/inc/widget/author-block/author-block.php:256
+#: ../kedavra/inc/widget/feature-block/feature-block.php:143
+#: ../kedavra/inc/widget/menu-block/menu-block.php:126
+#: ../kedavra/inc/widget/service-block/service-block.php:98
+#: ../kedavra/inc/widget/service-block/service-block.php:205
+#: ../kedavra/inc/widget/slider-block/slider-block.php:149
+#: ../kedavra/inc/widget/slider-block/slider-block.php:288
+msgid "zoomIn"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:117
+#: inc/widget/author-block/author-block.php:257
+#: inc/widget/feature-block/feature-block.php:144
+#: inc/widget/menu-block/menu-block.php:127
+#: inc/widget/service-block/service-block.php:99
+#: inc/widget/service-block/service-block.php:206
+#: inc/widget/slider-block/slider-block.php:150
+#: inc/widget/slider-block/slider-block.php:289
+#: ../kedavra/inc/widget/author-block/author-block.php:117
+#: ../kedavra/inc/widget/author-block/author-block.php:257
+#: ../kedavra/inc/widget/feature-block/feature-block.php:144
+#: ../kedavra/inc/widget/menu-block/menu-block.php:127
+#: ../kedavra/inc/widget/service-block/service-block.php:99
+#: ../kedavra/inc/widget/service-block/service-block.php:206
+#: ../kedavra/inc/widget/slider-block/slider-block.php:150
+#: ../kedavra/inc/widget/slider-block/slider-block.php:289
+msgid "zoomInDown"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:118
+#: inc/widget/author-block/author-block.php:258
+#: inc/widget/feature-block/feature-block.php:145
+#: inc/widget/menu-block/menu-block.php:128
+#: inc/widget/service-block/service-block.php:100
+#: inc/widget/service-block/service-block.php:207
+#: inc/widget/slider-block/slider-block.php:151
+#: inc/widget/slider-block/slider-block.php:290
+#: ../kedavra/inc/widget/author-block/author-block.php:118
+#: ../kedavra/inc/widget/author-block/author-block.php:258
+#: ../kedavra/inc/widget/feature-block/feature-block.php:145
+#: ../kedavra/inc/widget/menu-block/menu-block.php:128
+#: ../kedavra/inc/widget/service-block/service-block.php:100
+#: ../kedavra/inc/widget/service-block/service-block.php:207
+#: ../kedavra/inc/widget/slider-block/slider-block.php:151
+#: ../kedavra/inc/widget/slider-block/slider-block.php:290
+msgid "zoomInLeft"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:119
+#: inc/widget/author-block/author-block.php:259
+#: inc/widget/feature-block/feature-block.php:146
+#: inc/widget/menu-block/menu-block.php:129
+#: inc/widget/service-block/service-block.php:101
+#: inc/widget/service-block/service-block.php:208
+#: inc/widget/slider-block/slider-block.php:152
+#: inc/widget/slider-block/slider-block.php:291
+#: ../kedavra/inc/widget/author-block/author-block.php:119
+#: ../kedavra/inc/widget/author-block/author-block.php:259
+#: ../kedavra/inc/widget/feature-block/feature-block.php:146
+#: ../kedavra/inc/widget/menu-block/menu-block.php:129
+#: ../kedavra/inc/widget/service-block/service-block.php:101
+#: ../kedavra/inc/widget/service-block/service-block.php:208
+#: ../kedavra/inc/widget/slider-block/slider-block.php:152
+#: ../kedavra/inc/widget/slider-block/slider-block.php:291
+msgid "zoomInRight"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:120
+#: inc/widget/author-block/author-block.php:260
+#: inc/widget/feature-block/feature-block.php:147
+#: inc/widget/menu-block/menu-block.php:130
+#: inc/widget/service-block/service-block.php:102
+#: inc/widget/service-block/service-block.php:209
+#: inc/widget/slider-block/slider-block.php:153
+#: inc/widget/slider-block/slider-block.php:292
+#: ../kedavra/inc/widget/author-block/author-block.php:120
+#: ../kedavra/inc/widget/author-block/author-block.php:260
+#: ../kedavra/inc/widget/feature-block/feature-block.php:147
+#: ../kedavra/inc/widget/menu-block/menu-block.php:130
+#: ../kedavra/inc/widget/service-block/service-block.php:102
+#: ../kedavra/inc/widget/service-block/service-block.php:209
+#: ../kedavra/inc/widget/slider-block/slider-block.php:153
+#: ../kedavra/inc/widget/slider-block/slider-block.php:292
+msgid "zoomInUp"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:121
+#: inc/widget/author-block/author-block.php:261
+#: inc/widget/feature-block/feature-block.php:148
+#: inc/widget/menu-block/menu-block.php:131
+#: inc/widget/service-block/service-block.php:103
+#: inc/widget/service-block/service-block.php:210
+#: inc/widget/slider-block/slider-block.php:154
+#: inc/widget/slider-block/slider-block.php:293
+#: ../kedavra/inc/widget/author-block/author-block.php:121
+#: ../kedavra/inc/widget/author-block/author-block.php:261
+#: ../kedavra/inc/widget/feature-block/feature-block.php:148
+#: ../kedavra/inc/widget/menu-block/menu-block.php:131
+#: ../kedavra/inc/widget/service-block/service-block.php:103
+#: ../kedavra/inc/widget/service-block/service-block.php:210
+#: ../kedavra/inc/widget/slider-block/slider-block.php:154
+#: ../kedavra/inc/widget/slider-block/slider-block.php:293
+msgid "zoomOut"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:122
+#: inc/widget/author-block/author-block.php:262
+#: inc/widget/feature-block/feature-block.php:149
+#: inc/widget/menu-block/menu-block.php:132
+#: inc/widget/service-block/service-block.php:104
+#: inc/widget/service-block/service-block.php:211
+#: inc/widget/slider-block/slider-block.php:155
+#: inc/widget/slider-block/slider-block.php:294
+#: ../kedavra/inc/widget/author-block/author-block.php:122
+#: ../kedavra/inc/widget/author-block/author-block.php:262
+#: ../kedavra/inc/widget/feature-block/feature-block.php:149
+#: ../kedavra/inc/widget/menu-block/menu-block.php:132
+#: ../kedavra/inc/widget/service-block/service-block.php:104
+#: ../kedavra/inc/widget/service-block/service-block.php:211
+#: ../kedavra/inc/widget/slider-block/slider-block.php:155
+#: ../kedavra/inc/widget/slider-block/slider-block.php:294
+msgid "zoomOutDown"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:123
+#: inc/widget/author-block/author-block.php:263
+#: inc/widget/feature-block/feature-block.php:150
+#: inc/widget/menu-block/menu-block.php:133
+#: inc/widget/service-block/service-block.php:105
+#: inc/widget/service-block/service-block.php:212
+#: inc/widget/slider-block/slider-block.php:156
+#: inc/widget/slider-block/slider-block.php:295
+#: ../kedavra/inc/widget/author-block/author-block.php:123
+#: ../kedavra/inc/widget/author-block/author-block.php:263
+#: ../kedavra/inc/widget/feature-block/feature-block.php:150
+#: ../kedavra/inc/widget/menu-block/menu-block.php:133
+#: ../kedavra/inc/widget/service-block/service-block.php:105
+#: ../kedavra/inc/widget/service-block/service-block.php:212
+#: ../kedavra/inc/widget/slider-block/slider-block.php:156
+#: ../kedavra/inc/widget/slider-block/slider-block.php:295
+msgid "zoomOutLeft"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:124
+#: inc/widget/author-block/author-block.php:264
+#: inc/widget/feature-block/feature-block.php:151
+#: inc/widget/menu-block/menu-block.php:134
+#: inc/widget/service-block/service-block.php:106
+#: inc/widget/service-block/service-block.php:213
+#: inc/widget/slider-block/slider-block.php:157
+#: inc/widget/slider-block/slider-block.php:296
+#: ../kedavra/inc/widget/author-block/author-block.php:124
+#: ../kedavra/inc/widget/author-block/author-block.php:264
+#: ../kedavra/inc/widget/feature-block/feature-block.php:151
+#: ../kedavra/inc/widget/menu-block/menu-block.php:134
+#: ../kedavra/inc/widget/service-block/service-block.php:106
+#: ../kedavra/inc/widget/service-block/service-block.php:213
+#: ../kedavra/inc/widget/slider-block/slider-block.php:157
+#: ../kedavra/inc/widget/slider-block/slider-block.php:296
+msgid "zoomOutRight"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:125
+#: inc/widget/author-block/author-block.php:265
+#: inc/widget/feature-block/feature-block.php:152
+#: inc/widget/menu-block/menu-block.php:135
+#: inc/widget/service-block/service-block.php:107
+#: inc/widget/service-block/service-block.php:214
+#: inc/widget/slider-block/slider-block.php:158
+#: inc/widget/slider-block/slider-block.php:297
+#: ../kedavra/inc/widget/author-block/author-block.php:125
+#: ../kedavra/inc/widget/author-block/author-block.php:265
+#: ../kedavra/inc/widget/feature-block/feature-block.php:152
+#: ../kedavra/inc/widget/menu-block/menu-block.php:135
+#: ../kedavra/inc/widget/service-block/service-block.php:107
+#: ../kedavra/inc/widget/service-block/service-block.php:214
+#: ../kedavra/inc/widget/slider-block/slider-block.php:158
+#: ../kedavra/inc/widget/slider-block/slider-block.php:297
+msgid "zoomOutUp"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:126
+#: inc/widget/author-block/author-block.php:266
+#: inc/widget/feature-block/feature-block.php:153
+#: inc/widget/menu-block/menu-block.php:136
+#: inc/widget/service-block/service-block.php:108
+#: inc/widget/service-block/service-block.php:215
+#: inc/widget/slider-block/slider-block.php:159
+#: inc/widget/slider-block/slider-block.php:298
+#: ../kedavra/inc/widget/author-block/author-block.php:126
+#: ../kedavra/inc/widget/author-block/author-block.php:266
+#: ../kedavra/inc/widget/feature-block/feature-block.php:153
+#: ../kedavra/inc/widget/menu-block/menu-block.php:136
+#: ../kedavra/inc/widget/service-block/service-block.php:108
+#: ../kedavra/inc/widget/service-block/service-block.php:215
+#: ../kedavra/inc/widget/slider-block/slider-block.php:159
+#: ../kedavra/inc/widget/slider-block/slider-block.php:298
+msgid "slideInDown"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:127
+#: inc/widget/author-block/author-block.php:267
+#: inc/widget/feature-block/feature-block.php:154
+#: inc/widget/menu-block/menu-block.php:137
+#: inc/widget/service-block/service-block.php:109
+#: inc/widget/service-block/service-block.php:216
+#: inc/widget/slider-block/slider-block.php:160
+#: inc/widget/slider-block/slider-block.php:299
+#: ../kedavra/inc/widget/author-block/author-block.php:127
+#: ../kedavra/inc/widget/author-block/author-block.php:267
+#: ../kedavra/inc/widget/feature-block/feature-block.php:154
+#: ../kedavra/inc/widget/menu-block/menu-block.php:137
+#: ../kedavra/inc/widget/service-block/service-block.php:109
+#: ../kedavra/inc/widget/service-block/service-block.php:216
+#: ../kedavra/inc/widget/slider-block/slider-block.php:160
+#: ../kedavra/inc/widget/slider-block/slider-block.php:299
+msgid "slideInLeft"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:128
+#: inc/widget/author-block/author-block.php:268
+#: inc/widget/feature-block/feature-block.php:155
+#: inc/widget/menu-block/menu-block.php:138
+#: inc/widget/service-block/service-block.php:110
+#: inc/widget/service-block/service-block.php:217
+#: inc/widget/slider-block/slider-block.php:161
+#: inc/widget/slider-block/slider-block.php:300
+#: ../kedavra/inc/widget/author-block/author-block.php:128
+#: ../kedavra/inc/widget/author-block/author-block.php:268
+#: ../kedavra/inc/widget/feature-block/feature-block.php:155
+#: ../kedavra/inc/widget/menu-block/menu-block.php:138
+#: ../kedavra/inc/widget/service-block/service-block.php:110
+#: ../kedavra/inc/widget/service-block/service-block.php:217
+#: ../kedavra/inc/widget/slider-block/slider-block.php:161
+#: ../kedavra/inc/widget/slider-block/slider-block.php:300
+msgid "slideInRight"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:129
+#: inc/widget/author-block/author-block.php:269
+#: inc/widget/feature-block/feature-block.php:156
+#: inc/widget/menu-block/menu-block.php:139
+#: inc/widget/service-block/service-block.php:111
+#: inc/widget/service-block/service-block.php:218
+#: inc/widget/slider-block/slider-block.php:162
+#: inc/widget/slider-block/slider-block.php:301
+#: ../kedavra/inc/widget/author-block/author-block.php:129
+#: ../kedavra/inc/widget/author-block/author-block.php:269
+#: ../kedavra/inc/widget/feature-block/feature-block.php:156
+#: ../kedavra/inc/widget/menu-block/menu-block.php:139
+#: ../kedavra/inc/widget/service-block/service-block.php:111
+#: ../kedavra/inc/widget/service-block/service-block.php:218
+#: ../kedavra/inc/widget/slider-block/slider-block.php:162
+#: ../kedavra/inc/widget/slider-block/slider-block.php:301
+msgid "slideInUp"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:130
+#: inc/widget/author-block/author-block.php:270
+#: inc/widget/feature-block/feature-block.php:157
+#: inc/widget/menu-block/menu-block.php:140
+#: inc/widget/service-block/service-block.php:112
+#: inc/widget/service-block/service-block.php:219
+#: inc/widget/slider-block/slider-block.php:163
+#: inc/widget/slider-block/slider-block.php:302
+#: ../kedavra/inc/widget/author-block/author-block.php:130
+#: ../kedavra/inc/widget/author-block/author-block.php:270
+#: ../kedavra/inc/widget/feature-block/feature-block.php:157
+#: ../kedavra/inc/widget/menu-block/menu-block.php:140
+#: ../kedavra/inc/widget/service-block/service-block.php:112
+#: ../kedavra/inc/widget/service-block/service-block.php:219
+#: ../kedavra/inc/widget/slider-block/slider-block.php:163
+#: ../kedavra/inc/widget/slider-block/slider-block.php:302
+msgid "slideOutDown"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:131
+#: inc/widget/author-block/author-block.php:271
+#: inc/widget/feature-block/feature-block.php:158
+#: inc/widget/menu-block/menu-block.php:141
+#: inc/widget/service-block/service-block.php:113
+#: inc/widget/service-block/service-block.php:220
+#: inc/widget/slider-block/slider-block.php:164
+#: inc/widget/slider-block/slider-block.php:303
+#: ../kedavra/inc/widget/author-block/author-block.php:131
+#: ../kedavra/inc/widget/author-block/author-block.php:271
+#: ../kedavra/inc/widget/feature-block/feature-block.php:158
+#: ../kedavra/inc/widget/menu-block/menu-block.php:141
+#: ../kedavra/inc/widget/service-block/service-block.php:113
+#: ../kedavra/inc/widget/service-block/service-block.php:220
+#: ../kedavra/inc/widget/slider-block/slider-block.php:164
+#: ../kedavra/inc/widget/slider-block/slider-block.php:303
+msgid "slideOutLeft"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:132
+#: inc/widget/author-block/author-block.php:272
+#: inc/widget/feature-block/feature-block.php:159
+#: inc/widget/menu-block/menu-block.php:142
+#: inc/widget/service-block/service-block.php:114
+#: inc/widget/service-block/service-block.php:221
+#: inc/widget/slider-block/slider-block.php:165
+#: inc/widget/slider-block/slider-block.php:304
+#: ../kedavra/inc/widget/author-block/author-block.php:132
+#: ../kedavra/inc/widget/author-block/author-block.php:272
+#: ../kedavra/inc/widget/feature-block/feature-block.php:159
+#: ../kedavra/inc/widget/menu-block/menu-block.php:142
+#: ../kedavra/inc/widget/service-block/service-block.php:114
+#: ../kedavra/inc/widget/service-block/service-block.php:221
+#: ../kedavra/inc/widget/slider-block/slider-block.php:165
+#: ../kedavra/inc/widget/slider-block/slider-block.php:304
+msgid "slideOutRight"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:133
+#: inc/widget/author-block/author-block.php:273
+#: inc/widget/feature-block/feature-block.php:160
+#: inc/widget/menu-block/menu-block.php:143
+#: inc/widget/service-block/service-block.php:115
+#: inc/widget/service-block/service-block.php:222
+#: inc/widget/slider-block/slider-block.php:166
+#: inc/widget/slider-block/slider-block.php:305
+#: ../kedavra/inc/widget/author-block/author-block.php:133
+#: ../kedavra/inc/widget/author-block/author-block.php:273
+#: ../kedavra/inc/widget/feature-block/feature-block.php:160
+#: ../kedavra/inc/widget/menu-block/menu-block.php:143
+#: ../kedavra/inc/widget/service-block/service-block.php:115
+#: ../kedavra/inc/widget/service-block/service-block.php:222
+#: ../kedavra/inc/widget/slider-block/slider-block.php:166
+#: ../kedavra/inc/widget/slider-block/slider-block.php:305
+msgid "slideOutUp"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:147
+#: ../kedavra/inc/widget/author-block/author-block.php:147
+msgid "Author Right Part"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:153
+#: ../kedavra/inc/widget/author-block/author-block.php:153
+msgid "Insert Mark/Signature Image"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:167
+#: ../kedavra/inc/widget/author-block/author-block.php:167
+msgid "Your Author Subtitle"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:173
+#: ../kedavra/inc/widget/author-block/author-block.php:173
+msgid "Author Description"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:192
+#: ../kedavra/inc/widget/author-block/author-block.php:192
+msgid "Text Right Color"
+msgstr ""
+
+#: inc/widget/author-block/author-block.php:198
+#: ../kedavra/inc/widget/author-block/author-block.php:198
+msgid "Author Right Content Animation"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:8
+#: ../kedavra/inc/widget/button-block/button-block.php:8
+msgid "Button Block"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:10
+#: ../kedavra/inc/widget/button-block/button-block.php:10
+msgid "Widget to show Button Link"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:19
+#: ../kedavra/inc/widget/button-block/button-block.php:19
+msgid "Button text"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:24
+#: ../kedavra/inc/widget/button-block/button-block.php:24
+msgid "Destination URL"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:30
+#: ../kedavra/inc/widget/button-block/button-block.php:30
+msgid "Open in a new window"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:35
+#: ../kedavra/inc/widget/button-block/button-block.php:35
+msgid "Button Animation"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:49
+#: inc/widget/button-block/button-block.php:53
+#: ../kedavra/inc/widget/button-block/button-block.php:49
+#: ../kedavra/inc/widget/button-block/button-block.php:53
+msgid "Icon"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:58
+#: ../kedavra/inc/widget/button-block/button-block.php:58
+msgid "Icon color"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:63
+#: ../kedavra/inc/widget/button-block/button-block.php:63
+msgid "Image icon"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:64
+#: ../kedavra/inc/widget/button-block/button-block.php:64
+msgid "Replaces the icon with your own image icon."
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:71
+#: ../kedavra/inc/widget/button-block/button-block.php:71
+msgid "Design and layout"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:76
+#: inc/widget/title-block/title-block.php:79
+#: ../kedavra/inc/widget/button-block/button-block.php:76
+#: ../kedavra/inc/widget/title-block/title-block.php:79
+msgid "Align"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:82
+#: inc/widget/title-block/title-block.php:85
+#: ../kedavra/inc/widget/button-block/button-block.php:82
+#: ../kedavra/inc/widget/title-block/title-block.php:85
+msgid "Justify"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:88
+#: ../kedavra/inc/widget/button-block/button-block.php:88
+msgid "Button theme"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:91
+#: ../kedavra/inc/widget/button-block/button-block.php:91
+msgid "Atom"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:92
+#: ../kedavra/inc/widget/button-block/button-block.php:92
+msgid "Flat"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:93
+#: ../kedavra/inc/widget/button-block/button-block.php:93
+msgid "Wire"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:94
+#: ../kedavra/inc/widget/button-block/button-block.php:94
+msgid "Border Bottom"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:101
+#: ../kedavra/inc/widget/button-block/button-block.php:101
+msgid "Button color"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:106
+#: ../kedavra/inc/widget/button-block/button-block.php:106
+msgid "Text color"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:112
+#: ../kedavra/inc/widget/button-block/button-block.php:112
+msgid "Use hover effects"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:117
+#: ../kedavra/inc/widget/button-block/button-block.php:117
+msgid "Font size"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:119
+#: ../kedavra/inc/widget/button-block/button-block.php:119
+msgid "Normal"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:120
+#: inc/widget/button-block/button-block.php:144
+#: ../kedavra/inc/widget/button-block/button-block.php:120
+#: ../kedavra/inc/widget/button-block/button-block.php:144
+msgid "Medium"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:121
+#: ../kedavra/inc/widget/button-block/button-block.php:121
+msgid "Large"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:122
+#: ../kedavra/inc/widget/button-block/button-block.php:122
+msgid "Extra large"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:128
+#: ../kedavra/inc/widget/button-block/button-block.php:128
+msgid "Rounding"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:131
+#: ../kedavra/inc/widget/button-block/button-block.php:131
+msgid "None"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:132
+#: ../kedavra/inc/widget/button-block/button-block.php:132
+msgid "Slightly rounded"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:133
+#: ../kedavra/inc/widget/button-block/button-block.php:133
+msgid "Very rounded"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:134
+#: ../kedavra/inc/widget/button-block/button-block.php:134
+msgid "Completely rounded"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:140
+#: ../kedavra/inc/widget/button-block/button-block.php:140
+msgid "Padding"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:143
+#: ../kedavra/inc/widget/button-block/button-block.php:143
+msgid "Low"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:145
+#: ../kedavra/inc/widget/button-block/button-block.php:145
+msgid "High"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:146
+#: ../kedavra/inc/widget/button-block/button-block.php:146
+msgid "Very high"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:155
+#: ../kedavra/inc/widget/button-block/button-block.php:155
+msgid "Other attributes and SEO"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:160
+#: ../kedavra/inc/widget/button-block/button-block.php:160
+msgid "Button ID"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:161
+#: ../kedavra/inc/widget/button-block/button-block.php:161
+msgid "An ID attribute allows you to target this button in Javascript."
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:166
+#: ../kedavra/inc/widget/button-block/button-block.php:166
+msgid "Title attribute"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:167
+#: ../kedavra/inc/widget/button-block/button-block.php:167
+msgid "Adds a title attribute to the button link."
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:172
+#: ../kedavra/inc/widget/button-block/button-block.php:172
+msgid "Onclick"
+msgstr ""
+
+#: inc/widget/button-block/button-block.php:173
+#: ../kedavra/inc/widget/button-block/button-block.php:173
+msgid "Run this Javascript when the button is clicked. Ideal for tracking."
+msgstr ""
+
+#: inc/widget/clear-block/clear-block.php:8
+#: ../kedavra/inc/widget/clear-block/clear-block.php:8
+msgid "Clear Block"
+msgstr ""
+
+#: inc/widget/clear-block/clear-block.php:10
+#: ../kedavra/inc/widget/clear-block/clear-block.php:10
+msgid "Widget to show Clear Description"
+msgstr ""
+
+#: inc/widget/clear-block/clear-block.php:20
+#: ../kedavra/inc/widget/clear-block/clear-block.php:20
+msgid "Clear Padding Top & Bottom"
+msgstr ""
+
+#: inc/widget/clear-block/clear-block.php:26
+#: ../kedavra/inc/widget/clear-block/clear-block.php:26
+msgid "Use Border Clear"
+msgstr ""
+
+#: inc/widget/clear-block/clear-block.php:32
+#: ../kedavra/inc/widget/clear-block/clear-block.php:32
+msgid "Border Type"
+msgstr ""
+
+#: inc/widget/clear-block/clear-block.php:35
+#: ../kedavra/inc/widget/clear-block/clear-block.php:35
+msgid "Solid Border"
+msgstr ""
+
+#: inc/widget/clear-block/clear-block.php:36
+#: ../kedavra/inc/widget/clear-block/clear-block.php:36
+msgid "Dashed Border"
+msgstr ""
+
+#: inc/widget/clear-block/clear-block.php:37
+#: ../kedavra/inc/widget/clear-block/clear-block.php:37
+msgid "Dotted Border"
+msgstr ""
+
+#: inc/widget/clear-block/clear-block.php:43
+#: ../kedavra/inc/widget/clear-block/clear-block.php:43
+msgid "Border Height"
+msgstr ""
+
+#: inc/widget/clear-block/clear-block.php:49
+#: ../kedavra/inc/widget/clear-block/clear-block.php:49
+msgid "Border Color"
+msgstr ""
+
+#: inc/widget/counter-block/counter-block.php:8
+#: ../kedavra/inc/widget/counter-block/counter-block.php:8
+msgid "Counter Block"
+msgstr ""
+
+#: inc/widget/counter-block/counter-block.php:10
+#: ../kedavra/inc/widget/counter-block/counter-block.php:10
+msgid "Widget to show counter bar"
+msgstr ""
+
+#: inc/widget/counter-block/counter-block.php:19
+#: ../kedavra/inc/widget/counter-block/counter-block.php:19
+msgid "Use Border"
+msgstr ""
+
+#: inc/widget/counter-block/counter-block.php:24
+#: ../kedavra/inc/widget/counter-block/counter-block.php:24
+msgid "Counter Block Animation"
+msgstr ""
+
+#: inc/widget/counter-block/counter-block.php:36
+#: ../kedavra/inc/widget/counter-block/counter-block.php:36
+msgid "Counter per row"
+msgstr ""
+
+#: inc/widget/counter-block/counter-block.php:41
+#: ../kedavra/inc/widget/counter-block/counter-block.php:41
+msgid "Counters"
+msgstr ""
+
+#: inc/widget/counter-block/counter-block.php:42
+#: ../kedavra/inc/widget/counter-block/counter-block.php:42
+msgid "counter"
+msgstr ""
+
+#: inc/widget/counter-block/counter-block.php:52
+#: ../kedavra/inc/widget/counter-block/counter-block.php:52
+msgid "Counter Value"
+msgstr ""
+
+#: inc/widget/counter-block/counter-block.php:57
+#: ../kedavra/inc/widget/counter-block/counter-block.php:57
+msgid "Counters Title"
+msgstr ""
+
+#: inc/widget/counter-block/counter-block.php:62
+#: ../kedavra/inc/widget/counter-block/counter-block.php:62
+msgid "Counter Text Color"
+msgstr ""
+
+#: inc/widget/feature-block/feature-block.php:8
+#: ../kedavra/inc/widget/feature-block/feature-block.php:8
+msgid "Feature Block"
+msgstr ""
+
+#: inc/widget/feature-block/feature-block.php:10
+#: ../kedavra/inc/widget/feature-block/feature-block.php:10
+msgid "Widget to show Feature Icon"
+msgstr ""
+
+#: inc/widget/feature-block/feature-block.php:20
+#: ../kedavra/inc/widget/feature-block/feature-block.php:20
+msgid "Select Feature Block Type"
+msgstr ""
+
+#: inc/widget/feature-block/feature-block.php:23
+#: ../kedavra/inc/widget/feature-block/feature-block.php:23
+msgid "Icon Above"
+msgstr ""
+
+#: inc/widget/feature-block/feature-block.php:24
+#: ../kedavra/inc/widget/feature-block/feature-block.php:24
+msgid "Icon Beside"
+msgstr ""
+
+#: inc/widget/feature-block/feature-block.php:30
+#: ../kedavra/inc/widget/feature-block/feature-block.php:30
+msgid "Features"
+msgstr ""
+
+#: inc/widget/feature-block/feature-block.php:31
+#: ../kedavra/inc/widget/feature-block/feature-block.php:31
+msgid "Feature Item"
+msgstr ""
+
+#: inc/widget/feature-block/feature-block.php:41
+#: ../kedavra/inc/widget/feature-block/feature-block.php:41
+msgid "Insert Feature Image"
+msgstr ""
+
+#: inc/widget/feature-block/feature-block.php:49
+#: ../kedavra/inc/widget/feature-block/feature-block.php:49
+msgid "Select an icon"
+msgstr ""
+
+#: inc/widget/feature-block/feature-block.php:54
+#: ../kedavra/inc/widget/feature-block/feature-block.php:54
+msgid "Your Feature Title"
+msgstr ""
+
+#: inc/widget/feature-block/feature-block.php:60
+#: ../kedavra/inc/widget/feature-block/feature-block.php:60
+msgid "Feature Description"
+msgstr ""
+
+#: inc/widget/feature-block/feature-block.php:68
+#: ../kedavra/inc/widget/feature-block/feature-block.php:68
+msgid "Feature Text Color"
+msgstr ""
+
+#: inc/widget/feature-block/feature-block.php:85
+#: ../kedavra/inc/widget/feature-block/feature-block.php:85
+msgid "Feature Item Animation"
+msgstr ""
+
+#: inc/widget/feature-block/feature-block.php:176
+#: ../kedavra/inc/widget/feature-block/feature-block.php:176
+msgid "Feature item per row"
+msgstr ""
+
+#: inc/widget/fullportfolio-block/fullportfolio-block.php:8
+#: ../kedavra/inc/widget/fullportfolio-block/fullportfolio-block.php:8
+msgid "Full Width Portfolio Block"
+msgstr ""
+
+#: inc/widget/fullportfolio-block/fullportfolio-block.php:10
+#: ../kedavra/inc/widget/fullportfolio-block/fullportfolio-block.php:10
+msgid "Widget to show full width portfolio"
+msgstr ""
+
+#: inc/widget/fullportfolio-block/fullportfolio-block.php:19
+#: inc/widget/grid-block/grid-block.php:19
+#: inc/widget/masonry-block/masonry-block.php:19
+#: ../kedavra/inc/widget/fullportfolio-block/fullportfolio-block.php:19
+#: ../kedavra/inc/widget/grid-block/grid-block.php:19
+#: ../kedavra/inc/widget/masonry-block/masonry-block.php:19
+msgid "Portfolio Show Number"
+msgstr ""
+
+#: inc/widget/fullportfolio-block/fullportfolio-block.php:25
+#: inc/widget/grid-block/grid-block.php:25
+#: inc/widget/masonry-block/masonry-block.php:25
+#: inc/widget/portfoliocustom-block/portfoliocustom-block.php:26
+#: ../kedavra/inc/widget/fullportfolio-block/fullportfolio-block.php:25
+#: ../kedavra/inc/widget/grid-block/grid-block.php:25
+#: ../kedavra/inc/widget/masonry-block/masonry-block.php:25
+#: ../kedavra/inc/widget/portfoliocustom-block/portfoliocustom-block.php:26
+msgid "Portfolio per row"
+msgstr ""
+
+#: inc/widget/grid-block/grid-block.php:8
+#: ../kedavra/inc/widget/grid-block/grid-block.php:8
+msgid "Portfolio Grid Block"
+msgstr ""
+
+#: inc/widget/grid-block/grid-block.php:10
+#: ../kedavra/inc/widget/grid-block/grid-block.php:10
+msgid "Widget to show portfolio grid"
+msgstr ""
+
+#: inc/widget/grid-block/grid-block.php:31
+#: inc/widget/masonry-block/masonry-block.php:31
+#: ../kedavra/inc/widget/grid-block/grid-block.php:31
+#: ../kedavra/inc/widget/masonry-block/masonry-block.php:31
+msgid "Show Filter"
+msgstr ""
+
+#: inc/widget/grid-block/grid-block.php:37
+#: inc/widget/heroimage-block/heroimage-block.php:143
+#: inc/widget/masonry-block/masonry-block.php:37
+#: ../kedavra/inc/widget/grid-block/grid-block.php:37
+#: ../kedavra/inc/widget/heroimage-block/heroimage-block.php:143
+#: ../kedavra/inc/widget/masonry-block/masonry-block.php:37
+msgid "Button Text"
+msgstr ""
+
+#: inc/widget/grid-block/grid-block.php:43
+#: inc/widget/heroimage-block/heroimage-block.php:149
+#: inc/widget/masonry-block/masonry-block.php:43
+#: ../kedavra/inc/widget/grid-block/grid-block.php:43
+#: ../kedavra/inc/widget/heroimage-block/heroimage-block.php:149
+#: ../kedavra/inc/widget/masonry-block/masonry-block.php:43
+msgid "Button Link"
+msgstr ""
+
+#: inc/widget/heroimage-block/heroimage-block.php:8
+#: ../kedavra/inc/widget/heroimage-block/heroimage-block.php:8
+msgid "Hero Image Block"
+msgstr ""
+
+#: inc/widget/heroimage-block/heroimage-block.php:10
+#: ../kedavra/inc/widget/heroimage-block/heroimage-block.php:10
+msgid "Widget to show hero image"
+msgstr ""
+
+#: inc/widget/heroimage-block/heroimage-block.php:20
+#: ../kedavra/inc/widget/heroimage-block/heroimage-block.php:20
+msgid "Select hero image block"
+msgstr ""
+
+#: inc/widget/heroimage-block/heroimage-block.php:27
+#: ../kedavra/inc/widget/heroimage-block/heroimage-block.php:27
+msgid "Full Height With Border"
+msgstr ""
+
+#: inc/widget/heroimage-block/heroimage-block.php:28
+#: ../kedavra/inc/widget/heroimage-block/heroimage-block.php:28
+msgid "Hero Image with Logo"
+msgstr ""
+
+#: inc/widget/heroimage-block/heroimage-block.php:29
+#: ../kedavra/inc/widget/heroimage-block/heroimage-block.php:29
+msgid "Hero Image with Button"
+msgstr ""
+
+#: inc/widget/heroimage-block/heroimage-block.php:35
+#: ../kedavra/inc/widget/heroimage-block/heroimage-block.php:35
+msgid "Your Hero Image Title"
+msgstr ""
+
+#: inc/widget/heroimage-block/heroimage-block.php:41
+#: inc/widget/slider-block/slider-block.php:83
+#: ../kedavra/inc/widget/heroimage-block/heroimage-block.php:41
+#: ../kedavra/inc/widget/slider-block/slider-block.php:83
+msgid "Detail Content (HTML allowed)"
+msgstr ""
+
+#: inc/widget/heroimage-block/heroimage-block.php:49
+#: ../kedavra/inc/widget/heroimage-block/heroimage-block.php:49
+msgid "Content Align "
+msgstr ""
+
+#: inc/widget/heroimage-block/heroimage-block.php:60
+#: ../kedavra/inc/widget/heroimage-block/heroimage-block.php:60
+msgid "Hero Image Content Animation"
+msgstr ""
+
+#: inc/widget/heroimage-block/heroimage-block.php:74
+#: ../kedavra/inc/widget/heroimage-block/heroimage-block.php:74
+msgid "Hero Image Text Color"
+msgstr ""
+
+#: inc/widget/heroimage-block/heroimage-block.php:80
+#: ../kedavra/inc/widget/heroimage-block/heroimage-block.php:80
+msgid "Hero Image Overlay Color"
+msgstr ""
+
+#: inc/widget/heroimage-block/heroimage-block.php:91
+#: inc/widget/slider-block/slider-block.php:44
+#: inc/widget/slogan-block/slogan-block.php:89
+#: inc/widget/title-block/title-block.php:46
+#: ../kedavra/inc/widget/heroimage-block/heroimage-block.php:91
+#: ../kedavra/inc/widget/slider-block/slider-block.php:44
+#: ../kedavra/inc/widget/slogan-block/slogan-block.php:89
+#: ../kedavra/inc/widget/title-block/title-block.php:46
+msgid "Overlay Level (0-1)"
+msgstr ""
+
+#: inc/widget/heroimage-block/heroimage-block.php:102
+#: inc/widget/slider-block/slider-block.php:181
+#: ../kedavra/inc/widget/heroimage-block/heroimage-block.php:102
+#: ../kedavra/inc/widget/slider-block/slider-block.php:181
+msgid "Insert an ID or class of block you want to linked"
+msgstr ""
+
+#: inc/widget/heroimage-block/heroimage-block.php:113
+#: ../kedavra/inc/widget/heroimage-block/heroimage-block.php:113
+msgid "Insert Hero Image"
+msgstr ""
+
+#: inc/widget/heroimage-block/heroimage-block.php:126
+#: ../kedavra/inc/widget/heroimage-block/heroimage-block.php:126
+msgid "Hero Image Button"
+msgstr ""
+
+#: inc/widget/heroimage-block/heroimage-block.php:127
+#: ../kedavra/inc/widget/heroimage-block/heroimage-block.php:127
+msgid "The Button"
+msgstr ""
+
+#: inc/widget/html-block/html-block.php:8
+#: ../kedavra/inc/widget/html-block/html-block.php:8
+msgid "HTML Block"
+msgstr ""
+
+#: inc/widget/html-block/html-block.php:10
+#: ../kedavra/inc/widget/html-block/html-block.php:10
+msgid "Widget to show HTML"
+msgstr ""
+
+#: inc/widget/html-block/html-block.php:20
+#: ../kedavra/inc/widget/html-block/html-block.php:20
+msgid "HTML Content"
+msgstr ""
+
+#: inc/widget/html-block/html-block.php:28
+#: ../kedavra/inc/widget/html-block/html-block.php:28
+msgid "Text Align "
+msgstr ""
+
+#: inc/widget/html-block/html-block.php:39
+#: ../kedavra/inc/widget/html-block/html-block.php:39
+msgid "HTML Text Animation"
+msgstr ""
+
+#: inc/widget/image-block/image-block.php:8
+#: ../kedavra/inc/widget/image-block/image-block.php:8
+msgid "Image Block"
+msgstr ""
+
+#: inc/widget/image-block/image-block.php:10
+#: ../kedavra/inc/widget/image-block/image-block.php:10
+msgid "Widget to show Image"
+msgstr ""
+
+#: inc/widget/image-block/image-block.php:20
+#: ../kedavra/inc/widget/image-block/image-block.php:20
+msgid "Insert Image"
+msgstr ""
+
+#: inc/widget/image-block/image-block.php:28
+#: ../kedavra/inc/widget/image-block/image-block.php:28
+msgid "Image Animation"
+msgstr ""
+
+#: inc/widget/masonry-block/masonry-block.php:8
+#: ../kedavra/inc/widget/masonry-block/masonry-block.php:8
+msgid "Portfolio Masonry Block"
+msgstr ""
+
+#: inc/widget/masonry-block/masonry-block.php:10
+#: ../kedavra/inc/widget/masonry-block/masonry-block.php:10
+msgid "Widget to show portfolio"
+msgstr ""
+
+#: inc/widget/menu-block/menu-block.php:8
+#: ../kedavra/inc/widget/menu-block/menu-block.php:8
+msgid "Menu Block"
+msgstr ""
+
+#: inc/widget/menu-block/menu-block.php:10
+#: ../kedavra/inc/widget/menu-block/menu-block.php:10
+msgid "Widget to show Menu"
+msgstr ""
+
+#: inc/widget/menu-block/menu-block.php:20
+#: ../kedavra/inc/widget/menu-block/menu-block.php:20
+msgid "Menus"
+msgstr ""
+
+#: inc/widget/menu-block/menu-block.php:21
+#: ../kedavra/inc/widget/menu-block/menu-block.php:21
+msgid "menu"
+msgstr ""
+
+#: inc/widget/menu-block/menu-block.php:32
+#: ../kedavra/inc/widget/menu-block/menu-block.php:32
+msgid "Your Menu Title"
+msgstr ""
+
+#: inc/widget/menu-block/menu-block.php:38
+#: ../kedavra/inc/widget/menu-block/menu-block.php:38
+msgid "Menu Subtitle"
+msgstr ""
+
+#: inc/widget/menu-block/menu-block.php:44
+#: ../kedavra/inc/widget/menu-block/menu-block.php:44
+msgid "Menu Price"
+msgstr ""
+
+#: inc/widget/menu-block/menu-block.php:50
+#: ../kedavra/inc/widget/menu-block/menu-block.php:50
+msgid "Menu Title Color"
+msgstr ""
+
+#: inc/widget/menu-block/menu-block.php:56
+#: ../kedavra/inc/widget/menu-block/menu-block.php:56
+msgid "Menu Description Color"
+msgstr ""
+
+#: inc/widget/menu-block/menu-block.php:62
+#: ../kedavra/inc/widget/menu-block/menu-block.php:62
+msgid "Menu Price Color"
+msgstr ""
+
+#: inc/widget/menu-block/menu-block.php:68
+#: ../kedavra/inc/widget/menu-block/menu-block.php:68
+msgid "Menu Item Animation"
+msgstr ""
+
+#: inc/widget/newsletter-block/newsletter-block.php:8
+#: ../kedavra/inc/widget/newsletter-block/newsletter-block.php:8
+msgid "Newsletter Block"
+msgstr ""
+
+#: inc/widget/newsletter-block/newsletter-block.php:10
+#: ../kedavra/inc/widget/newsletter-block/newsletter-block.php:10
+msgid "Widget to show Newsletter Form"
+msgstr ""
+
+#: inc/widget/newsletter-block/newsletter-block.php:20
+#: ../kedavra/inc/widget/newsletter-block/newsletter-block.php:20
+msgid "Paste Newsletter ID here"
+msgstr ""
+
+#: inc/widget/partner-block/partner-block.php:8
+#: ../kedavra/inc/widget/partner-block/partner-block.php:8
+msgid "Partner Block"
+msgstr ""
+
+#: inc/widget/partner-block/partner-block.php:10
+#: ../kedavra/inc/widget/partner-block/partner-block.php:10
+msgid "Widget to show partner"
+msgstr ""
+
+#: inc/widget/partner-block/partner-block.php:20
+#: ../kedavra/inc/widget/partner-block/partner-block.php:20
+msgid "Partner Item Per Slide"
+msgstr ""
+
+#: inc/widget/partner-block/partner-block.php:26
+#: ../kedavra/inc/widget/partner-block/partner-block.php:26
+msgid "Partner"
+msgstr ""
+
+#: inc/widget/partner-block/partner-block.php:27
+#: ../kedavra/inc/widget/partner-block/partner-block.php:27
+msgid "Partner Item"
+msgstr ""
+
+#: inc/widget/partner-block/partner-block.php:37
+#: ../kedavra/inc/widget/partner-block/partner-block.php:37
+msgid "Partner Name"
+msgstr ""
+
+#: inc/widget/partner-block/partner-block.php:43
+#: ../kedavra/inc/widget/partner-block/partner-block.php:43
+msgid "Insert Partner Image"
+msgstr ""
+
+#: inc/widget/portfoliocustom-block/portfoliocustom-block.php:8
+#: ../kedavra/inc/widget/portfoliocustom-block/portfoliocustom-block.php:8
+msgid "Portfolio Custom Block"
+msgstr ""
+
+#: inc/widget/portfoliocustom-block/portfoliocustom-block.php:10
+#: ../kedavra/inc/widget/portfoliocustom-block/portfoliocustom-block.php:10
+msgid "Widget to show portfolio custom link"
+msgstr ""
+
+#: inc/widget/portfoliocustom-block/portfoliocustom-block.php:20
+#: ../kedavra/inc/widget/portfoliocustom-block/portfoliocustom-block.php:20
+msgid "Portfolio item to display"
+msgstr ""
+
+#: inc/widget/service-block/service-block.php:8
+#: ../kedavra/inc/widget/service-block/service-block.php:8
+msgid "Program Block"
+msgstr ""
+
+#: inc/widget/service-block/service-block.php:10
+#: ../kedavra/inc/widget/service-block/service-block.php:10
+msgid "Widget to show Program"
+msgstr ""
+
+#: inc/widget/service-block/service-block.php:20
+#: ../kedavra/inc/widget/service-block/service-block.php:20
+msgid "Programs"
+msgstr ""
+
+#: inc/widget/service-block/service-block.php:21
+#: ../kedavra/inc/widget/service-block/service-block.php:21
+msgid "program"
+msgstr ""
+
+#: inc/widget/service-block/service-block.php:32
+#: ../kedavra/inc/widget/service-block/service-block.php:32
+msgid "Insert Program Image"
+msgstr ""
+
+#: inc/widget/service-block/service-block.php:40
+#: ../kedavra/inc/widget/service-block/service-block.php:40
+msgid "Program Image Animation"
+msgstr ""
+
+#: inc/widget/service-block/service-block.php:127
+#: ../kedavra/inc/widget/service-block/service-block.php:127
+msgid "Your Program Title"
+msgstr ""
+
+#: inc/widget/service-block/service-block.php:133
+#: ../kedavra/inc/widget/service-block/service-block.php:133
+msgid "Program Price"
+msgstr ""
+
+#: inc/widget/service-block/service-block.php:139
+#: ../kedavra/inc/widget/service-block/service-block.php:139
+msgid "Program Description"
+msgstr ""
+
+#: inc/widget/service-block/service-block.php:147
+#: ../kedavra/inc/widget/service-block/service-block.php:147
+msgid "Program Text Animation"
+msgstr ""
+
+#: inc/widget/service-block/service-block.php:245
+#: ../kedavra/inc/widget/service-block/service-block.php:245
+msgid "Description Align "
+msgstr ""
+
+#: inc/widget/service-block/service-block.php:256
+#: ../kedavra/inc/widget/service-block/service-block.php:256
+msgid "Program Title Color"
+msgstr ""
+
+#: inc/widget/service-block/service-block.php:262
+#: ../kedavra/inc/widget/service-block/service-block.php:262
+msgid "Program Price Color"
+msgstr ""
+
+#: inc/widget/service-block/service-block.php:268
+#: ../kedavra/inc/widget/service-block/service-block.php:268
+msgid "Program Description Color"
+msgstr ""
+
+#: inc/widget/skill-block/skill-block.php:8
+#: ../kedavra/inc/widget/skill-block/skill-block.php:8
+msgid "Skill Block"
+msgstr ""
+
+#: inc/widget/skill-block/skill-block.php:10
+#: ../kedavra/inc/widget/skill-block/skill-block.php:10
+msgid "Widget to show skill bar"
+msgstr ""
+
+#: inc/widget/skill-block/skill-block.php:19
+#: ../kedavra/inc/widget/skill-block/skill-block.php:19
+msgid "Skills Title"
+msgstr ""
+
+#: inc/widget/skill-block/skill-block.php:25
+#: ../kedavra/inc/widget/skill-block/skill-block.php:25
+msgid "Skill Animation"
+msgstr ""
+
+#: inc/widget/skill-block/skill-block.php:39
+#: ../kedavra/inc/widget/skill-block/skill-block.php:39
+msgid "Skills"
+msgstr ""
+
+#: inc/widget/skill-block/skill-block.php:40
+#: ../kedavra/inc/widget/skill-block/skill-block.php:40
+msgid "skill"
+msgstr ""
+
+#: inc/widget/skill-block/skill-block.php:50
+#: ../kedavra/inc/widget/skill-block/skill-block.php:50
+msgid "Your Skill Name"
+msgstr ""
+
+#: inc/widget/skill-block/skill-block.php:56
+#: ../kedavra/inc/widget/skill-block/skill-block.php:56
+msgid "Insert Skill Value"
+msgstr ""
+
+#: inc/widget/skill-block/skill-block.php:65
+#: ../kedavra/inc/widget/skill-block/skill-block.php:65
+msgid "Skill Bar Color"
+msgstr ""
+
+#: inc/widget/slider-block/slider-block.php:8
+#: ../kedavra/inc/widget/slider-block/slider-block.php:8
+msgid "Hero Slider Block"
+msgstr ""
+
+#: inc/widget/slider-block/slider-block.php:10
+#: ../kedavra/inc/widget/slider-block/slider-block.php:10
+msgid "Widget to show hero slider"
+msgstr ""
+
+#: inc/widget/slider-block/slider-block.php:20
+#: ../kedavra/inc/widget/slider-block/slider-block.php:20
+msgid "Select slider type"
+msgstr ""
+
+#: inc/widget/slider-block/slider-block.php:27
+#: ../kedavra/inc/widget/slider-block/slider-block.php:27
+msgid "Bordered Slider"
+msgstr ""
+
+#: inc/widget/slider-block/slider-block.php:28
+#: ../kedavra/inc/widget/slider-block/slider-block.php:28
+msgid "Button Link Slider"
+msgstr ""
+
+#: inc/widget/slider-block/slider-block.php:34
+#: ../kedavra/inc/widget/slider-block/slider-block.php:34
+msgid "Hero Slider Overlay Color"
+msgstr ""
+
+#: inc/widget/slider-block/slider-block.php:54
+#: inc/widget/slider-block/slider-block.php:191
+#: ../kedavra/inc/widget/slider-block/slider-block.php:54
+#: ../kedavra/inc/widget/slider-block/slider-block.php:191
+msgid "Slides"
+msgstr ""
+
+#: inc/widget/slider-block/slider-block.php:55
+#: inc/widget/slider-block/slider-block.php:192
+#: ../kedavra/inc/widget/slider-block/slider-block.php:55
+#: ../kedavra/inc/widget/slider-block/slider-block.php:192
+msgid "Slider Item"
+msgstr ""
+
+#: inc/widget/slider-block/slider-block.php:69
+#: inc/widget/slider-block/slider-block.php:206
+#: ../kedavra/inc/widget/slider-block/slider-block.php:69
+#: ../kedavra/inc/widget/slider-block/slider-block.php:206
+msgid "Insert Hero Slider"
+msgstr ""
+
+#: inc/widget/slider-block/slider-block.php:77
+#: ../kedavra/inc/widget/slider-block/slider-block.php:77
+msgid "Your Hero Slider Title"
+msgstr ""
+
+#: inc/widget/slider-block/slider-block.php:91
+#: inc/widget/slider-block/slider-block.php:230
+#: ../kedavra/inc/widget/slider-block/slider-block.php:91
+#: ../kedavra/inc/widget/slider-block/slider-block.php:230
+msgid "Slider Content Animation Animation"
+msgstr ""
+
+#: inc/widget/slider-block/slider-block.php:213
+#: ../kedavra/inc/widget/slider-block/slider-block.php:213
+msgid "Slider Title (HTML allowed)"
+msgstr ""
+
+#: inc/widget/slider-block/slider-block.php:220
+#: ../kedavra/inc/widget/slider-block/slider-block.php:220
+msgid "Your Hero Slider Button"
+msgstr ""
+
+#: inc/widget/slider-block/slider-block.php:225
+#: ../kedavra/inc/widget/slider-block/slider-block.php:225
+msgid "Your Hero Slider Link"
+msgstr ""
+
+#: inc/widget/slogan-block/slogan-block.php:8
+#: ../kedavra/inc/widget/slogan-block/slogan-block.php:8
+msgid "Slogan Block"
+msgstr ""
+
+#: inc/widget/slogan-block/slogan-block.php:10
+#: ../kedavra/inc/widget/slogan-block/slogan-block.php:10
+msgid "Widget to show Slogan"
+msgstr ""
+
+#: inc/widget/slogan-block/slogan-block.php:20
+#: ../kedavra/inc/widget/slogan-block/slogan-block.php:20
+msgid "Slogan Block Animation"
+msgstr ""
+
+#: inc/widget/slogan-block/slogan-block.php:34
+#: ../kedavra/inc/widget/slogan-block/slogan-block.php:34
+msgid "Your Slogan Title"
+msgstr ""
+
+#: inc/widget/slogan-block/slogan-block.php:40
+#: ../kedavra/inc/widget/slogan-block/slogan-block.php:40
+msgid "Slogan Description"
+msgstr ""
+
+#: inc/widget/slogan-block/slogan-block.php:59
+#: ../kedavra/inc/widget/slogan-block/slogan-block.php:59
+msgid "Slogan Text Link"
+msgstr ""
+
+#: inc/widget/slogan-block/slogan-block.php:65
+#: ../kedavra/inc/widget/slogan-block/slogan-block.php:65
+msgid "Slogan Link"
+msgstr ""
+
+#: inc/widget/slogan-block/slogan-block.php:71
+#: ../kedavra/inc/widget/slogan-block/slogan-block.php:71
+msgid "Slogan Text Color"
+msgstr ""
+
+#: inc/widget/slogan-block/slogan-block.php:77
+#: ../kedavra/inc/widget/slogan-block/slogan-block.php:77
+msgid "Slogan Button Color"
+msgstr ""
+
+#: inc/widget/slogan-block/slogan-block.php:83
+#: ../kedavra/inc/widget/slogan-block/slogan-block.php:83
+msgid "Slogan Overlay Color"
+msgstr ""
+
+#: inc/widget/team-block/team-block.php:8
+#: ../kedavra/inc/widget/team-block/team-block.php:8
+msgid "Team Block"
+msgstr ""
+
+#: inc/widget/team-block/team-block.php:10
+#: ../kedavra/inc/widget/team-block/team-block.php:10
+msgid "Widget to show team post"
+msgstr ""
+
+#: inc/widget/team-block/team-block.php:20
+#: ../kedavra/inc/widget/team-block/team-block.php:20
+msgid "Select Team Block Type"
+msgstr ""
+
+#: inc/widget/team-block/team-block.php:23
+#: ../kedavra/inc/widget/team-block/team-block.php:23
+msgid "Team with inner overlay"
+msgstr ""
+
+#: inc/widget/team-block/team-block.php:24
+#: ../kedavra/inc/widget/team-block/team-block.php:24
+msgid "Team with image on right side"
+msgstr ""
+
+#: inc/widget/team-block/team-block.php:31
+#: ../kedavra/inc/widget/team-block/team-block.php:31
+msgid "Team to display"
+msgstr ""
+
+#: inc/widget/team-block/team-block.php:37
+#: ../kedavra/inc/widget/team-block/team-block.php:37
+msgid "Team per row"
+msgstr ""
+
+#: inc/widget/team-block/team-block.php:43
+#: ../kedavra/inc/widget/team-block/team-block.php:43
+msgid "Team Image Animation"
+msgstr ""
+
+#: inc/widget/team-block/team-block.php:57
+#: ../kedavra/inc/widget/team-block/team-block.php:57
+msgid "Team Description Animation"
+msgstr ""
+
+#: inc/widget/testimonial-block/testimonial-block.php:8
+#: ../kedavra/inc/widget/testimonial-block/testimonial-block.php:8
+msgid "Testimonial Block"
+msgstr ""
+
+#: inc/widget/testimonial-block/testimonial-block.php:10
+#: ../kedavra/inc/widget/testimonial-block/testimonial-block.php:10
+msgid "Block to show testimonial"
+msgstr ""
+
+#: inc/widget/testimonial-block/testimonial-block.php:19
+#: ../kedavra/inc/widget/testimonial-block/testimonial-block.php:19
+msgid "Testimonial Show Number"
+msgstr ""
+
+#: inc/widget/testimonial-block/testimonial-block.php:25
+#: ../kedavra/inc/widget/testimonial-block/testimonial-block.php:25
+msgid "Testimonial Author and Job Color"
+msgstr ""
+
+#: inc/widget/testimonial-block/testimonial-block.php:31
+#: ../kedavra/inc/widget/testimonial-block/testimonial-block.php:31
+msgid "Show Navigation"
+msgstr ""
+
+#: inc/widget/testimonial-block/testimonial-block.php:34
+#: ../kedavra/inc/widget/testimonial-block/testimonial-block.php:34
+msgid "Show"
+msgstr ""
+
+#: inc/widget/testimonial-block/testimonial-block.php:35
+#: ../kedavra/inc/widget/testimonial-block/testimonial-block.php:35
+msgid "Hidden"
+msgstr ""
+
+#: inc/widget/testimonial-block/testimonial-block.php:41
+#: ../kedavra/inc/widget/testimonial-block/testimonial-block.php:41
+msgid "Testimonial Slide Animation"
+msgstr ""
+
+#: inc/widget/testimonial-block/testimonial-block.php:44
+#: ../kedavra/inc/widget/testimonial-block/testimonial-block.php:44
+msgid "Slide"
+msgstr ""
+
+#: inc/widget/testimonial-block/testimonial-block.php:45
+#: ../kedavra/inc/widget/testimonial-block/testimonial-block.php:45
+msgid "Fade"
+msgstr ""
+
+#: inc/widget/title-block/title-block.php:8
+#: ../kedavra/inc/widget/title-block/title-block.php:8
+msgid "The Title Block"
+msgstr ""
+
+#: inc/widget/title-block/title-block.php:10
+#: ../kedavra/inc/widget/title-block/title-block.php:10
+msgid "Widget to show title"
+msgstr ""
+
+#: inc/widget/title-block/title-block.php:20
+#: ../kedavra/inc/widget/title-block/title-block.php:20
+msgid "Select Title Type"
+msgstr ""
+
+#: inc/widget/title-block/title-block.php:27
+#: ../kedavra/inc/widget/title-block/title-block.php:27
+msgid "No Formatting"
+msgstr ""
+
+#: inc/widget/title-block/title-block.php:28
+#: ../kedavra/inc/widget/title-block/title-block.php:28
+msgid "Bordered Background"
+msgstr ""
+
+#: inc/widget/title-block/title-block.php:29
+#: ../kedavra/inc/widget/title-block/title-block.php:29
+msgid "Subtitled Title"
+msgstr ""
+
+#: inc/widget/title-block/title-block.php:35
+#: ../kedavra/inc/widget/title-block/title-block.php:35
+msgid "Title Overlay Color"
+msgstr ""
+
+#: inc/widget/title-block/title-block.php:57
+#: ../kedavra/inc/widget/title-block/title-block.php:57
+msgid "The Title"
+msgstr ""
+
+#: inc/widget/title-block/title-block.php:63
+#: ../kedavra/inc/widget/title-block/title-block.php:63
+msgid "Text"
+msgstr ""
+
+#: inc/widget/title-block/title-block.php:67
+#: ../kedavra/inc/widget/title-block/title-block.php:67
+msgid "Subtitle Text (HTML Allowed)"
+msgstr ""
+
+#: inc/widget/title-block/title-block.php:74
+#: ../kedavra/inc/widget/title-block/title-block.php:74
+msgid "Color"
+msgstr ""
+
+#: inc/widget/title-block/title-block.php:90
+#: ../kedavra/inc/widget/title-block/title-block.php:90
+msgid "Font Style"
+msgstr ""
+
+#: inc/widget/title-block/title-block.php:93
+#: ../kedavra/inc/widget/title-block/title-block.php:93
+msgid "Default"
+msgstr ""
+
+#: inc/widget/title-block/title-block.php:94
+#: ../kedavra/inc/widget/title-block/title-block.php:94
+msgid "Italic"
+msgstr ""
+
+#: inc/widget/title-block/title-block.php:102
+#: ../kedavra/inc/widget/title-block/title-block.php:102
+msgid "The Title Animation"
+msgstr ""
+
+#: template/blog-sidebar-template.php:54
+#: ../kedavra/template/blog-sidebar-template.php:54
+msgid "By "
+msgstr ""
+
+#: template/blog-sidebar-template.php:56
+#: ../kedavra/template/blog-sidebar-template.php:56
+msgid " Comments"
+msgstr ""
+
+#: template/blog-sidebar-template.php:62
+#: ../kedavra/template/blog-sidebar-template.php:62
+msgid "Read More"
+msgstr ""
+
+#: template/gallery-template.php:34
+#: ../kedavra/template/gallery-template.php:34
+msgid "Prev"
+msgstr ""
+
+#: template/gallery-template.php:40
+#: ../kedavra/template/gallery-template.php:40
+msgid "Next"
+msgstr ""
+
+#: template/portfolio-grid-template.php:103
+#: ../kedavra/template/portfolio-grid-template.php:103
+msgid "Raised ."
+msgstr ""
+
+#: template/portfolio-grid-template.php:106
+#: ../kedavra/template/portfolio-grid-template.php:106
+msgid "Donors ."
+msgstr ""
+
+#: template/portfolio-grid-template.php:109
+#: ../kedavra/template/portfolio-grid-template.php:109
+msgid "Goal ."
+msgstr ""
